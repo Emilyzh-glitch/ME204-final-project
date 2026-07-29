@@ -1,0 +1,7448 @@
+[
+  {
+    "id": 475557,
+    "title": "Joker",
+    "imdb_id": "tt7286456",
+    "release_date": "2019-10-01",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 83036,
+        "logo_path": null,
+        "name": "Joint Effort",
+        "origin_country": "US"
+      },
+      {
+        "id": 79,
+        "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+        "name": "Village Roadshow Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 13240,
+        "logo_path": "/aTc07YaNHo8WNgkQSnvLmG6w4nW.png",
+        "name": "Bron Studios",
+        "origin_country": "CA"
+      },
+      {
+        "id": 128064,
+        "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+        "name": "DC Films",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 55000000,
+    "revenue": 1078958629,
+    "vote_average": 8.122,
+    "vote_count": 27972
+  },
+  {
+    "id": 76341,
+    "title": "Mad Max: Fury Road",
+    "imdb_id": "tt1392190",
+    "release_date": "2015-05-13",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 79,
+        "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+        "name": "Village Roadshow Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 28382,
+        "logo_path": "/eaQ9IuuaSNBeSdocdtGLvhXAHfg.png",
+        "name": "Kennedy Miller Mitchell",
+        "origin_country": "AU"
+      },
+      {
+        "id": 41624,
+        "logo_path": "/wzKxIeQKlMP0y5CaAw25MD6EQmf.png",
+        "name": "RatPac Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 150000000,
+    "revenue": 378858340,
+    "vote_average": 7.635,
+    "vote_count": 24294
+  },
+  {
+    "id": 297761,
+    "title": "Suicide Squad",
+    "imdb_id": "tt1386697",
+    "release_date": "2016-08-03",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 41624,
+        "logo_path": "/wzKxIeQKlMP0y5CaAw25MD6EQmf.png",
+        "name": "RatPac Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 128064,
+        "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+        "name": "DC Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 507,
+        "logo_path": "/aRmHe6GWxYMRCQljF75rn2B9Gv8.png",
+        "name": "Atlas Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 175000000,
+    "revenue": 749200054,
+    "vote_average": 5.917,
+    "vote_count": 22234
+  },
+  {
+    "id": 135397,
+    "title": "Jurassic World",
+    "imdb_id": "tt0369610",
+    "release_date": "2015-06-06",
+    "production_companies": [
+      {
+        "id": 56,
+        "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+        "name": "Amblin Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 923,
+        "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+        "name": "Legendary Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 150000000,
+    "revenue": 1671537444,
+    "vote_average": 6.703,
+    "vote_count": 21727
+  },
+  {
+    "id": 297762,
+    "title": "Wonder Woman",
+    "imdb_id": "tt0451279",
+    "release_date": "2017-05-30",
+    "production_companies": [
+      {
+        "id": 507,
+        "logo_path": "/aRmHe6GWxYMRCQljF75rn2B9Gv8.png",
+        "name": "Atlas Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 9995,
+        "logo_path": "/mAIGhOYhN4N2N0F7p4dbKhgXf3l.png",
+        "name": "Cruel & Unusual Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 128064,
+        "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+        "name": "DC Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 149000000,
+    "revenue": 823970682,
+    "vote_average": 7.207,
+    "vote_count": 21027
+  },
+  {
+    "id": 259316,
+    "title": "Fantastic Beasts and Where to Find Them",
+    "imdb_id": "tt3183660",
+    "release_date": "2016-11-16",
+    "production_companies": [
+      {
+        "id": 437,
+        "logo_path": "/nu20mtwbEIhUNnQ5NXVhHsNknZj.png",
+        "name": "Heyday Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 180000000,
+    "revenue": 809342332,
+    "vote_average": 7.309,
+    "vote_count": 19819
+  },
+  {
+    "id": 209112,
+    "title": "Batman v Superman: Dawn of Justice",
+    "imdb_id": "tt2975590",
+    "release_date": "2016-03-23",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 41624,
+        "logo_path": "/wzKxIeQKlMP0y5CaAw25MD6EQmf.png",
+        "name": "RatPac Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 507,
+        "logo_path": "/aRmHe6GWxYMRCQljF75rn2B9Gv8.png",
+        "name": "Atlas Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 9995,
+        "logo_path": "/mAIGhOYhN4N2N0F7p4dbKhgXf3l.png",
+        "name": "Cruel & Unusual Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 429,
+        "logo_path": "/4Y00XuSMuP1gimd0jP6JT57QbCI.png",
+        "name": "DC",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 250000000,
+    "revenue": 874362803,
+    "vote_average": 6.006,
+    "vote_count": 19157
+  },
+  {
+    "id": 374720,
+    "title": "Dunkirk",
+    "imdb_id": "tt5013056",
+    "release_date": "2017-07-19",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 9996,
+        "logo_path": "/3tvBqYsBhxWeHlu62SIJ1el93O7.png",
+        "name": "Syncopy",
+        "origin_country": "GB"
+      },
+      {
+        "id": 41624,
+        "logo_path": "/wzKxIeQKlMP0y5CaAw25MD6EQmf.png",
+        "name": "RatPac Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 150000000,
+    "revenue": 549136737,
+    "vote_average": 7.45,
+    "vote_count": 17723
+  },
+  {
+    "id": 333339,
+    "title": "Ready Player One",
+    "imdb_id": "tt1677720",
+    "release_date": "2018-03-28",
+    "production_companies": [
+      {
+        "id": 56,
+        "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+        "name": "Amblin Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 79,
+        "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+        "name": "Village Roadshow Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2609,
+        "logo_path": "/ocmrEBfmecJvrbIM4C50vjYWtlq.png",
+        "name": "De Line Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 444,
+        "logo_path": null,
+        "name": "Dune Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 175000000,
+    "revenue": 607274134,
+    "vote_average": 7.589,
+    "vote_count": 17121
+  },
+  {
+    "id": 321612,
+    "title": "Beauty and the Beast",
+    "imdb_id": "tt2771200",
+    "release_date": "2017-03-16",
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 10227,
+        "logo_path": "/3YfRy3DBl4abcqkzGx4RVNz12yl.png",
+        "name": "Mandeville Films",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 160000000,
+    "revenue": 1266115964,
+    "vote_average": 6.967,
+    "vote_count": 16081
+  },
+  {
+    "id": 447332,
+    "title": "A Quiet Place",
+    "imdb_id": "tt6644200",
+    "release_date": "2018-04-03",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2481,
+        "logo_path": "/vOQg26GjR0LnkN1Ph9uyog1UuOE.png",
+        "name": "Platinum Dunes",
+        "origin_country": "US"
+      },
+      {
+        "id": 29312,
+        "logo_path": "/6yOnS9H3msf0cz0E5REbfX4Ehdz.png",
+        "name": "Sunday Night Productions",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 17000000,
+    "revenue": 340955294,
+    "vote_average": 7.395,
+    "vote_count": 15499
+  },
+  {
+    "id": 297802,
+    "title": "Aquaman",
+    "imdb_id": "tt1477834",
+    "release_date": "2018-12-07",
+    "production_companies": [
+      {
+        "id": 11565,
+        "logo_path": "/odU3l6csuBmXUrzFm6araUgEUHQ.png",
+        "name": "The Safran Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 128064,
+        "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+        "name": "DC Films",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 160000000,
+    "revenue": 1152028393,
+    "vote_average": 6.866,
+    "vote_count": 15039
+  },
+  {
+    "id": 141052,
+    "title": "Justice League",
+    "imdb_id": "tt0974015",
+    "release_date": "2017-11-15",
+    "production_companies": [
+      {
+        "id": 9995,
+        "logo_path": "/mAIGhOYhN4N2N0F7p4dbKhgXf3l.png",
+        "name": "Cruel & Unusual Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 507,
+        "logo_path": "/aRmHe6GWxYMRCQljF75rn2B9Gv8.png",
+        "name": "Atlas Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 41624,
+        "logo_path": "/wzKxIeQKlMP0y5CaAw25MD6EQmf.png",
+        "name": "RatPac Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 128064,
+        "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+        "name": "DC Films",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 300000000,
+    "revenue": 661326987,
+    "vote_average": 6.07,
+    "vote_count": 13776
+  },
+  {
+    "id": 166426,
+    "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+    "imdb_id": "tt1790809",
+    "release_date": "2017-05-23",
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 130,
+        "logo_path": "/c9dVHPOL3cqCr2593Ahk0nEKTEM.png",
+        "name": "Jerry Bruckheimer Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 2691,
+        "logo_path": "/Uas6Nps2Y58s9eRyoTHXgfEuZj.png",
+        "name": "Infinitum Nihil",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 230000000,
+    "revenue": 795922298,
+    "vote_average": 6.662,
+    "vote_count": 12929
+  },
+  {
+    "id": 351286,
+    "title": "Jurassic World: Fallen Kingdom",
+    "imdb_id": "tt4881806",
+    "release_date": "2018-06-06",
+    "production_companies": [
+      {
+        "id": 56,
+        "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+        "name": "Amblin Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 170000000,
+    "revenue": 1310469037,
+    "vote_average": 6.531,
+    "vote_count": 12872
+  },
+  {
+    "id": 216015,
+    "title": "Fifty Shades of Grey",
+    "imdb_id": "tt2322441",
+    "release_date": "2015-02-11",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 10146,
+        "logo_path": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png",
+        "name": "Focus Features",
+        "origin_country": "US"
+      },
+      {
+        "id": 11370,
+        "logo_path": null,
+        "name": "Michael De Luca Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 7626,
+        "logo_path": "/4839MGss4pPAalhqqYH1AD1CnEj.png",
+        "name": "Trigger Street Productions",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 40000000,
+    "revenue": 569651467,
+    "vote_average": 5.867,
+    "vote_count": 12472
+  },
+  {
+    "id": 332562,
+    "title": "A Star Is Born",
+    "imdb_id": "tt1517451",
+    "release_date": "2018-10-03",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 81368,
+        "logo_path": "/hadEBzUTj8ZzmaC1yh8MrXKXqR5.png",
+        "name": "Live Nation Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 21,
+        "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+        "name": "Metro-Goldwyn-Mayer",
+        "origin_country": "US"
+      },
+      {
+        "id": 16774,
+        "logo_path": "/uD6Ls0FSJwo13ekpz91s1TRpkGq.png",
+        "name": "Peters Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 975,
+        "logo_path": "/fknQoaiVO632mD4QMdJFmP3Gbda.png",
+        "name": "Gerber Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 83036,
+        "logo_path": null,
+        "name": "Joint Effort",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 36000000,
+    "revenue": 436388866,
+    "vote_average": 7.492,
+    "vote_count": 12287
+  },
+  {
+    "id": 414906,
+    "title": "The Batman",
+    "imdb_id": "tt1877830",
+    "release_date": "2022-03-01",
+    "production_companies": [
+      {
+        "id": 101405,
+        "logo_path": "/iusVPF9AJD1DiHEWbZEXgn1hpOf.png",
+        "name": "6th & Idaho Motion Picture Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 119245,
+        "logo_path": "/6F45uVsKpNYANcWvplyhgIFezFU.png",
+        "name": "Dylan Clark Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 128064,
+        "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+        "name": "DC Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 185000000,
+    "revenue": 772775278,
+    "vote_average": 7.664,
+    "vote_count": 12196
+  },
+  {
+    "id": 872585,
+    "title": "Oppenheimer",
+    "imdb_id": "tt15398776",
+    "release_date": "2023-07-19",
+    "production_companies": [
+      {
+        "id": 9996,
+        "logo_path": "/3tvBqYsBhxWeHlu62SIJ1el93O7.png",
+        "name": "Syncopy",
+        "origin_country": "GB"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 507,
+        "logo_path": "/aRmHe6GWxYMRCQljF75rn2B9Gv8.png",
+        "name": "Atlas Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 15123,
+        "logo_path": null,
+        "name": "Breakheart Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 239215,
+        "logo_path": null,
+        "name": "Peters Creek Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 100000000,
+    "revenue": 952000000,
+    "vote_average": 8.023,
+    "vote_count": 12086
+  },
+  {
+    "id": 338952,
+    "title": "Fantastic Beasts: The Crimes of Grindelwald",
+    "imdb_id": "tt4123430",
+    "release_date": "2018-11-14",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 437,
+        "logo_path": "/nu20mtwbEIhUNnQ5NXVhHsNknZj.png",
+        "name": "Heyday Films",
+        "origin_country": "GB"
+      }
+    ],
+    "budget": 200000000,
+    "revenue": 654900000,
+    "vote_average": 6.833,
+    "vote_count": 11553
+  },
+  {
+    "id": 168259,
+    "title": "Furious 7",
+    "imdb_id": "tt2820852",
+    "release_date": "2015-04-01",
+    "production_companies": [
+      {
+        "id": 333,
+        "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+        "name": "Original Film",
+        "origin_country": "US"
+      },
+      {
+        "id": 1225,
+        "logo_path": "/rIxhJMR7oK8b2fMakmTfRLY2TZv.png",
+        "name": "One Race",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 190000000,
+    "revenue": 1515400000,
+    "vote_average": 7.216,
+    "vote_count": 11381
+  },
+  {
+    "id": 346698,
+    "title": "Barbie",
+    "imdb_id": "tt1517268",
+    "release_date": "2023-07-19",
+    "production_companies": [
+      {
+        "id": 82968,
+        "logo_path": "/gRROMOG5bpF6TIDMbfaa5gnFFzl.png",
+        "name": "LuckyChap Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 437,
+        "logo_path": "/nu20mtwbEIhUNnQ5NXVhHsNknZj.png",
+        "name": "Heyday Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 181486,
+        "logo_path": null,
+        "name": "NB/GG Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 6220,
+        "logo_path": "/cAj69EL1zSXmZH6STbMGZrunyMD.png",
+        "name": "Mattel",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 145000000,
+    "revenue": 1447138421,
+    "vote_average": 6.916,
+    "vote_count": 11292
+  },
+  {
+    "id": 577922,
+    "title": "Tenet",
+    "imdb_id": "tt6723592",
+    "release_date": "2020-08-22",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 9996,
+        "logo_path": "/3tvBqYsBhxWeHlu62SIJ1el93O7.png",
+        "name": "Syncopy",
+        "origin_country": "GB"
+      }
+    ],
+    "budget": 205000000,
+    "revenue": 365304105,
+    "vote_average": 7.175,
+    "vote_count": 11280
+  },
+  {
+    "id": 361743,
+    "title": "Top Gun: Maverick",
+    "imdb_id": "tt1745960",
+    "release_date": "2022-05-21",
+    "production_companies": [
+      {
+        "id": 82819,
+        "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
+        "name": "Skydance Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 10288,
+        "logo_path": "/Aszf09kIVXR6cwG9lwjZIawbYVS.png",
+        "name": "Don Simpson/Jerry Bruckheimer Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 170000000,
+    "revenue": 1488732821,
+    "vote_average": 8.158,
+    "vote_count": 11241
+  },
+  {
+    "id": 211672,
+    "title": "Minions",
+    "imdb_id": "tt2293640",
+    "release_date": "2015-06-17",
+    "production_companies": [
+      {
+        "id": 6704,
+        "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+        "name": "Illumination",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 74000000,
+    "revenue": 1159457503,
+    "vote_average": 6.421,
+    "vote_count": 11184
+  },
+  {
+    "id": 791373,
+    "title": "Zack Snyder's Justice League",
+    "imdb_id": "tt12361974",
+    "release_date": "2021-03-18",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 114152,
+        "logo_path": "/xYfrnGFXxrEy5x5OVThunxHYScK.png",
+        "name": "The Stone Quarry",
+        "origin_country": "US"
+      },
+      {
+        "id": 507,
+        "logo_path": "/aRmHe6GWxYMRCQljF75rn2B9Gv8.png",
+        "name": "Atlas Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 103376,
+        "logo_path": "/zAyfGEx1LJOkwNTrHugnWHzLRE.png",
+        "name": "Access Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 444,
+        "logo_path": null,
+        "name": "Dune Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 128064,
+        "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+        "name": "DC Films",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 70000000,
+    "revenue": 0,
+    "vote_average": 8.1,
+    "vote_count": 10961
+  },
+  {
+    "id": 502356,
+    "title": "The Super Mario Bros. Movie",
+    "imdb_id": "tt6718170",
+    "release_date": "2023-04-05",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 6704,
+        "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+        "name": "Illumination",
+        "origin_country": "US"
+      },
+      {
+        "id": 12288,
+        "logo_path": "/e4dQAqZD374H5EuM0W1ljEBWTKy.png",
+        "name": "Nintendo",
+        "origin_country": "JP"
+      }
+    ],
+    "budget": 100000000,
+    "revenue": 1360879735,
+    "vote_average": 7.602,
+    "vote_count": 10934
+  },
+  {
+    "id": 495764,
+    "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+    "imdb_id": "tt7713068",
+    "release_date": "2020-02-05",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 128064,
+        "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+        "name": "DC Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 82968,
+        "logo_path": "/gRROMOG5bpF6TIDMbfaa5gnFFzl.png",
+        "name": "LuckyChap Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 101831,
+        "logo_path": "/l6x0SkRVp9ksGgRhboZbkI9w7PM.png",
+        "name": "Clubhouse Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 103462,
+        "logo_path": null,
+        "name": "Kroll & Co Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 75000000,
+    "revenue": 205537933,
+    "vote_average": 6.87,
+    "vote_count": 10890
+  },
+  {
+    "id": 337339,
+    "title": "The Fate of the Furious",
+    "imdb_id": "tt4630562",
+    "release_date": "2017-04-12",
+    "production_companies": [
+      {
+        "id": 333,
+        "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+        "name": "Original Film",
+        "origin_country": "US"
+      },
+      {
+        "id": 1225,
+        "logo_path": "/rIxhJMR7oK8b2fMakmTfRLY2TZv.png",
+        "name": "One Race",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 250000000,
+    "revenue": 1236000000,
+    "vote_average": 6.852,
+    "vote_count": 10887
+  },
+  {
+    "id": 420818,
+    "title": "The Lion King",
+    "imdb_id": "tt6105098",
+    "release_date": "2019-07-12",
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 7297,
+        "logo_path": "/l29JYQVZbTcjZXoz4CUYFpKRmM3.png",
+        "name": "Fairview Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 260000000,
+    "revenue": 1662020819,
+    "vote_average": 7.095,
+    "vote_count": 10814
+  },
+  {
+    "id": 420817,
+    "title": "Aladdin",
+    "imdb_id": "tt6139732",
+    "release_date": "2019-05-22",
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 118854,
+        "logo_path": "/g9LPNlQFoDcHjfnvrEqFmeIaDrZ.png",
+        "name": "Rideback",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 183000000,
+    "revenue": 1054304000,
+    "vote_average": 7.081,
+    "vote_count": 10705
+  },
+  {
+    "id": 454626,
+    "title": "Sonic the Hedgehog",
+    "imdb_id": "tt3794354",
+    "release_date": "2020-02-12",
+    "production_companies": [
+      {
+        "id": 333,
+        "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+        "name": "Original Film",
+        "origin_country": "US"
+      },
+      {
+        "id": 10644,
+        "logo_path": "/ocLZIdYJBppuCt1rhYEb2jbpt5F.png",
+        "name": "Blur Studio",
+        "origin_country": "US"
+      },
+      {
+        "id": 77884,
+        "logo_path": "/dP2lxVNctD5Cried0IWVqgrO2o9.png",
+        "name": "Marza Animation Planet",
+        "origin_country": "JP"
+      },
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 113750,
+        "logo_path": "/A3QVZ9Ah0yI2d2GiXUFpdlbTgyr.png",
+        "name": "SEGA",
+        "origin_country": "JP"
+      },
+      {
+        "id": 168701,
+        "logo_path": "/vWdZFT4V64CCv12D10m44duQjyg.png",
+        "name": "SEGA of America",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 85000000,
+    "revenue": 319715683,
+    "vote_average": 7.279,
+    "vote_count": 10467
+  },
+  {
+    "id": 337404,
+    "title": "Cruella",
+    "imdb_id": "tt3228774",
+    "release_date": "2021-05-26",
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 3538,
+        "logo_path": null,
+        "name": "Gunn Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 2527,
+        "logo_path": "/mNSqvPrlkAcdQlEZ3Ttmx75Z8Xw.png",
+        "name": "Marc Platt Productions",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 200000000,
+    "revenue": 233503234,
+    "vote_average": 7.972,
+    "vote_count": 10174
+  },
+  {
+    "id": 318846,
+    "title": "The Big Short",
+    "imdb_id": "tt1596363",
+    "release_date": "2015-12-11",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 508,
+        "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
+        "name": "Regency Enterprises",
+        "origin_country": "US"
+      },
+      {
+        "id": 81,
+        "logo_path": "/8wOfUhA7vwU2gbPjQy7Vv3EiF0o.png",
+        "name": "Plan B Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 28000000,
+    "revenue": 133346506,
+    "vote_average": 7.368,
+    "vote_count": 9936
+  },
+  {
+    "id": 177677,
+    "title": "Mission: Impossible - Rogue Nation",
+    "imdb_id": "tt2381249",
+    "release_date": "2015-07-28",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 11461,
+        "logo_path": "/p9FoEt5shEKRWRKVIlvFaEmRnun.png",
+        "name": "Bad Robot",
+        "origin_country": "US"
+      },
+      {
+        "id": 69485,
+        "logo_path": null,
+        "name": "Odin",
+        "origin_country": ""
+      },
+      {
+        "id": 82819,
+        "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
+        "name": "Skydance Media",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 150000000,
+    "revenue": 682716636,
+    "vote_average": 7.225,
+    "vote_count": 9807
+  },
+  {
+    "id": 436969,
+    "title": "The Suicide Squad",
+    "imdb_id": "tt6334354",
+    "release_date": "2021-07-28",
+    "production_companies": [
+      {
+        "id": 128064,
+        "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+        "name": "DC Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 507,
+        "logo_path": "/aRmHe6GWxYMRCQljF75rn2B9Gv8.png",
+        "name": "Atlas Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 11565,
+        "logo_path": "/odU3l6csuBmXUrzFm6araUgEUHQ.png",
+        "name": "The Safran Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 185000000,
+    "revenue": 168717425,
+    "vote_average": 7.456,
+    "vote_count": 9711
+  },
+  {
+    "id": 300668,
+    "title": "Annihilation",
+    "imdb_id": "tt2798920",
+    "release_date": "2018-02-22",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 82819,
+        "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
+        "name": "Skydance Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 284,
+        "logo_path": "/1lEgJkA2GckrMvzhfqENfkr04vO.png",
+        "name": "DNA Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 258,
+        "logo_path": "/tMI4xPwgxfNaNId3h9dOcHGU1NI.png",
+        "name": "Scott Rudin Productions",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 40000000,
+    "revenue": 43070915,
+    "vote_average": 6.446,
+    "vote_count": 9465
+  },
+  {
+    "id": 47971,
+    "title": "xXx: Return of Xander Cage",
+    "imdb_id": "tt1293847",
+    "release_date": "2017-01-13",
+    "production_companies": [
+      {
+        "id": 88943,
+        "logo_path": null,
+        "name": "Rox Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 497,
+        "logo_path": "/wmxHM7w6JxbPwaopC6Sl4QSG2uH.png",
+        "name": "Revolution Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 88944,
+        "logo_path": null,
+        "name": "Maple Cage Productions",
+        "origin_country": "CA"
+      },
+      {
+        "id": 83645,
+        "logo_path": null,
+        "name": "Huahua Media",
+        "origin_country": "CN"
+      },
+      {
+        "id": 105052,
+        "logo_path": "/v0s09QaxgCrrXrbz2LctvSfRKRi.png",
+        "name": "Roth-Kirschenbaum Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 3407,
+        "logo_path": "/iVMjKOFyRvm9PW45lW1wW6TSvnj.png",
+        "name": "Shanghai Film Group",
+        "origin_country": "CN"
+      },
+      {
+        "id": 1225,
+        "logo_path": "/rIxhJMR7oK8b2fMakmTfRLY2TZv.png",
+        "name": "One Race",
+        "origin_country": "US"
+      },
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 85000000,
+    "revenue": 346118277,
+    "vote_average": 6.1,
+    "vote_count": 9279
+  },
+  {
+    "id": 353081,
+    "title": "Mission: Impossible - Fallout",
+    "imdb_id": "tt4912910",
+    "release_date": "2018-07-25",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 11461,
+        "logo_path": "/p9FoEt5shEKRWRKVIlvFaEmRnun.png",
+        "name": "Bad Robot",
+        "origin_country": "US"
+      },
+      {
+        "id": 82819,
+        "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
+        "name": "Skydance Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 21777,
+        "logo_path": null,
+        "name": "TC Productions",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 178000000,
+    "revenue": 824171374,
+    "vote_average": 7.45,
+    "vote_count": 9234
+  },
+  {
+    "id": 464052,
+    "title": "Wonder Woman 1984",
+    "imdb_id": "tt7126948",
+    "release_date": "2020-12-16",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 114152,
+        "logo_path": "/xYfrnGFXxrEy5x5OVThunxHYScK.png",
+        "name": "The Stone Quarry",
+        "origin_country": "US"
+      },
+      {
+        "id": 128064,
+        "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+        "name": "DC Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 507,
+        "logo_path": "/aRmHe6GWxYMRCQljF75rn2B9Gv8.png",
+        "name": "Atlas Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 200000000,
+    "revenue": 169601036,
+    "vote_average": 6.364,
+    "vote_count": 9138
+  },
+  {
+    "id": 254128,
+    "title": "San Andreas",
+    "imdb_id": "tt2126355",
+    "release_date": "2015-05-27",
+    "production_companies": [
+      {
+        "id": 12,
+        "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 79,
+        "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+        "name": "Village Roadshow Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 34081,
+        "logo_path": null,
+        "name": "Flynn Picture Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 110000000,
+    "revenue": 473990832,
+    "vote_average": 6.248,
+    "vote_count": 9100
+  },
+  {
+    "id": 87101,
+    "title": "Terminator Genisys",
+    "imdb_id": "tt1340138",
+    "release_date": "2015-06-23",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 82819,
+        "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
+        "name": "Skydance Media",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 155000000,
+    "revenue": 440603537,
+    "vote_average": 5.959,
+    "vote_count": 9057
+  },
+  {
+    "id": 402900,
+    "title": "Ocean's Eight",
+    "imdb_id": "tt5164214",
+    "release_date": "2018-06-07",
+    "production_companies": [
+      {
+        "id": 79,
+        "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+        "name": "Village Roadshow Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 1163,
+        "logo_path": null,
+        "name": "Larger Than Life Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 104907,
+        "logo_path": null,
+        "name": "Rahway Road Productions",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 70000000,
+    "revenue": 297718711,
+    "vote_average": 6.953,
+    "vote_count": 8876
+  },
+  {
+    "id": 315837,
+    "title": "Ghost in the Shell",
+    "imdb_id": "tt1219827",
+    "release_date": "2017-03-29",
+    "production_companies": [
+      {
+        "id": 93466,
+        "logo_path": null,
+        "name": "Weying Galaxy Entertainment",
+        "origin_country": "HK"
+      },
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 3407,
+        "logo_path": "/iVMjKOFyRvm9PW45lW1wW6TSvnj.png",
+        "name": "Shanghai Film Group",
+        "origin_country": "CN"
+      },
+      {
+        "id": 7294,
+        "logo_path": "/kK4PRgceWp9KNrycD8xx8seWxYU.png",
+        "name": "Reliance Entertainment",
+        "origin_country": "IN"
+      },
+      {
+        "id": 17449,
+        "logo_path": null,
+        "name": "Grosvenor Park Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 44311,
+        "logo_path": null,
+        "name": "Steven Paul Production",
+        "origin_country": "US"
+      },
+      {
+        "id": 83645,
+        "logo_path": null,
+        "name": "Huahua Media",
+        "origin_country": "CN"
+      },
+      {
+        "id": 88981,
+        "logo_path": null,
+        "name": "Seaside Entertainment",
+        "origin_country": ""
+      },
+      {
+        "id": 7,
+        "logo_path": "/zcKhWbxFJ4CohZ9dLBMxmOArTVn.png",
+        "name": "DreamWorks Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 14439,
+        "logo_path": null,
+        "name": "Arad Productions",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 110000000,
+    "revenue": 169801921,
+    "vote_average": 6.109,
+    "vote_count": 8636
+  },
+  {
+    "id": 328111,
+    "title": "The Secret Life of Pets",
+    "imdb_id": "tt2709768",
+    "release_date": "2016-06-18",
+    "production_companies": [
+      {
+        "id": 6704,
+        "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+        "name": "Illumination",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 75000000,
+    "revenue": 875457937,
+    "vote_average": 6.3,
+    "vote_count": 8567
+  },
+  {
+    "id": 339846,
+    "title": "Baywatch",
+    "imdb_id": "tt1469304",
+    "release_date": "2017-05-25",
+    "production_companies": [
+      {
+        "id": 90835,
+        "logo_path": null,
+        "name": "Uncharted",
+        "origin_country": "US"
+      },
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 34081,
+        "logo_path": null,
+        "name": "Flynn Picture Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 62029,
+        "logo_path": null,
+        "name": "Fremantle Productions",
+        "origin_country": "GB"
+      },
+      {
+        "id": 73669,
+        "logo_path": "/pZ1sOLrUxvCvW1jODdCFgU6RxUA.png",
+        "name": "Seven Bucks Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 82819,
+        "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
+        "name": "Skydance Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 2364,
+        "logo_path": "/oZyR5maGM96jReVgW7oJ7mXN8ts.png",
+        "name": "The Montecito Picture Company",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 69000000,
+    "revenue": 177900000,
+    "vote_average": 6.081,
+    "vote_count": 8560
+  },
+  {
+    "id": 278927,
+    "title": "The Jungle Book",
+    "imdb_id": "tt3040964",
+    "release_date": "2016-04-07",
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 7297,
+        "logo_path": "/l29JYQVZbTcjZXoz4CUYFpKRmM3.png",
+        "name": "Fairview Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 20478,
+        "logo_path": "/gSS2OBc6dRsK2ewRx5lcwnARrpl.png",
+        "name": "Moving Picture Company",
+        "origin_country": "GB"
+      }
+    ],
+    "budget": 175000000,
+    "revenue": 966550600,
+    "vote_average": 6.877,
+    "vote_count": 8558
+  },
+  {
+    "id": 338970,
+    "title": "Tomb Raider",
+    "imdb_id": "tt1365519",
+    "release_date": "2018-03-05",
+    "production_companies": [
+      {
+        "id": 10038,
+        "logo_path": "/nCueXKwYIEXrZ5ofqSJBO1YcmRr.png",
+        "name": "Square Enix",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3281,
+        "logo_path": "/8tMybAieh64uzvm8knSjXOFX8Qc.png",
+        "name": "GK Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 21,
+        "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+        "name": "Metro-Goldwyn-Mayer",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 94000000,
+    "revenue": 274650803,
+    "vote_average": 6.365,
+    "vote_count": 8420
+  },
+  {
+    "id": 337167,
+    "title": "Fifty Shades Freed",
+    "imdb_id": "tt4477536",
+    "release_date": "2018-01-17",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 11370,
+        "logo_path": null,
+        "name": "Michael De Luca Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 214539,
+        "logo_path": "/4gwffulJi8mbMOEWhB7l96bqPnO.png",
+        "name": "Perfect World Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 55000000,
+    "revenue": 371985018,
+    "vote_average": 6.67,
+    "vote_count": 8396
+  },
+  {
+    "id": 256591,
+    "title": "Focus",
+    "imdb_id": "tt2381941",
+    "release_date": "2015-02-25",
+    "production_companies": [
+      {
+        "id": 41624,
+        "logo_path": "/wzKxIeQKlMP0y5CaAw25MD6EQmf.png",
+        "name": "RatPac Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 47586,
+        "logo_path": null,
+        "name": "Zaftig Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 813,
+        "logo_path": "/xz25F3NFQOQJCH47VscbrcI10Om.png",
+        "name": "Di Novi Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 50100000,
+    "revenue": 153962963,
+    "vote_average": 6.872,
+    "vote_count": 8342
+  },
+  {
+    "id": 345940,
+    "title": "The Meg",
+    "imdb_id": "tt4779682",
+    "release_date": "2018-08-09",
+    "production_companies": [
+      {
+        "id": 56242,
+        "logo_path": "/1YORRYmg7hgYIgoJek8jU3cykuQ.png",
+        "name": "Apelles Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 48778,
+        "logo_path": "/tto2UKph873Xh1ytxfNBgCxT8NO.png",
+        "name": "Gravity Pictures",
+        "origin_country": "CN"
+      },
+      {
+        "id": 435,
+        "logo_path": "/AjzK0s2w1GtLfR4hqCjVSYi0Sr8.png",
+        "name": "di Bonaventura Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 107790,
+        "logo_path": null,
+        "name": "Flagship Entertainment Group",
+        "origin_country": "CN"
+      },
+      {
+        "id": 56241,
+        "logo_path": null,
+        "name": "Maeday Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 150000000,
+    "revenue": 530517320,
+    "vote_average": 6.252,
+    "vote_count": 8269
+  },
+  {
+    "id": 458723,
+    "title": "Us",
+    "imdb_id": "tt6857112",
+    "release_date": "2019-03-14",
+    "production_companies": [
+      {
+        "id": 88934,
+        "logo_path": "/5Be96V9WXa7jJInSDPqDOqMBA0o.png",
+        "name": "Monkeypaw Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 214539,
+        "logo_path": "/4gwffulJi8mbMOEWhB7l96bqPnO.png",
+        "name": "Perfect World Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 3172,
+        "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+        "name": "Blumhouse Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 72725,
+        "logo_path": "/gflhJ4lNROXuYMeN4giNrVQvtDw.png",
+        "name": "QC Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 20000000,
+    "revenue": 256071218,
+    "vote_average": 6.944,
+    "vote_count": 8167
+  },
+  {
+    "id": 214756,
+    "title": "Ted 2",
+    "imdb_id": "tt2637276",
+    "release_date": "2015-06-25",
+    "production_companies": [
+      {
+        "id": 44783,
+        "logo_path": null,
+        "name": "Smart Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 8789,
+        "logo_path": "/1smGq637YoNgkeBZXt7TAPDYGda.png",
+        "name": "Fuzzy Door Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 13778,
+        "logo_path": null,
+        "name": "Bluegrass Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 2531,
+        "logo_path": "/9MfCJ2G6Nrf9yyRj4tAgPmMiDcn.png",
+        "name": "MRC",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 68000000,
+    "revenue": 215863606,
+    "vote_average": 6.326,
+    "vote_count": 8063
+  },
+  {
+    "id": 341174,
+    "title": "Fifty Shades Darker",
+    "imdb_id": "tt4465564",
+    "release_date": "2017-02-08",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 11370,
+        "logo_path": null,
+        "name": "Michael De Luca Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 214539,
+        "logo_path": "/4gwffulJi8mbMOEWhB7l96bqPnO.png",
+        "name": "Perfect World Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 55000000,
+    "revenue": 381545846,
+    "vote_average": 6.473,
+    "vote_count": 7980
+  },
+  {
+    "id": 384018,
+    "title": "Fast & Furious Presents: Hobbs & Shaw",
+    "imdb_id": "tt6806448",
+    "release_date": "2019-07-31",
+    "production_companies": [
+      {
+        "id": 25998,
+        "logo_path": null,
+        "name": "Chris Morgan Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 73669,
+        "logo_path": "/pZ1sOLrUxvCvW1jODdCFgU6RxUA.png",
+        "name": "Seven Bucks Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 200000000,
+    "revenue": 760098996,
+    "vote_average": 6.827,
+    "vote_count": 7840
+  },
+  {
+    "id": 363676,
+    "title": "Sully",
+    "imdb_id": "tt3263904",
+    "release_date": "2016-09-07",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 171,
+        "logo_path": "/4kkNA3JQivhAh4dPtQwyWf7HRGy.png",
+        "name": "Malpaso Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 41624,
+        "logo_path": "/wzKxIeQKlMP0y5CaAw25MD6EQmf.png",
+        "name": "RatPac Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 65359,
+        "logo_path": null,
+        "name": "Flashlight Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 862,
+        "logo_path": "/vdK6ZhC2CSW36j0VPEavRxOpbEg.png",
+        "name": "The Kennedy/Marshall Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 79,
+        "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+        "name": "Village Roadshow Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 60000000,
+    "revenue": 240800000,
+    "vote_average": 7.205,
+    "vote_count": 7781
+  },
+  {
+    "id": 385128,
+    "title": "F9",
+    "imdb_id": "tt5433138",
+    "release_date": "2021-05-19",
+    "production_companies": [
+      {
+        "id": 333,
+        "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+        "name": "Original Film",
+        "origin_country": "US"
+      },
+      {
+        "id": 1225,
+        "logo_path": "/rIxhJMR7oK8b2fMakmTfRLY2TZv.png",
+        "name": "One Race",
+        "origin_country": "US"
+      },
+      {
+        "id": 34530,
+        "logo_path": "/5gUhbUIVYd94aIhHJJFMfBxkD0.png",
+        "name": "Perfect Storm Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 105052,
+        "logo_path": "/v0s09QaxgCrrXrbz2LctvSfRKRi.png",
+        "name": "Roth-Kirschenbaum Films",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 200000000,
+    "revenue": 726229501,
+    "vote_average": 6.991,
+    "vote_count": 7774
+  },
+  {
+    "id": 282035,
+    "title": "The Mummy",
+    "imdb_id": "tt2345759",
+    "release_date": "2017-06-06",
+    "production_companies": [
+      {
+        "id": 90517,
+        "logo_path": "/uq7itRpnnb1LX1VDDaJg64pKFmT.png",
+        "name": "Secret Hideout",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 188646,
+        "logo_path": null,
+        "name": "Conspiracy Factory",
+        "origin_country": "US"
+      },
+      {
+        "id": 19857,
+        "logo_path": null,
+        "name": "Sean Daniel Company",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 125000000,
+    "revenue": 409231607,
+    "vote_average": 5.521,
+    "vote_count": 7709
+  },
+  {
+    "id": 324852,
+    "title": "Despicable Me 3",
+    "imdb_id": "tt3469046",
+    "release_date": "2017-06-15",
+    "production_companies": [
+      {
+        "id": 6704,
+        "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+        "name": "Illumination",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 80000000,
+    "revenue": 1034800131,
+    "vote_average": 6.47,
+    "vote_count": 7695
+  },
+  {
+    "id": 520763,
+    "title": "A Quiet Place Part II",
+    "imdb_id": "tt8332922",
+    "release_date": "2021-05-21",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2481,
+        "logo_path": "/vOQg26GjR0LnkN1Ph9uyog1UuOE.png",
+        "name": "Platinum Dunes",
+        "origin_country": "US"
+      },
+      {
+        "id": 29312,
+        "logo_path": "/6yOnS9H3msf0cz0E5REbfX4Ehdz.png",
+        "name": "Sunday Night Productions",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 55000000,
+    "revenue": 297372261,
+    "vote_average": 7.431,
+    "vote_count": 7502
+  },
+  {
+    "id": 150689,
+    "title": "Cinderella",
+    "imdb_id": "tt1661199",
+    "release_date": "2015-03-06",
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 28788,
+        "logo_path": "/Aqomtf9oh5dKtxBNEagkdlp3aGv.png",
+        "name": "Genre Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 46339,
+        "logo_path": null,
+        "name": "Beagle Pug Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 47706,
+        "logo_path": null,
+        "name": "Allison Shearmur Productions",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 95000000,
+    "revenue": 543514353,
+    "vote_average": 6.826,
+    "vote_count": 7455
+  },
+  {
+    "id": 302946,
+    "title": "The Accountant",
+    "imdb_id": "tt2140479",
+    "release_date": "2016-10-13",
+    "production_companies": [
+      {
+        "id": 5357,
+        "logo_path": "/19A0Ilxeh1bWMlyMtMgGzcNBn07.png",
+        "name": "Zero Gravity Management",
+        "origin_country": "US"
+      },
+      {
+        "id": 8600,
+        "logo_path": null,
+        "name": "Electric City Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 41624,
+        "logo_path": "/wzKxIeQKlMP0y5CaAw25MD6EQmf.png",
+        "name": "RatPac Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 44000000,
+    "revenue": 155160045,
+    "vote_average": 7.138,
+    "vote_count": 7456
+  },
+  {
+    "id": 158852,
+    "title": "Tomorrowland",
+    "imdb_id": "tt1964418",
+    "release_date": "2015-05-19",
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 59778,
+        "logo_path": null,
+        "name": "A113",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 190000000,
+    "revenue": 209200000,
+    "vote_average": 6.298,
+    "vote_count": 7405
+  },
+  {
+    "id": 257211,
+    "title": "The Intern",
+    "imdb_id": "tt2361509",
+    "release_date": "2015-09-23",
+    "production_companies": [
+      {
+        "id": 41624,
+        "logo_path": "/wzKxIeQKlMP0y5CaAw25MD6EQmf.png",
+        "name": "RatPac Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 735,
+        "logo_path": null,
+        "name": "Waverly Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 35000000,
+    "revenue": 194564672,
+    "vote_average": 7.229,
+    "vote_count": 7392
+  },
+  {
+    "id": 76757,
+    "title": "Jupiter Ascending",
+    "imdb_id": "tt1617661",
+    "release_date": "2015-02-04",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 79,
+        "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+        "name": "Village Roadshow Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 41624,
+        "logo_path": "/wzKxIeQKlMP0y5CaAw25MD6EQmf.png",
+        "name": "RatPac Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 450,
+        "logo_path": "/5SQqMrfCZPWdVE0q25DISvKwToE.png",
+        "name": "Anarchos Productions",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 176000000,
+    "revenue": 184000000,
+    "vote_average": 5.472,
+    "vote_count": 7168
+  },
+  {
+    "id": 188927,
+    "title": "Star Trek Beyond",
+    "imdb_id": "tt2660888",
+    "release_date": "2016-07-07",
+    "production_companies": [
+      {
+        "id": 82819,
+        "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
+        "name": "Skydance Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 11461,
+        "logo_path": "/p9FoEt5shEKRWRKVIlvFaEmRnun.png",
+        "name": "Bad Robot",
+        "origin_country": "US"
+      },
+      {
+        "id": 34530,
+        "logo_path": "/5gUhbUIVYd94aIhHJJFMfBxkD0.png",
+        "name": "Perfect Storm Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 83644,
+        "logo_path": null,
+        "name": "Sneaky Shark",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 185000000,
+    "revenue": 343471816,
+    "vote_average": 6.793,
+    "vote_count": 7167
+  },
+  {
+    "id": 381283,
+    "title": "mother!",
+    "imdb_id": "tt5109784",
+    "release_date": "2017-09-13",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 7503,
+        "logo_path": "/3K8wbNkTn7O4wX89ucnp1ZYR1XF.png",
+        "name": "Protozoa Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 30000000,
+    "revenue": 44516999,
+    "vote_average": 6.956,
+    "vote_count": 7164
+  },
+  {
+    "id": 507086,
+    "title": "Jurassic World Dominion",
+    "imdb_id": "tt8041270",
+    "release_date": "2022-06-01",
+    "production_companies": [
+      {
+        "id": 56,
+        "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+        "name": "Amblin Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 658800000,
+    "revenue": 1004004592,
+    "vote_average": 6.602,
+    "vote_count": 7161
+  },
+  {
+    "id": 436270,
+    "title": "Black Adam",
+    "imdb_id": "tt6443346",
+    "release_date": "2022-10-19",
+    "production_companies": [
+      {
+        "id": 12,
+        "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 34081,
+        "logo_path": null,
+        "name": "Flynn Picture Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 128064,
+        "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+        "name": "DC Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 73669,
+        "logo_path": "/pZ1sOLrUxvCvW1jODdCFgU6RxUA.png",
+        "name": "Seven Bucks Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 200000000,
+    "revenue": 393452111,
+    "vote_average": 6.787,
+    "vote_count": 7124
+  },
+  {
+    "id": 337401,
+    "title": "Mulan",
+    "imdb_id": "tt4566758",
+    "release_date": "2020-09-04",
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 103698,
+        "logo_path": "/qS01bSMe274ecTdrgyO3BBvzfKK.png",
+        "name": "Good Fear",
+        "origin_country": "US"
+      },
+      {
+        "id": 89254,
+        "logo_path": null,
+        "name": "Jason T. Reed Productions",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 200000000,
+    "revenue": 69965374,
+    "vote_average": 6.823,
+    "vote_count": 7096
+  },
+  {
+    "id": 203801,
+    "title": "The Man from U.N.C.L.E.",
+    "imdb_id": "tt1638355",
+    "release_date": "2015-08-13",
+    "production_companies": [
+      {
+        "id": 23202,
+        "logo_path": null,
+        "name": "Wigram Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 1302,
+        "logo_path": "/zC3b70ixHh89qJIikLQPEvLqbPM.png",
+        "name": "Davis Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 41624,
+        "logo_path": "/wzKxIeQKlMP0y5CaAw25MD6EQmf.png",
+        "name": "RatPac Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 75000000,
+    "revenue": 110045109,
+    "vote_average": 7.079,
+    "vote_count": 6929
+  },
+  {
+    "id": 241259,
+    "title": "Alice Through the Looking Glass",
+    "imdb_id": "tt2567026",
+    "release_date": "2016-05-25",
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 16314,
+        "logo_path": "/17ybtw4lx2cub7te99mZjoQCmGj.png",
+        "name": "Roth Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 598,
+        "logo_path": null,
+        "name": "Team Todd",
+        "origin_country": "US"
+      },
+      {
+        "id": 8601,
+        "logo_path": "/kqubCH3sfBAk4znUj7hjqv8ffgi.png",
+        "name": "Tim Burton Productions",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 170000000,
+    "revenue": 299457024,
+    "vote_average": 6.6,
+    "vote_count": 6828
+  },
+  {
+    "id": 335988,
+    "title": "Transformers: The Last Knight",
+    "imdb_id": "tt3371366",
+    "release_date": "2017-06-16",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 435,
+        "logo_path": "/AjzK0s2w1GtLfR4hqCjVSYi0Sr8.png",
+        "name": "di Bonaventura Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 38833,
+        "logo_path": "/pye6AL28X3u0v2z4V5Eav7BGbMa.png",
+        "name": "Ian Bryce Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 38831,
+        "logo_path": null,
+        "name": "DeSanto/Murphy Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 2598,
+        "logo_path": "/i42C5gRq7XqlG4S9vkchuJZfrBn.png",
+        "name": "Hasbro",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 217000000,
+    "revenue": 605425157,
+    "vote_average": 6.06,
+    "vote_count": 6802
+  },
+  {
+    "id": 424783,
+    "title": "Bumblebee",
+    "imdb_id": "tt4701182",
+    "release_date": "2018-11-22",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 57031,
+        "logo_path": "/1ai3zndjxL3BonlOJVS75GjTOuW.png",
+        "name": "Allspark Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 6734,
+        "logo_path": "/u55FhlG6vFNzSVKLcmnFFwLb2cc.png",
+        "name": "Bay Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 435,
+        "logo_path": "/AjzK0s2w1GtLfR4hqCjVSYi0Sr8.png",
+        "name": "di Bonaventura Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 38831,
+        "logo_path": null,
+        "name": "DeSanto/Murphy Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 81620,
+        "logo_path": "/7LkIVuWBVScdujpKhBPx1TMnPQE.png",
+        "name": "Tencent Pictures",
+        "origin_country": "CN"
+      }
+    ],
+    "budget": 135000000,
+    "revenue": 467989645,
+    "vote_average": 6.72,
+    "vote_count": 6702
+  },
+  {
+    "id": 508439,
+    "title": "Onward",
+    "imdb_id": "tt7146812",
+    "release_date": "2020-02-29",
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 3,
+        "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+        "name": "Pixar",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 200000000,
+    "revenue": 141888276,
+    "vote_average": 7.6,
+    "vote_count": 6634
+  },
+  {
+    "id": 440021,
+    "title": "Happy Death Day",
+    "imdb_id": "tt5308322",
+    "release_date": "2017-10-12",
+    "production_companies": [
+      {
+        "id": 23592,
+        "logo_path": null,
+        "name": "Vesuvius Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 3172,
+        "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+        "name": "Blumhouse Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 96377,
+        "logo_path": "/6B3ggX8aVsyp2t9MUpSriEEyev1.png",
+        "name": "Digital Riot Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 4800000,
+    "revenue": 125479266,
+    "vote_average": 6.66,
+    "vote_count": 6623
+  },
+  {
+    "id": 624860,
+    "title": "The Matrix Resurrections",
+    "imdb_id": "tt10838180",
+    "release_date": "2021-12-16",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 79,
+        "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+        "name": "Village Roadshow Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 84764,
+        "logo_path": "/bFehzkqLxP4ImZY521vFH8lZf1W.png",
+        "name": "Venus Castina Productions",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 190000000,
+    "revenue": 156497322,
+    "vote_average": 6.327,
+    "vote_count": 6575
+  },
+  {
+    "id": 258489,
+    "title": "The Legend of Tarzan",
+    "imdb_id": "tt0918940",
+    "release_date": "2016-06-29",
+    "production_companies": [
+      {
+        "id": 79,
+        "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+        "name": "Village Roadshow Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 552,
+        "logo_path": "/9dGdLfm3GteWeUDtD9c9tvlidUG.png",
+        "name": "Dark Horse Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 46339,
+        "logo_path": null,
+        "name": "Beagle Pug Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 2596,
+        "logo_path": "/755EAcJW7MqKFpCPgbWicsb2QV6.png",
+        "name": "Jerry Weintraub Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 41624,
+        "logo_path": "/wzKxIeQKlMP0y5CaAw25MD6EQmf.png",
+        "name": "RatPac Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 86565,
+        "logo_path": null,
+        "name": "Riche Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 180000000,
+    "revenue": 356743061,
+    "vote_average": 5.923,
+    "vote_count": 6566
+  },
+  {
+    "id": 420809,
+    "title": "Maleficent: Mistress of Evil",
+    "imdb_id": "tt4777008",
+    "release_date": "2019-10-16",
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 16314,
+        "logo_path": "/17ybtw4lx2cub7te99mZjoQCmGj.png",
+        "name": "Roth Films",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 185000000,
+    "revenue": 491730089,
+    "vote_average": 7.296,
+    "vote_count": 6546
+  },
+  {
+    "id": 385687,
+    "title": "Fast X",
+    "imdb_id": "tt5433140",
+    "release_date": "2023-05-17",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 333,
+        "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+        "name": "Original Film",
+        "origin_country": "US"
+      },
+      {
+        "id": 1225,
+        "logo_path": "/rIxhJMR7oK8b2fMakmTfRLY2TZv.png",
+        "name": "One Race",
+        "origin_country": "US"
+      },
+      {
+        "id": 34530,
+        "logo_path": "/5gUhbUIVYd94aIhHJJFMfBxkD0.png",
+        "name": "Perfect Storm Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 340000000,
+    "revenue": 704709660,
+    "vote_average": 6.988,
+    "vote_count": 6404
+  },
+  {
+    "id": 451048,
+    "title": "Jungle Cruise",
+    "imdb_id": "tt0870154",
+    "release_date": "2021-07-28",
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 73669,
+        "logo_path": "/pZ1sOLrUxvCvW1jODdCFgU6RxUA.png",
+        "name": "Seven Bucks Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 1302,
+        "logo_path": "/zC3b70ixHh89qJIikLQPEvLqbPM.png",
+        "name": "Davis Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 34081,
+        "logo_path": null,
+        "name": "Flynn Picture Company",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 200000000,
+    "revenue": 220889446,
+    "vote_average": 7.282,
+    "vote_count": 6230
+  },
+  {
+    "id": 274857,
+    "title": "King Arthur: Legend of the Sword",
+    "imdb_id": "tt1972591",
+    "release_date": "2017-05-10",
+    "production_companies": [
+      {
+        "id": 79,
+        "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+        "name": "Village Roadshow Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 433,
+        "logo_path": "/iafkKMpcRfEXq9a4sQf0h6tg2E2.png",
+        "name": "Weed Road Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 23202,
+        "logo_path": null,
+        "name": "Wigram Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 25577,
+        "logo_path": "/2trboP7Exx3LEQqSHoo1sAmsC1i.png",
+        "name": "Safehouse Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 175000000,
+    "revenue": 149175066,
+    "vote_average": 6.558,
+    "vote_count": 6111
+  },
+  {
+    "id": 756999,
+    "title": "The Black Phone",
+    "imdb_id": "tt7144666",
+    "release_date": "2022-06-16",
+    "production_companies": [
+      {
+        "id": 3172,
+        "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+        "name": "Blumhouse Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 162439,
+        "logo_path": "/h9hG1svKeylr9KqUOGmO4i3wRP0.png",
+        "name": "Crooked Highway",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 16000000,
+    "revenue": 161441914,
+    "vote_average": 7.515,
+    "vote_count": 5938
+  },
+  {
+    "id": 675353,
+    "title": "Sonic the Hedgehog 2",
+    "imdb_id": "tt12412888",
+    "release_date": "2022-03-30",
+    "production_companies": [
+      {
+        "id": 333,
+        "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+        "name": "Original Film",
+        "origin_country": "US"
+      },
+      {
+        "id": 10644,
+        "logo_path": "/ocLZIdYJBppuCt1rhYEb2jbpt5F.png",
+        "name": "Blur Studio",
+        "origin_country": "US"
+      },
+      {
+        "id": 77884,
+        "logo_path": "/dP2lxVNctD5Cried0IWVqgrO2o9.png",
+        "name": "Marza Animation Planet",
+        "origin_country": "JP"
+      },
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 113750,
+        "logo_path": "/A3QVZ9Ah0yI2d2GiXUFpdlbTgyr.png",
+        "name": "SEGA",
+        "origin_country": "JP"
+      },
+      {
+        "id": 168701,
+        "logo_path": "/vWdZFT4V64CCv12D10m44duQjyg.png",
+        "name": "SEGA of America",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 110000000,
+    "revenue": 405421518,
+    "vote_average": 7.428,
+    "vote_count": 5932
+  },
+  {
+    "id": 290859,
+    "title": "Terminator: Dark Fate",
+    "imdb_id": "tt6450804",
+    "release_date": "2019-10-23",
+    "production_companies": [
+      {
+        "id": 25,
+        "logo_path": "/nM2MfoMqzJQRiSynsDabOtFKetD.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      },
+      {
+        "id": 82819,
+        "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
+        "name": "Skydance Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 81620,
+        "logo_path": "/7LkIVuWBVScdujpKhBPx1TMnPQE.png",
+        "name": "Tencent Pictures",
+        "origin_country": "CN"
+      },
+      {
+        "id": 22213,
+        "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+        "name": "TSG Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 574,
+        "logo_path": "/8wdmrfGcDx3TJxYiiDksLzAW4pB.png",
+        "name": "Lightstorm Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 185000000,
+    "revenue": 261119292,
+    "vote_average": 6.421,
+    "vote_count": 5754
+  },
+  {
+    "id": 369972,
+    "title": "First Man",
+    "imdb_id": "tt1213641",
+    "release_date": "2018-10-10",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 7,
+        "logo_path": "/zcKhWbxFJ4CohZ9dLBMxmOArTVn.png",
+        "name": "DreamWorks Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 12292,
+        "logo_path": "/5J93SHsuvIV32AE9oSbMi02pqw9.png",
+        "name": "Temple Hill Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 214539,
+        "logo_path": "/4gwffulJi8mbMOEWhB7l96bqPnO.png",
+        "name": "Perfect World Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 70000000,
+    "revenue": 105713218,
+    "vote_average": 7.042,
+    "vote_count": 5720
+  },
+  {
+    "id": 311324,
+    "title": "The Great Wall",
+    "imdb_id": "tt2034800",
+    "release_date": "2016-12-16",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 507,
+        "logo_path": "/aRmHe6GWxYMRCQljF75rn2B9Gv8.png",
+        "name": "Atlas Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 48873,
+        "logo_path": null,
+        "name": "Le Vision Pictures",
+        "origin_country": "CN"
+      },
+      {
+        "id": 923,
+        "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+        "name": "Legendary Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 86433,
+        "logo_path": "/vdoZv53v57vAzriHOEtGBJWCMGC.png",
+        "name": "Legendary East",
+        "origin_country": "CN"
+      },
+      {
+        "id": 2270,
+        "logo_path": "/7osqu50JpFIh0klZU0s1CrnNqcc.png",
+        "name": "China Film Group Corporation",
+        "origin_country": "CN"
+      }
+    ],
+    "budget": 150000000,
+    "revenue": 331957105,
+    "vote_average": 6.033,
+    "vote_count": 5599
+  },
+  {
+    "id": 308266,
+    "title": "War Dogs",
+    "imdb_id": "tt2005151",
+    "release_date": "2016-08-18",
+    "production_companies": [
+      {
+        "id": 1557,
+        "logo_path": "/ccz9bqCu3jSFKbPFnfWmjAKZLBL.png",
+        "name": "The Mark Gordon Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 83036,
+        "logo_path": null,
+        "name": "Joint Effort",
+        "origin_country": "US"
+      },
+      {
+        "id": 41624,
+        "logo_path": "/wzKxIeQKlMP0y5CaAw25MD6EQmf.png",
+        "name": "RatPac Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 50000000,
+    "revenue": 86234523,
+    "vote_average": 6.946,
+    "vote_count": 5565
+  },
+  {
+    "id": 254470,
+    "title": "Pitch Perfect 2",
+    "imdb_id": "tt2848292",
+    "release_date": "2015-05-07",
+    "production_companies": [
+      {
+        "id": 12365,
+        "logo_path": "/nwjOaV5QmJ7cbXOBRG4wf8AVeUx.png",
+        "name": "Brownstone Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 12026,
+        "logo_path": "/l1Y8SRH3EaElU2niZQLT3I8tOFp.png",
+        "name": "Gold Circle Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 29000000,
+    "revenue": 287144079,
+    "vote_average": 6.8,
+    "vote_count": 5546
+  },
+  {
+    "id": 316727,
+    "title": "The Purge: Election Year",
+    "imdb_id": "tt4094724",
+    "release_date": "2016-06-29",
+    "production_companies": [
+      {
+        "id": 729,
+        "logo_path": "/hNxGdbddbsDDnEWJ7RNLcGCRSLQ.png",
+        "name": "Why Not Productions",
+        "origin_country": "FR"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 3172,
+        "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+        "name": "Blumhouse Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 2481,
+        "logo_path": "/vOQg26GjR0LnkN1Ph9uyog1UuOE.png",
+        "name": "Platinum Dunes",
+        "origin_country": "US"
+      },
+      {
+        "id": 138783,
+        "logo_path": "/yxGIUMfUlxJ7yG6wwI0EOHzHLhy.png",
+        "name": "Man in a Tree Productions",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 10000000,
+    "revenue": 118587880,
+    "vote_average": 6.38,
+    "vote_count": 5537
+  },
+  {
+    "id": 453405,
+    "title": "Gemini Man",
+    "imdb_id": "tt1025100",
+    "release_date": "2019-10-02",
+    "production_companies": [
+      {
+        "id": 82819,
+        "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
+        "name": "Skydance Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 130,
+        "logo_path": "/c9dVHPOL3cqCr2593Ahk0nEKTEM.png",
+        "name": "Jerry Bruckheimer Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 102774,
+        "logo_path": "/9novy7zPpam3XVmfE3jXG4MexAr.png",
+        "name": "Fosun Pictures",
+        "origin_country": "CN"
+      },
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 69484,
+        "logo_path": "/2xtmvbEse87LM7OJXVksv7DToZx.png",
+        "name": "Alibaba Pictures Group",
+        "origin_country": "CN"
+      }
+    ],
+    "budget": 140000000,
+    "revenue": 173469516,
+    "vote_average": 6.262,
+    "vote_count": 5507
+  },
+  {
+    "id": 324849,
+    "title": "The Lego Batman Movie",
+    "imdb_id": "tt4116284",
+    "release_date": "2017-02-08",
+    "production_companies": [
+      {
+        "id": 2723,
+        "logo_path": "/rB0dyszYRRR3SAG1tfNRzXoYDYq.png",
+        "name": "Lin Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 8089,
+        "logo_path": "/kEUAzsG2hZcCV7rmSCozgLhGWaa.png",
+        "name": "Animal Logic",
+        "origin_country": "AU"
+      },
+      {
+        "id": 9993,
+        "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+        "name": "DC Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 77973,
+        "logo_path": "/eUZ0kfE4uyO0JYIrjgUSOqWPqjK.png",
+        "name": "Lord Miller",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 4081,
+        "logo_path": "/9Q0SyrhQD61wWbz5KJOkL6tu2mg.png",
+        "name": "The LEGO Group",
+        "origin_country": "DK"
+      },
+      {
+        "id": 25120,
+        "logo_path": "/6RLMWBcGF2COzjjBORPUy705yF7.png",
+        "name": "Warner Animation Group",
+        "origin_country": "US"
+      },
+      {
+        "id": 41624,
+        "logo_path": "/wzKxIeQKlMP0y5CaAw25MD6EQmf.png",
+        "name": "RatPac Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 80000000,
+    "revenue": 311950384,
+    "vote_average": 7.253,
+    "vote_count": 5488
+  },
+  {
+    "id": 504172,
+    "title": "The Mule",
+    "imdb_id": "tt7959026",
+    "release_date": "2018-12-14",
+    "production_companies": [
+      {
+        "id": 81121,
+        "logo_path": "/1z9ocv9A1qlXhH1ehq2hFqIl0J5.png",
+        "name": "Imperative Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 13240,
+        "logo_path": "/aTc07YaNHo8WNgkQSnvLmG6w4nW.png",
+        "name": "Bron Studios",
+        "origin_country": "CA"
+      },
+      {
+        "id": 171,
+        "logo_path": "/4kkNA3JQivhAh4dPtQwyWf7HRGy.png",
+        "name": "Malpaso Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 50000000,
+    "revenue": 174800000,
+    "vote_average": 6.87,
+    "vote_count": 5410
+  },
+  {
+    "id": 343611,
+    "title": "Jack Reacher: Never Go Back",
+    "imdb_id": "tt3393786",
+    "release_date": "2016-10-19",
+    "production_companies": [
+      {
+        "id": 82819,
+        "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
+        "name": "Skydance Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 83645,
+        "logo_path": null,
+        "name": "Huahua Media",
+        "origin_country": "CN"
+      },
+      {
+        "id": 3407,
+        "logo_path": "/iVMjKOFyRvm9PW45lW1wW6TSvnj.png",
+        "name": "Shanghai Film Group",
+        "origin_country": "CN"
+      },
+      {
+        "id": 21777,
+        "logo_path": null,
+        "name": "TC Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 60000000,
+    "revenue": 162100000,
+    "vote_average": 6.027,
+    "vote_count": 5400
+  },
+  {
+    "id": 447200,
+    "title": "Skyscraper",
+    "imdb_id": "tt5758778",
+    "release_date": "2018-07-11",
+    "production_companies": [
+      {
+        "id": 34081,
+        "logo_path": null,
+        "name": "Flynn Picture Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 923,
+        "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+        "name": "Legendary Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 73669,
+        "logo_path": "/pZ1sOLrUxvCvW1jODdCFgU6RxUA.png",
+        "name": "Seven Bucks Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 125000000,
+    "revenue": 304870828,
+    "vote_average": 6.311,
+    "vote_count": 5392
+  },
+  {
+    "id": 667538,
+    "title": "Transformers: Rise of the Beasts",
+    "imdb_id": "tt5090568",
+    "release_date": "2023-06-06",
+    "production_companies": [
+      {
+        "id": 82819,
+        "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
+        "name": "Skydance Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 435,
+        "logo_path": "/AjzK0s2w1GtLfR4hqCjVSYi0Sr8.png",
+        "name": "di Bonaventura Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 6734,
+        "logo_path": "/u55FhlG6vFNzSVKLcmnFFwLb2cc.png",
+        "name": "Bay Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 114732,
+        "logo_path": "/tNCbisMxO5mX2X2bOQxHHQZVYnT.png",
+        "name": "New Republic Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 38831,
+        "logo_path": null,
+        "name": "DeSanto/Murphy Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 2598,
+        "logo_path": "/i42C5gRq7XqlG4S9vkchuJZfrBn.png",
+        "name": "Hasbro",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 195000000,
+    "revenue": 441381193,
+    "vote_average": 7.169,
+    "vote_count": 5339
+  },
+  {
+    "id": 253412,
+    "title": "Everest",
+    "imdb_id": "tt2719848",
+    "release_date": "2015-09-10",
+    "production_companies": [
+      {
+        "id": 10246,
+        "logo_path": "/rREvQNWAxkDfY9CDn2c5YxEMPdP.png",
+        "name": "Cross Creek Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 10163,
+        "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+        "name": "Working Title Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 10221,
+        "logo_path": "/99VfWRgKasZoyK9UVB39gnYvFrZ.png",
+        "name": "Walden Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 62693,
+        "logo_path": "/i8mR4YqKiyDvxwmpSqzly9tQ31f.png",
+        "name": "RVK Studios",
+        "origin_country": "IS"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 40106,
+        "logo_path": null,
+        "name": "Free State Pictures",
+        "origin_country": ""
+      }
+    ],
+    "budget": 55000000,
+    "revenue": 203427584,
+    "vote_average": 6.825,
+    "vote_count": 5286
+  },
+  {
+    "id": 274855,
+    "title": "Geostorm",
+    "imdb_id": "tt1981128",
+    "release_date": "2017-10-12",
+    "production_companies": [
+      {
+        "id": 101832,
+        "logo_path": "/vO7CKIeogFxphT1CHkUIhjEXf2C.png",
+        "name": "Twisted Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 82819,
+        "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
+        "name": "Skydance Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 41624,
+        "logo_path": "/wzKxIeQKlMP0y5CaAw25MD6EQmf.png",
+        "name": "RatPac Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 3241,
+        "logo_path": "/kRAMCgp7zAmd1UnCPBHiEiopSm9.png",
+        "name": "Electric Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 14362,
+        "logo_path": null,
+        "name": "October Pictures",
+        "origin_country": "HK"
+      }
+    ],
+    "budget": 120000000,
+    "revenue": 221600160,
+    "vote_average": 6.126,
+    "vote_count": 5248
+  },
+  {
+    "id": 428078,
+    "title": "Mortal Engines",
+    "imdb_id": "tt1571234",
+    "release_date": "2018-11-27",
+    "production_companies": [
+      {
+        "id": 1938,
+        "logo_path": "/Tmc9JLmLPTSQUgsMP4BjCN8Off.png",
+        "name": "Scholastic Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 105645,
+        "logo_path": null,
+        "name": "Silvertongue Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 11,
+        "logo_path": "/6FAuASQHybRkZUk08p9PzSs9ezM.png",
+        "name": "WingNut Films",
+        "origin_country": "NZ"
+      },
+      {
+        "id": 2531,
+        "logo_path": "/9MfCJ2G6Nrf9yyRj4tAgPmMiDcn.png",
+        "name": "MRC",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 100000000,
+    "revenue": 83869818,
+    "vote_average": 6.243,
+    "vote_count": 5239
+  },
+  {
+    "id": 575264,
+    "title": "Mission: Impossible - Dead Reckoning Part One",
+    "imdb_id": "tt9603212",
+    "release_date": "2023-07-08",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 82819,
+        "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
+        "name": "Skydance Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 21777,
+        "logo_path": null,
+        "name": "TC Productions",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 220000000,
+    "revenue": 571125435,
+    "vote_average": 7.503,
+    "vote_count": 5223
+  },
+  {
+    "id": 338953,
+    "title": "Fantastic Beasts: The Secrets of Dumbledore",
+    "imdb_id": "tt4123432",
+    "release_date": "2022-04-06",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 437,
+        "logo_path": "/nu20mtwbEIhUNnQ5NXVhHsNknZj.png",
+        "name": "Heyday Films",
+        "origin_country": "GB"
+      }
+    ],
+    "budget": 200000000,
+    "revenue": 407200000,
+    "vote_average": 6.627,
+    "vote_count": 5158
+  },
+  {
+    "id": 424139,
+    "title": "Halloween",
+    "imdb_id": "tt1502407",
+    "release_date": "2018-10-18",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 3172,
+        "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+        "name": "Blumhouse Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 15822,
+        "logo_path": "/fNHvjC0DGO46kz7GFYRoWo91lcY.png",
+        "name": "Trancas International Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 20848,
+        "logo_path": "/xfQxrdf3WumiLoaMS2F3xWO6nKF.png",
+        "name": "Rough House Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 14,
+        "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+        "name": "Miramax",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 10000000,
+    "revenue": 259939869,
+    "vote_average": 6.565,
+    "vote_count": 5104
+  },
+  {
+    "id": 298618,
+    "title": "The Flash",
+    "imdb_id": "tt0439572",
+    "release_date": "2023-06-13",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 152809,
+        "logo_path": "/bdtAEMJpIaVW78c78POabARpotx.png",
+        "name": "Double Dream",
+        "origin_country": "US"
+      },
+      {
+        "id": 170335,
+        "logo_path": null,
+        "name": "The Disco Factory",
+        "origin_country": "US"
+      },
+      {
+        "id": 128064,
+        "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+        "name": "DC Films",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 220000000,
+    "revenue": 271333313,
+    "vote_average": 6.621,
+    "vote_count": 5094
+  },
+  {
+    "id": 290595,
+    "title": "The Huntsman: Winter's War",
+    "imdb_id": "tt2381991",
+    "release_date": "2016-04-06",
+    "production_companies": [
+      {
+        "id": 16314,
+        "logo_path": "/17ybtw4lx2cub7te99mZjoQCmGj.png",
+        "name": "Roth Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 10338,
+        "logo_path": "/a8HjeCqXlm96IKSHvwaBPTMmAIp.png",
+        "name": "Perfect World Pictures",
+        "origin_country": "CN"
+      }
+    ],
+    "budget": 115000000,
+    "revenue": 164989338,
+    "vote_average": 6.295,
+    "vote_count": 5077
+  },
+  {
+    "id": 337170,
+    "title": "American Made",
+    "imdb_id": "tt3532216",
+    "release_date": "2017-08-18",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 10246,
+        "logo_path": "/rREvQNWAxkDfY9CDn2c5YxEMPdP.png",
+        "name": "Cross Creek Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 23,
+        "logo_path": "/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png",
+        "name": "Imagine Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 50481,
+        "logo_path": "/mBgGtJJQ9aOpKBnuKXM75kHYT6D.png",
+        "name": "Vendian Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 80680,
+        "logo_path": null,
+        "name": "Quadrant Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 147591,
+        "logo_path": "/uMVoIH3rug7F3BsU1FGVJos4yrR.png",
+        "name": "Hercules Film Fund",
+        "origin_country": "LU"
+      }
+    ],
+    "budget": 50000000,
+    "revenue": 133511855,
+    "vote_average": 6.901,
+    "vote_count": 5046
+  },
+  {
+    "id": 504608,
+    "title": "Rocketman",
+    "imdb_id": "tt2066051",
+    "release_date": "2019-05-17",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 114732,
+        "logo_path": "/tNCbisMxO5mX2X2bOQxHHQZVYnT.png",
+        "name": "New Republic Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 5374,
+        "logo_path": "/pMUiImmYANjZUlZFiZMWziQDSs6.png",
+        "name": "Marv",
+        "origin_country": "GB"
+      },
+      {
+        "id": 28320,
+        "logo_path": "/5UPGj1MwzrtxclRGTfeiQ1J0zVk.png",
+        "name": "Rocket Pictures",
+        "origin_country": "GB"
+      },
+      {
+        "id": 2253,
+        "logo_path": null,
+        "name": "Lawrence Bender Productions",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 40000000,
+    "revenue": 167300000,
+    "vote_average": 7.313,
+    "vote_count": 5033
+  },
+  {
+    "id": 762504,
+    "title": "Nope",
+    "imdb_id": "tt10954984",
+    "release_date": "2022-07-20",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 88934,
+        "logo_path": "/5Be96V9WXa7jJInSDPqDOqMBA0o.png",
+        "name": "Monkeypaw Productions",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 68000000,
+    "revenue": 171932082,
+    "vote_average": 6.828,
+    "vote_count": 5016
+  },
+  {
+    "id": 786892,
+    "title": "Furiosa: A Mad Max Saga",
+    "imdb_id": "tt12037194",
+    "release_date": "2024-05-22",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 28382,
+        "logo_path": "/eaQ9IuuaSNBeSdocdtGLvhXAHfg.png",
+        "name": "Kennedy Miller Mitchell",
+        "origin_country": "AU"
+      },
+      {
+        "id": 216687,
+        "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+        "name": "Domain Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 168000000,
+    "revenue": 174287546,
+    "vote_average": 7.4,
+    "vote_count": 5014
+  },
+  {
+    "id": 501170,
+    "title": "Doctor Sleep",
+    "imdb_id": "tt5606664",
+    "release_date": "2019-10-30",
+    "production_companies": [
+      {
+        "id": 829,
+        "logo_path": "/iJo9zP5QCKyBsmKSOcvXd6UDNih.png",
+        "name": "Vertigo Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 1224,
+        "logo_path": "/9s5tOG7GWWym1P37QJuFX438rAI.png",
+        "name": "Intrepid Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 45000000,
+    "revenue": 72385286,
+    "vote_average": 7.147,
+    "vote_count": 4957
+  },
+  {
+    "id": 631843,
+    "title": "Old",
+    "imdb_id": "tt10954652",
+    "release_date": "2021-07-21",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 10338,
+        "logo_path": "/a8HjeCqXlm96IKSHvwaBPTMmAIp.png",
+        "name": "Perfect World Pictures",
+        "origin_country": "CN"
+      },
+      {
+        "id": 12236,
+        "logo_path": "/bVu0qQm4GujSTCvZZz9S3rHDczA.png",
+        "name": "Blinding Edge Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 18000000,
+    "revenue": 90146510,
+    "vote_average": 6.322,
+    "vote_count": 4950
+  },
+  {
+    "id": 369885,
+    "title": "Allied",
+    "imdb_id": "tt3640424",
+    "release_date": "2016-11-23",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 3281,
+        "logo_path": "/8tMybAieh64uzvm8knSjXOFX8Qc.png",
+        "name": "GK Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 11395,
+        "logo_path": "/5vSBzUwnCcaF90ZTchG3LwRKQ2M.png",
+        "name": "ImageMovers",
+        "origin_country": "US"
+      },
+      {
+        "id": 83645,
+        "logo_path": null,
+        "name": "Huahua Media",
+        "origin_country": "CN"
+      }
+    ],
+    "budget": 106000000,
+    "revenue": 119520023,
+    "vote_average": 6.806,
+    "vote_count": 4836
+  },
+  {
+    "id": 493529,
+    "title": "Dungeons & Dragons: Honor Among Thieves",
+    "imdb_id": "tt2906216",
+    "release_date": "2023-03-23",
+    "production_companies": [
+      {
+        "id": 8147,
+        "logo_path": "/q6HOAdSNgCbeOqwoMVRc6REgbXF.png",
+        "name": "Entertainment One",
+        "origin_country": "CA"
+      },
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 151000000,
+    "revenue": 208200000,
+    "vote_average": 7.357,
+    "vote_count": 4769
+  },
+  {
+    "id": 325133,
+    "title": "Neighbors 2: Sorority Rising",
+    "imdb_id": "tt4438848",
+    "release_date": "2016-05-04",
+    "production_companies": [
+      {
+        "id": 10338,
+        "logo_path": "/a8HjeCqXlm96IKSHvwaBPTMmAIp.png",
+        "name": "Perfect World Pictures",
+        "origin_country": "CN"
+      },
+      {
+        "id": 16615,
+        "logo_path": "/5au3v0r2brGaegO9EQ0nodLkmQ1.png",
+        "name": "Point Grey Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 17393,
+        "logo_path": "/k28sCof6kheeOicLqL6EXX2GHov.png",
+        "name": "Good Universe",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 35000000,
+    "revenue": 108007109,
+    "vote_average": 5.816,
+    "vote_count": 4657
+  },
+  {
+    "id": 558449,
+    "title": "Gladiator II",
+    "imdb_id": "tt9218128",
+    "release_date": "2024-11-13",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 221347,
+        "logo_path": "/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png",
+        "name": "Scott Free Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 246486,
+        "logo_path": null,
+        "name": "Lucy Fisher/Douglas Wick Productions",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 310000000,
+    "revenue": 462180717,
+    "vote_average": 6.604,
+    "vote_count": 4587
+  },
+  {
+    "id": 329996,
+    "title": "Dumbo",
+    "imdb_id": "tt3861390",
+    "release_date": "2019-03-27",
+    "production_companies": [
+      {
+        "id": 8601,
+        "logo_path": "/kqubCH3sfBAk4znUj7hjqv8ffgi.png",
+        "name": "Tim Burton Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 120402,
+        "logo_path": null,
+        "name": "Infinite Detective",
+        "origin_country": ""
+      },
+      {
+        "id": 120403,
+        "logo_path": null,
+        "name": "Secret Machine Entertainment",
+        "origin_country": ""
+      }
+    ],
+    "budget": 170000000,
+    "revenue": 353284621,
+    "vote_average": 6.587,
+    "vote_count": 4550
+  },
+  {
+    "id": 590223,
+    "title": "Love and Monsters",
+    "imdb_id": "tt2222042",
+    "release_date": "2020-10-16",
+    "production_companies": [
+      {
+        "id": 2575,
+        "logo_path": "/9YJrHYlcfHtwtulkFMAies3aFEl.png",
+        "name": "21 Laps Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 30000000,
+    "revenue": 1122066,
+    "vote_average": 7.268,
+    "vote_count": 4507
+  },
+  {
+    "id": 360920,
+    "title": "The Grinch",
+    "imdb_id": "tt2709692",
+    "release_date": "2018-11-08",
+    "production_companies": [
+      {
+        "id": 6704,
+        "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+        "name": "Illumination",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 75000000,
+    "revenue": 552976825,
+    "vote_average": 6.865,
+    "vote_count": 4471
+  },
+  {
+    "id": 787699,
+    "title": "Wonka",
+    "imdb_id": "tt6166392",
+    "release_date": "2023-12-06",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 79,
+        "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+        "name": "Village Roadshow Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 214904,
+        "logo_path": "/9S6xSAsUiE1zuKzxayco7fD0p26.png",
+        "name": "The Roald Dahl Story Company",
+        "origin_country": "GB"
+      },
+      {
+        "id": 437,
+        "logo_path": "/nu20mtwbEIhUNnQ5NXVhHsNknZj.png",
+        "name": "Heyday Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 216687,
+        "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+        "name": "Domain Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 125000000,
+    "revenue": 634502312,
+    "vote_average": 7.039,
+    "vote_count": 4456
+  },
+  {
+    "id": 205775,
+    "title": "In the Heart of the Sea",
+    "imdb_id": "tt1390411",
+    "release_date": "2015-12-03",
+    "production_companies": [
+      {
+        "id": 23,
+        "logo_path": "/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png",
+        "name": "Imagine Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 705,
+        "logo_path": null,
+        "name": "Spring Creek Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 16314,
+        "logo_path": "/17ybtw4lx2cub7te99mZjoQCmGj.png",
+        "name": "Roth Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 17888,
+        "logo_path": null,
+        "name": "Kjam Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 24175,
+        "logo_path": null,
+        "name": "Cott Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 34401,
+        "logo_path": null,
+        "name": "Surf Film",
+        "origin_country": "IT"
+      },
+      {
+        "id": 63571,
+        "logo_path": null,
+        "name": "Enelmar Productions, A.I.E.",
+        "origin_country": "ES"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 79,
+        "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+        "name": "Village Roadshow Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 100000000,
+    "revenue": 93900000,
+    "vote_average": 6.774,
+    "vote_count": 4420
+  },
+  {
+    "id": 321697,
+    "title": "Steve Jobs",
+    "imdb_id": "tt2080374",
+    "release_date": "2015-10-09",
+    "production_companies": [
+      {
+        "id": 258,
+        "logo_path": "/tMI4xPwgxfNaNId3h9dOcHGU1NI.png",
+        "name": "Scott Rudin Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 1557,
+        "logo_path": "/ccz9bqCu3jSFKbPFnfWmjAKZLBL.png",
+        "name": "The Mark Gordon Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 6707,
+        "logo_path": "/5bJmjTayNNSJt1VTEKDpXFM04H1.png",
+        "name": "Cloud Eight Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 8286,
+        "logo_path": null,
+        "name": "Decibel Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 78984,
+        "logo_path": "/vJLYh9YHQaEryuzu7GNUa1zwKG1.png",
+        "name": "Entertainment 360",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 923,
+        "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+        "name": "Legendary Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 30000000,
+    "revenue": 34400000,
+    "vote_average": 6.774,
+    "vote_count": 4403
+  },
+  {
+    "id": 442249,
+    "title": "The First Purge",
+    "imdb_id": "tt6133466",
+    "release_date": "2018-07-04",
+    "production_companies": [
+      {
+        "id": 2481,
+        "logo_path": "/vOQg26GjR0LnkN1Ph9uyog1UuOE.png",
+        "name": "Platinum Dunes",
+        "origin_country": "US"
+      },
+      {
+        "id": 3172,
+        "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+        "name": "Blumhouse Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 138783,
+        "logo_path": "/yxGIUMfUlxJ7yG6wwI0EOHzHLhy.png",
+        "name": "Man in a Tree Productions",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 13000000,
+    "revenue": 137056262,
+    "vote_average": 6.0,
+    "vote_count": 4259
+  },
+  {
+    "id": 379686,
+    "title": "Space Jam: A New Legacy",
+    "imdb_id": "tt3554046",
+    "release_date": "2021-07-08",
+    "production_companies": [
+      {
+        "id": 25120,
+        "logo_path": "/6RLMWBcGF2COzjjBORPUy705yF7.png",
+        "name": "Warner Animation Group",
+        "origin_country": "US"
+      },
+      {
+        "id": 148495,
+        "logo_path": "/2fQRDickgp9vuDIxJTlDLEs7j0y.png",
+        "name": "Proximity Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 232733,
+        "logo_path": "/hR6J6MfuPi0Dy1B9eSdfVWOArOj.png",
+        "name": "The SpringHill Company",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 150000000,
+    "revenue": 163692228,
+    "vote_average": 6.638,
+    "vote_count": 4251
+  },
+  {
+    "id": 277216,
+    "title": "Straight Outta Compton",
+    "imdb_id": "tt1398426",
+    "release_date": "2015-08-11",
+    "production_companies": [
+      {
+        "id": 63924,
+        "logo_path": null,
+        "name": "Broken Chair Flickz",
+        "origin_country": ""
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 923,
+        "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+        "name": "Legendary Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2780,
+        "logo_path": "/hgdyY2exOpOXG3EkQR8WsUAUNBZ.png",
+        "name": "Cube Vision",
+        "origin_country": "US"
+      },
+      {
+        "id": 63925,
+        "logo_path": null,
+        "name": "Crucial Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 23921,
+        "logo_path": "/simDvqT8y6jhP530ggUMbikvVKc.png",
+        "name": "Circle of Confusion",
+        "origin_country": "US"
+      },
+      {
+        "id": 49968,
+        "logo_path": "/d74xevT5HfJN1TODKbtm6vNW1wK.png",
+        "name": "Will Packer Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 4717,
+        "logo_path": "/yFGKPJmDmKmWDrZK83qOQzWBWKE.png",
+        "name": "Xenon Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 28000000,
+    "revenue": 201634991,
+    "vote_average": 7.773,
+    "vote_count": 4231
+  },
+  {
+    "id": 882598,
+    "title": "Smile",
+    "imdb_id": "tt15474916",
+    "release_date": "2022-09-23",
+    "production_companies": [
+      {
+        "id": 96540,
+        "logo_path": "/AgYjTNeIKOh0yvegPLSjq8EOsif.png",
+        "name": "Paramount Players",
+        "origin_country": "US"
+      },
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 12292,
+        "logo_path": "/5J93SHsuvIV32AE9oSbMi02pqw9.png",
+        "name": "Temple Hill Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 17000000,
+    "revenue": 217408513,
+    "vote_average": 6.675,
+    "vote_count": 4145
+  },
+  {
+    "id": 301337,
+    "title": "Downsizing",
+    "imdb_id": "tt1389072",
+    "release_date": "2017-12-22",
+    "production_companies": [
+      {
+        "id": 2361,
+        "logo_path": null,
+        "name": "Ad Hominem Enterprises",
+        "origin_country": "US"
+      },
+      {
+        "id": 2605,
+        "logo_path": null,
+        "name": "Gran Via Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 68000000,
+    "revenue": 55003890,
+    "vote_average": 5.411,
+    "vote_count": 4140
+  },
+  {
+    "id": 438148,
+    "title": "Minions: The Rise of Gru",
+    "imdb_id": "tt5113044",
+    "release_date": "2022-06-29",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 6704,
+        "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+        "name": "Illumination",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 85000000,
+    "revenue": 940203765,
+    "vote_average": 7.3,
+    "vote_count": 4061
+  },
+  {
+    "id": 615656,
+    "title": "Meg 2: The Trench",
+    "imdb_id": "tt9224104",
+    "release_date": "2023-08-02",
+    "production_companies": [
+      {
+        "id": 56242,
+        "logo_path": "/1YORRYmg7hgYIgoJek8jU3cykuQ.png",
+        "name": "Apelles Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 435,
+        "logo_path": "/AjzK0s2w1GtLfR4hqCjVSYi0Sr8.png",
+        "name": "di Bonaventura Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 92484,
+        "logo_path": "/dfWwoWRp8snHjzDKO5IFkiCAUe7.png",
+        "name": "CMC Pictures",
+        "origin_country": "CN"
+      },
+      {
+        "id": 208094,
+        "logo_path": null,
+        "name": "Onaroll Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 65442,
+        "logo_path": "/mAAUTVBF4KGW4QxESHWg4N8pLdF.png",
+        "name": "DF Pictures",
+        "origin_country": "CN"
+      }
+    ],
+    "budget": 129000000,
+    "revenue": 398500317,
+    "vote_average": 6.376,
+    "vote_count": 4034
+  },
+  {
+    "id": 270487,
+    "title": "Hail, Caesar!",
+    "imdb_id": "tt0475290",
+    "release_date": "2016-02-05",
+    "production_companies": [
+      {
+        "id": 10163,
+        "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+        "name": "Working Title Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 2092,
+        "logo_path": "/9IAf3DxvsjOVSQVjX5F22jTU4Nh.png",
+        "name": "Mike Zoss Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 22000000,
+    "revenue": 63647656,
+    "vote_average": 5.945,
+    "vote_count": 4035
+  },
+  {
+    "id": 300671,
+    "title": "13 Hours: The Secret Soldiers of Benghazi",
+    "imdb_id": "tt4172430",
+    "release_date": "2016-01-14",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 787,
+        "logo_path": "/cCefBs1t7jxtiz3eCxBp9yxrxGx.png",
+        "name": "3 Arts Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 6734,
+        "logo_path": "/u55FhlG6vFNzSVKLcmnFFwLb2cc.png",
+        "name": "Bay Films",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 50000000,
+    "revenue": 69411370,
+    "vote_average": 7.277,
+    "vote_count": 3996
+  },
+  {
+    "id": 455207,
+    "title": "Crazy Rich Asians",
+    "imdb_id": "tt3104988",
+    "release_date": "2018-08-15",
+    "production_companies": [
+      {
+        "id": 124283,
+        "logo_path": "/s0pkrY33hW7VQgnqzhLhbIVg0F4.png",
+        "name": "SK Global Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 5420,
+        "logo_path": "/dlW4Kh5dNieKNURnymsu57y6fMf.png",
+        "name": "Color Force",
+        "origin_country": "US"
+      },
+      {
+        "id": 107897,
+        "logo_path": "/etLApUoJoD853bluxamsZOLlWII.png",
+        "name": "Ivanhoe Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 128493,
+        "logo_path": null,
+        "name": "Starlight Culture Entertainment Group",
+        "origin_country": "HK"
+      }
+    ],
+    "budget": 30000000,
+    "revenue": 238539198,
+    "vote_average": 7.053,
+    "vote_count": 3988
+  },
+  {
+    "id": 646385,
+    "title": "Scream",
+    "imdb_id": "tt11245972",
+    "release_date": "2022-01-12",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 130448,
+        "logo_path": "/yHWTTGKbOGZKUd1cp6l3uLyDeiv.png",
+        "name": "Project X Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 126588,
+        "logo_path": "/cNhOITS96oOV7SCgUHxvZlWRecx.png",
+        "name": "Radio Silence",
+        "origin_country": "US"
+      },
+      {
+        "id": 143790,
+        "logo_path": "/wo1smiXdiwwxai2dwJlRiGwE7rS.png",
+        "name": "Spyglass Media Group",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 24000000,
+    "revenue": 138874789,
+    "vote_average": 6.685,
+    "vote_count": 3944
+  },
+  {
+    "id": 614934,
+    "title": "Elvis",
+    "imdb_id": "tt3704428",
+    "release_date": "2022-06-22",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 240,
+        "logo_path": "/bIkHKCMjaI2AAsoadnA9QK7dtzZ.png",
+        "name": "Bazmark",
+        "origin_country": "AU"
+      },
+      {
+        "id": 75060,
+        "logo_path": "/iS6njjhHMBYIcwcBrjNfd53dyXQ.png",
+        "name": "The Jackal Group",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 85000000,
+    "revenue": 288670284,
+    "vote_average": 7.455,
+    "vote_count": 3941
+  },
+  {
+    "id": 448119,
+    "title": "Dolittle",
+    "imdb_id": "tt6673612",
+    "release_date": "2020-01-02",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 27467,
+        "logo_path": "/xYus2VP8xXlaZ4KSBDVGltoEnuP.png",
+        "name": "Team Downey",
+        "origin_country": "US"
+      },
+      {
+        "id": 10338,
+        "logo_path": "/a8HjeCqXlm96IKSHvwaBPTMmAIp.png",
+        "name": "Perfect World Pictures",
+        "origin_country": "CN"
+      },
+      {
+        "id": 105052,
+        "logo_path": "/v0s09QaxgCrrXrbz2LctvSfRKRi.png",
+        "name": "Roth-Kirschenbaum Films",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 175000000,
+    "revenue": 251410631,
+    "vote_average": 6.576,
+    "vote_count": 3918
+  },
+  {
+    "id": 746036,
+    "title": "The Fall Guy",
+    "imdb_id": "tt1684562",
+    "release_date": "2024-04-24",
+    "production_companies": [
+      {
+        "id": 121470,
+        "logo_path": "/zvJFu1C6gB80A98n6IGXBvMtgVl.png",
+        "name": "87North Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 78984,
+        "logo_path": "/vJLYh9YHQaEryuzu7GNUa1zwKG1.png",
+        "name": "Entertainment 360",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 144037,
+        "logo_path": null,
+        "name": "Australian Government",
+        "origin_country": "AU"
+      }
+    ],
+    "budget": 125000000,
+    "revenue": 181073291,
+    "vote_average": 6.958,
+    "vote_count": 3890
+  },
+  {
+    "id": 308531,
+    "title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+    "imdb_id": "tt3949660",
+    "release_date": "2016-05-30",
+    "production_companies": [
+      {
+        "id": 47354,
+        "logo_path": null,
+        "name": "5150 Action",
+        "origin_country": ""
+      },
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2348,
+        "logo_path": "/m31fQvZJuUvAgxoqTiCGYFBfZYe.png",
+        "name": "Nickelodeon Movies",
+        "origin_country": "US"
+      },
+      {
+        "id": 2481,
+        "logo_path": "/vOQg26GjR0LnkN1Ph9uyog1UuOE.png",
+        "name": "Platinum Dunes",
+        "origin_country": "US"
+      },
+      {
+        "id": 77208,
+        "logo_path": null,
+        "name": "Gama Entertainment Partners",
+        "origin_country": ""
+      }
+    ],
+    "budget": 135000000,
+    "revenue": 245623848,
+    "vote_average": 6.061,
+    "vote_count": 3839
+  },
+  {
+    "id": 615777,
+    "title": "Babylon",
+    "imdb_id": "tt10640346",
+    "release_date": "2022-12-22",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2527,
+        "logo_path": "/mNSqvPrlkAcdQlEZ3Ttmx75Z8Xw.png",
+        "name": "Marc Platt Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 184518,
+        "logo_path": "/lOouI8ibBzhLI4qvku74FPUVT8t.png",
+        "name": "C2 Motion Picture Group",
+        "origin_country": "US"
+      },
+      {
+        "id": 187221,
+        "logo_path": null,
+        "name": "Organism Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 224269,
+        "logo_path": null,
+        "name": "Wild Chickens Productions",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 78000000,
+    "revenue": 65267446,
+    "vote_average": 7.341,
+    "vote_count": 3834
+  },
+  {
+    "id": 417678,
+    "title": "Everything, Everything",
+    "imdb_id": "tt5001718",
+    "release_date": "2017-05-18",
+    "production_companies": [
+      {
+        "id": 10067,
+        "logo_path": "/p1kZoVNfkVvk7xyJZEposRxcfh8.png",
+        "name": "Alloy Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 16322,
+        "logo_path": "/pKjLo6lCOYCwfK0efWCfAXqYzaY.png",
+        "name": "Itaca Films",
+        "origin_country": "MX"
+      },
+      {
+        "id": 21,
+        "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+        "name": "Metro-Goldwyn-Mayer",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 10000000,
+    "revenue": 61621140,
+    "vote_average": 7.2,
+    "vote_count": 3759
+  },
+  {
+    "id": 514847,
+    "title": "The Hunt",
+    "imdb_id": "tt8244784",
+    "release_date": "2020-03-11",
+    "production_companies": [
+      {
+        "id": 3172,
+        "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+        "name": "Blumhouse Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 14000000,
+    "revenue": 12400979,
+    "vote_average": 6.65,
+    "vote_count": 3727
+  },
+  {
+    "id": 512196,
+    "title": "Happy Death Day 2U",
+    "imdb_id": "tt8155288",
+    "release_date": "2019-02-13",
+    "production_companies": [
+      {
+        "id": 96377,
+        "logo_path": "/6B3ggX8aVsyp2t9MUpSriEEyev1.png",
+        "name": "Digital Riot Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 3172,
+        "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+        "name": "Blumhouse Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 9000000,
+    "revenue": 64600152,
+    "vote_average": 6.321,
+    "vote_count": 3691
+  },
+  {
+    "id": 267935,
+    "title": "The BFG",
+    "imdb_id": "tt3691740",
+    "release_date": "2016-06-01",
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 56,
+        "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+        "name": "Amblin Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 7294,
+        "logo_path": "/kK4PRgceWp9KNrycD8xx8seWxYU.png",
+        "name": "Reliance Entertainment",
+        "origin_country": "IN"
+      },
+      {
+        "id": 10221,
+        "logo_path": "/99VfWRgKasZoyK9UVB39gnYvFrZ.png",
+        "name": "Walden Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 862,
+        "logo_path": "/vdK6ZhC2CSW36j0VPEavRxOpbEg.png",
+        "name": "The Kennedy/Marshall Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 214904,
+        "logo_path": "/9S6xSAsUiE1zuKzxayco7fD0p26.png",
+        "name": "The Roald Dahl Story Company",
+        "origin_country": "GB"
+      }
+    ],
+    "budget": 140000000,
+    "revenue": 195243411,
+    "vote_average": 6.289,
+    "vote_count": 3664
+  },
+  {
+    "id": 384521,
+    "title": "The Cloverfield Paradox",
+    "imdb_id": "tt2548396",
+    "release_date": "2018-02-04",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 11461,
+        "logo_path": "/p9FoEt5shEKRWRKVIlvFaEmRnun.png",
+        "name": "Bad Robot",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 45000000,
+    "revenue": 0,
+    "vote_average": 5.639,
+    "vote_count": 3616
+  },
+  {
+    "id": 572802,
+    "title": "Aquaman and the Lost Kingdom",
+    "imdb_id": "tt9663764",
+    "release_date": "2023-12-20",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 11565,
+        "logo_path": "/odU3l6csuBmXUrzFm6araUgEUHQ.png",
+        "name": "The Safran Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 76907,
+        "logo_path": "/ygMQtjsKX7BZkCQhQZY82lgnCUO.png",
+        "name": "Atomic Monster",
+        "origin_country": "US"
+      },
+      {
+        "id": 128064,
+        "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+        "name": "DC Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 216687,
+        "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+        "name": "Domain Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 205000000,
+    "revenue": 440181226,
+    "vote_average": 6.518,
+    "vote_count": 3573
+  },
+  {
+    "id": 419478,
+    "title": "Midnight Sun",
+    "imdb_id": "tt4799066",
+    "release_date": "2018-03-22",
+    "production_companies": [
+      {
+        "id": 17866,
+        "logo_path": "/b6UEnuBOYgnsrq6VulNLlP5v5rz.png",
+        "name": "Boies/Schiller Film Group",
+        "origin_country": "US"
+      },
+      {
+        "id": 73118,
+        "logo_path": "/ilgyxz2B9rTdLUy8St7hbekO0y7.png",
+        "name": "Wrigley Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 2800000,
+    "revenue": 27365467,
+    "vote_average": 7.803,
+    "vote_count": 3564
+  },
+  {
+    "id": 400650,
+    "title": "Mary Poppins Returns",
+    "imdb_id": "tt5028340",
+    "release_date": "2018-12-13",
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2527,
+        "logo_path": "/mNSqvPrlkAcdQlEZ3Ttmx75Z8Xw.png",
+        "name": "Marc Platt Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 17021,
+        "logo_path": null,
+        "name": "Lucamar Productions",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 130000000,
+    "revenue": 348807090,
+    "vote_average": 6.509,
+    "vote_count": 3491
+  },
+  {
+    "id": 274167,
+    "title": "Daddy's Home",
+    "imdb_id": "tt1528854",
+    "release_date": "2015-12-25",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 4740,
+        "logo_path": "/20IuOPEwlHRXnn0MTOsEmw0wcql.png",
+        "name": "Gary Sanchez Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 19177,
+        "logo_path": null,
+        "name": "Red Granite Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 50000000,
+    "revenue": 242786137,
+    "vote_average": 6.294,
+    "vote_count": 3468
+  },
+  {
+    "id": 157433,
+    "title": "Pet Sematary",
+    "imdb_id": "tt0837563",
+    "release_date": "2019-04-04",
+    "production_companies": [
+      {
+        "id": 435,
+        "logo_path": "/AjzK0s2w1GtLfR4hqCjVSYi0Sr8.png",
+        "name": "di Bonaventura Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 6302,
+        "logo_path": "/jHKHR8pz3crMHZuCjBbWTQY7ojk.png",
+        "name": "Room 101",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 21000000,
+    "revenue": 113118226,
+    "vote_average": 5.744,
+    "vote_count": 3459
+  },
+  {
+    "id": 762441,
+    "title": "A Quiet Place: Day One",
+    "imdb_id": "tt13433802",
+    "release_date": "2024-06-26",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2481,
+        "logo_path": "/vOQg26GjR0LnkN1Ph9uyog1UuOE.png",
+        "name": "Platinum Dunes",
+        "origin_country": "US"
+      },
+      {
+        "id": 29312,
+        "logo_path": "/6yOnS9H3msf0cz0E5REbfX4Ehdz.png",
+        "name": "Sunday Night Productions",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 67000000,
+    "revenue": 261907653,
+    "vote_average": 6.644,
+    "vote_count": 3445
+  },
+  {
+    "id": 511987,
+    "title": "Crawl",
+    "imdb_id": "tt8364368",
+    "release_date": "2019-07-10",
+    "production_companies": [
+      {
+        "id": 122323,
+        "logo_path": "/gWiaDcDxt0AkSE9hxsUn5naFGRT.png",
+        "name": "Raimi Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 85653,
+        "logo_path": null,
+        "name": "Fire Axe Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 123998,
+        "logo_path": null,
+        "name": "Serbia Creates Film",
+        "origin_country": "RS"
+      },
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 13500000,
+    "revenue": 91542097,
+    "vote_average": 6.3,
+    "vote_count": 3419
+  },
+  {
+    "id": 516486,
+    "title": "Greyhound",
+    "imdb_id": "tt6048922",
+    "release_date": "2020-07-09",
+    "production_companies": [
+      {
+        "id": 4171,
+        "logo_path": "/cdwjRVcXP9zws9gkiim0KkBNs9N.png",
+        "name": "Playtone",
+        "origin_country": "US"
+      },
+      {
+        "id": 13240,
+        "logo_path": "/aTc07YaNHo8WNgkQSnvLmG6w4nW.png",
+        "name": "Bron Studios",
+        "origin_country": "CA"
+      },
+      {
+        "id": 7493,
+        "logo_path": "/fHitYiGUCkRafgt6VPYQlXWLkdp.png",
+        "name": "FilmNation Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 14319,
+        "logo_path": "/z5jJhK1AMbr47CLVqsB4HpIBtHd.png",
+        "name": "Sycamore Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 152647,
+        "logo_path": null,
+        "name": "Zhengfu Pictures",
+        "origin_country": "CN"
+      },
+      {
+        "id": 34,
+        "logo_path": "/xAb1o9HrSvKBo9mnXC8fJKDNu00.png",
+        "name": "Sony Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 11341,
+        "logo_path": "/eZuaGAonSPXsmXR44huTBXgPUSd.png",
+        "name": "Stage 6 Films",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 50300000,
+    "revenue": 0,
+    "vote_average": 7.414,
+    "vote_count": 3370
+  },
+  {
+    "id": 412117,
+    "title": "The Secret Life of Pets 2",
+    "imdb_id": "tt5113040",
+    "release_date": "2019-05-24",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 6704,
+        "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+        "name": "Illumination",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 80000000,
+    "revenue": 429434163,
+    "vote_average": 6.954,
+    "vote_count": 3369
+  },
+  {
+    "id": 939243,
+    "title": "Sonic the Hedgehog 3",
+    "imdb_id": "tt18259086",
+    "release_date": "2024-12-19",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 333,
+        "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+        "name": "Original Film",
+        "origin_country": "US"
+      },
+      {
+        "id": 77884,
+        "logo_path": "/dP2lxVNctD5Cried0IWVqgrO2o9.png",
+        "name": "Marza Animation Planet",
+        "origin_country": "JP"
+      },
+      {
+        "id": 113750,
+        "logo_path": "/A3QVZ9Ah0yI2d2GiXUFpdlbTgyr.png",
+        "name": "SEGA",
+        "origin_country": "JP"
+      },
+      {
+        "id": 10644,
+        "logo_path": "/ocLZIdYJBppuCt1rhYEb2jbpt5F.png",
+        "name": "Blur Studio",
+        "origin_country": "US"
+      },
+      {
+        "id": 168701,
+        "logo_path": "/vWdZFT4V64CCv12D10m44duQjyg.png",
+        "name": "SEGA of America",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 122000000,
+    "revenue": 492162604,
+    "vote_average": 7.608,
+    "vote_count": 3365
+  },
+  {
+    "id": 447277,
+    "title": "The Little Mermaid",
+    "imdb_id": "tt5971474",
+    "release_date": "2023-05-18",
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 17021,
+        "logo_path": null,
+        "name": "Lucamar Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 2527,
+        "logo_path": "/mNSqvPrlkAcdQlEZ3Ttmx75Z8Xw.png",
+        "name": "Marc Platt Productions",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 297000000,
+    "revenue": 569626289,
+    "vote_average": 6.268,
+    "vote_count": 3358
+  },
+  {
+    "id": 519182,
+    "title": "Despicable Me 4",
+    "imdb_id": "tt7510222",
+    "release_date": "2024-06-20",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 6704,
+        "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+        "name": "Illumination",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 100000000,
+    "revenue": 972021410,
+    "vote_average": 7.0,
+    "vote_count": 3285
+  },
+  {
+    "id": 491418,
+    "title": "Instant Family",
+    "imdb_id": "tt7401588",
+    "release_date": "2018-11-13",
+    "production_companies": [
+      {
+        "id": 8537,
+        "logo_path": null,
+        "name": "Closest to the Hole Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 8536,
+        "logo_path": null,
+        "name": "Leverage Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 48000000,
+    "revenue": 121000000,
+    "vote_average": 7.494,
+    "vote_count": 3266
+  },
+  {
+    "id": 934433,
+    "title": "Scream VI",
+    "imdb_id": "tt17663992",
+    "release_date": "2023-03-08",
+    "production_companies": [
+      {
+        "id": 126588,
+        "logo_path": "/cNhOITS96oOV7SCgUHxvZlWRecx.png",
+        "name": "Radio Silence",
+        "origin_country": "US"
+      },
+      {
+        "id": 130448,
+        "logo_path": "/yHWTTGKbOGZKUd1cp6l3uLyDeiv.png",
+        "name": "Project X Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 143790,
+        "logo_path": "/wo1smiXdiwwxai2dwJlRiGwE7rS.png",
+        "name": "Spyglass Media Group",
+        "origin_country": "US"
+      },
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 33000000,
+    "revenue": 169063850,
+    "vote_average": 6.941,
+    "vote_count": 3265
+  },
+  {
+    "id": 917496,
+    "title": "Beetlejuice Beetlejuice",
+    "imdb_id": "tt2049403",
+    "release_date": "2024-09-04",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 360,
+        "logo_path": "/mFNYE6Lozy6oxYRxz4ByDVdIHbc.png",
+        "name": "Geffen Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 81,
+        "logo_path": "/8wOfUhA7vwU2gbPjQy7Vv3EiF0o.png",
+        "name": "Plan B Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 8601,
+        "logo_path": "/kqubCH3sfBAk4znUj7hjqv8ffgi.png",
+        "name": "Tim Burton Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 228708,
+        "logo_path": null,
+        "name": "Tommy Harper Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 216687,
+        "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+        "name": "Domain Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 99000000,
+    "revenue": 452000435,
+    "vote_average": 6.931,
+    "vote_count": 3202
+  },
+  {
+    "id": 406563,
+    "title": "Insidious: The Last Key",
+    "imdb_id": "tt5726086",
+    "release_date": "2018-01-03",
+    "production_companies": [
+      {
+        "id": 11341,
+        "logo_path": "/eZuaGAonSPXsmXR44huTBXgPUSd.png",
+        "name": "Stage 6 Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 3172,
+        "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+        "name": "Blumhouse Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 10000000,
+    "revenue": 172811971,
+    "vote_average": 6.264,
+    "vote_count": 3187
+  },
+  {
+    "id": 438799,
+    "title": "Overlord",
+    "imdb_id": "tt4530422",
+    "release_date": "2018-11-01",
+    "production_companies": [
+      {
+        "id": 11461,
+        "logo_path": "/p9FoEt5shEKRWRKVIlvFaEmRnun.png",
+        "name": "Bad Robot",
+        "origin_country": "US"
+      },
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 38000000,
+    "revenue": 41657844,
+    "vote_average": 6.736,
+    "vote_count": 3173
+  },
+  {
+    "id": 565770,
+    "title": "Blue Beetle",
+    "imdb_id": "tt9362930",
+    "release_date": "2023-08-16",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 11565,
+        "logo_path": "/odU3l6csuBmXUrzFm6araUgEUHQ.png",
+        "name": "The Safran Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 128064,
+        "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+        "name": "DC Films",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 104000000,
+    "revenue": 130788072,
+    "vote_average": 6.6,
+    "vote_count": 3172
+  },
+  {
+    "id": 631842,
+    "title": "Knock at the Cabin",
+    "imdb_id": "tt15679400",
+    "release_date": "2023-02-01",
+    "production_companies": [
+      {
+        "id": 12236,
+        "logo_path": "/bVu0qQm4GujSTCvZZz9S3rHDczA.png",
+        "name": "Blinding Edge Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 7493,
+        "logo_path": "/fHitYiGUCkRafgt6VPYQlXWLkdp.png",
+        "name": "FilmNation Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 152785,
+        "logo_path": null,
+        "name": "Wishmore",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 20000000,
+    "revenue": 54700000,
+    "vote_average": 6.249,
+    "vote_count": 3141
+  },
+  {
+    "id": 402431,
+    "title": "Wicked",
+    "imdb_id": "tt1262426",
+    "release_date": "2024-10-16",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2527,
+        "logo_path": "/mNSqvPrlkAcdQlEZ3Ttmx75Z8Xw.png",
+        "name": "Marc Platt Productions",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 150000000,
+    "revenue": 758827029,
+    "vote_average": 6.911,
+    "vote_count": 3134
+  },
+  {
+    "id": 718821,
+    "title": "Twisters",
+    "imdb_id": "tt12584954",
+    "release_date": "2024-07-10",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 56,
+        "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+        "name": "Amblin Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 216687,
+        "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+        "name": "Domain Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 155000000,
+    "revenue": 372262265,
+    "vote_average": 6.773,
+    "vote_count": 3066
+  },
+  {
+    "id": 585083,
+    "title": "Hotel Transylvania: Transformania",
+    "imdb_id": "tt9848626",
+    "release_date": "2022-01-31",
+    "production_companies": [
+      {
+        "id": 2251,
+        "logo_path": "/5ilV5mH3gxTEU7p5wjxptHvXkyr.png",
+        "name": "Sony Pictures Animation",
+        "origin_country": "US"
+      },
+      {
+        "id": 34,
+        "logo_path": "/xAb1o9HrSvKBo9mnXC8fJKDNu00.png",
+        "name": "Sony Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2531,
+        "logo_path": "/9MfCJ2G6Nrf9yyRj4tAgPmMiDcn.png",
+        "name": "MRC",
+        "origin_country": "US"
+      },
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 75000000,
+    "revenue": 18500000,
+    "vote_average": 7.028,
+    "vote_count": 3056
+  },
+  {
+    "id": 400160,
+    "title": "The SpongeBob Movie: Sponge on the Run",
+    "imdb_id": "tt4823776",
+    "release_date": "2020-08-14",
+    "production_companies": [
+      {
+        "id": 8921,
+        "logo_path": "/wZEtdueugvOSYwDD3gbFNHctVWY.png",
+        "name": "United Plankton Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2348,
+        "logo_path": "/m31fQvZJuUvAgxoqTiCGYFBfZYe.png",
+        "name": "Nickelodeon Movies",
+        "origin_country": "US"
+      },
+      {
+        "id": 24955,
+        "logo_path": "/bX3cYCRWdddXTgIcDEfNiVa8U4j.png",
+        "name": "Paramount Animation",
+        "origin_country": "US"
+      },
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2531,
+        "logo_path": "/9MfCJ2G6Nrf9yyRj4tAgPmMiDcn.png",
+        "name": "MRC",
+        "origin_country": "US"
+      },
+      {
+        "id": 8649,
+        "logo_path": "/130H7TsGokNIPyGHYZc9ftU3jJ7.png",
+        "name": "Mikros Image",
+        "origin_country": "FR"
+      },
+      {
+        "id": 199314,
+        "logo_path": "/zVfq3R7Ue0Ho0XnfgyK63fMGk2j.png",
+        "name": "Mikros Animation",
+        "origin_country": "FR"
+      }
+    ],
+    "budget": 60000000,
+    "revenue": 4810790,
+    "vote_average": 7.389,
+    "vote_count": 3011
+  },
+  {
+    "id": 531219,
+    "title": "Roald Dahl's The Witches",
+    "imdb_id": "tt0805647",
+    "release_date": "2020-10-26",
+    "production_companies": [
+      {
+        "id": 11395,
+        "logo_path": "/5vSBzUwnCcaF90ZTchG3LwRKQ2M.png",
+        "name": "ImageMovers",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 11627,
+        "logo_path": null,
+        "name": "Necropia Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 7470,
+        "logo_path": null,
+        "name": "Esperanto Filmoj",
+        "origin_country": "US"
+      },
+      {
+        "id": 214904,
+        "logo_path": "/9S6xSAsUiE1zuKzxayco7fD0p26.png",
+        "name": "The Roald Dahl Story Company",
+        "origin_country": "GB"
+      }
+    ],
+    "budget": 0,
+    "revenue": 29303571,
+    "vote_average": 6.332,
+    "vote_count": 3008
+  },
+  {
+    "id": 241554,
+    "title": "Run All Night",
+    "imdb_id": "tt2199571",
+    "release_date": "2015-03-11",
+    "production_companies": [
+      {
+        "id": 41624,
+        "logo_path": "/wzKxIeQKlMP0y5CaAw25MD6EQmf.png",
+        "name": "RatPac Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 829,
+        "logo_path": "/iJo9zP5QCKyBsmKSOcvXd6UDNih.png",
+        "name": "Vertigo Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 18617,
+        "logo_path": null,
+        "name": "Energy Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 23513,
+        "logo_path": null,
+        "name": "Ombra Films",
+        "origin_country": "ES"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 50000000,
+    "revenue": 71561644,
+    "vote_average": 6.434,
+    "vote_count": 3003
+  },
+  {
+    "id": 889737,
+    "title": "Joker: Folie \u00e0 Deux",
+    "imdb_id": "tt11315808",
+    "release_date": "2024-10-01",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 83036,
+        "logo_path": null,
+        "name": "Joint Effort",
+        "origin_country": "US"
+      },
+      {
+        "id": 216687,
+        "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+        "name": "Domain Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 190000000,
+    "revenue": 207500287,
+    "vote_average": 5.406,
+    "vote_count": 2983
+  },
+  {
+    "id": 420814,
+    "title": "Christopher Robin",
+    "imdb_id": "tt4575576",
+    "release_date": "2018-08-01",
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 23644,
+        "logo_path": "/wF4SeLFv2qjKQa3oS1eaGyS4Hms.png",
+        "name": "2DUX\u00b2",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 75000000,
+    "revenue": 197744825,
+    "vote_average": 7.296,
+    "vote_count": 2938
+  },
+  {
+    "id": 227719,
+    "title": "Project Almanac",
+    "imdb_id": "tt2436386",
+    "release_date": "2015-01-28",
+    "production_companies": [
+      {
+        "id": 7377,
+        "logo_path": "/zdVYfWyiQmLgyq8V73HRHpCWjRO.png",
+        "name": "Insurge Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 746,
+        "logo_path": "/kc7bdIVTBkJYy9aDK1QDDTAL463.png",
+        "name": "MTV Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 2481,
+        "logo_path": "/vOQg26GjR0LnkN1Ph9uyog1UuOE.png",
+        "name": "Platinum Dunes",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 12000000,
+    "revenue": 33200000,
+    "vote_average": 6.793,
+    "vote_count": 2893
+  },
+  {
+    "id": 614917,
+    "title": "King Richard",
+    "imdb_id": "tt9620288",
+    "release_date": "2021-11-18",
+    "production_companies": [
+      {
+        "id": 27497,
+        "logo_path": "/F8mSKEBTORPIYJ3XNvSFb5FEUD.png",
+        "name": "Star Thrower Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 122771,
+        "logo_path": "/bYRqVEAuaC1QWmt3hGo0PMdK7EX.png",
+        "name": "Westbrook",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 907,
+        "logo_path": "/ca5SWI5uvU985f8Kbb4xc8AmVWH.png",
+        "name": "Overbrook Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 50000000,
+    "revenue": 39400000,
+    "vote_average": 7.601,
+    "vote_count": 2889
+  },
+  {
+    "id": 266647,
+    "title": "Pan",
+    "imdb_id": "tt3332064",
+    "release_date": "2015-09-24",
+    "production_companies": [
+      {
+        "id": 20478,
+        "logo_path": "/gSS2OBc6dRsK2ewRx5lcwnARrpl.png",
+        "name": "Moving Picture Company",
+        "origin_country": "GB"
+      },
+      {
+        "id": 27711,
+        "logo_path": "/3e294jszfE6cE8TOogmj0zNd6pL.png",
+        "name": "Berlanti Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 41624,
+        "logo_path": "/wzKxIeQKlMP0y5CaAw25MD6EQmf.png",
+        "name": "RatPac Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 118865,
+        "logo_path": null,
+        "name": "Isobel Griffiths",
+        "origin_country": "GB"
+      }
+    ],
+    "budget": 150000000,
+    "revenue": 128388320,
+    "vote_average": 5.958,
+    "vote_count": 2869
+  },
+  {
+    "id": 602269,
+    "title": "The Little Things",
+    "imdb_id": "tt10016180",
+    "release_date": "2021-01-28",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2605,
+        "logo_path": null,
+        "name": "Gran Via Productions",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 30000000,
+    "revenue": 29942746,
+    "vote_average": 6.357,
+    "vote_count": 2865
+  },
+  {
+    "id": 393457,
+    "title": "Fences",
+    "imdb_id": "tt2671706",
+    "release_date": "2016-12-16",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 79426,
+        "logo_path": "/8aEC7xem9YwHNCDojSFEPQgoFC3.png",
+        "name": "MACRO",
+        "origin_country": "US"
+      },
+      {
+        "id": 13240,
+        "logo_path": "/aTc07YaNHo8WNgkQSnvLmG6w4nW.png",
+        "name": "Bron Studios",
+        "origin_country": "CA"
+      }
+    ],
+    "budget": 24000000,
+    "revenue": 64400000,
+    "vote_average": 6.894,
+    "vote_count": 2832
+  },
+  {
+    "id": 567189,
+    "title": "Tom Clancy's Without Remorse",
+    "imdb_id": "tt0499097",
+    "release_date": "2021-04-30",
+    "production_companies": [
+      {
+        "id": 433,
+        "logo_path": "/iafkKMpcRfEXq9a4sQf0h6tg2E2.png",
+        "name": "Weed Road Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 102334,
+        "logo_path": "/baWl2NMe4hiIsoJ94tv32uhYQ7z.png",
+        "name": "Outlier Society",
+        "origin_country": "US"
+      },
+      {
+        "id": 156809,
+        "logo_path": null,
+        "name": "The Saw Mill",
+        "origin_country": "US"
+      },
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 114732,
+        "logo_path": "/tNCbisMxO5mX2X2bOQxHHQZVYnT.png",
+        "name": "New Republic Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 82819,
+        "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
+        "name": "Skydance Media",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "vote_average": 6.9,
+    "vote_count": 2762
+  },
+  {
+    "id": 419680,
+    "title": "Daddy's Home 2",
+    "imdb_id": "tt5657846",
+    "release_date": "2017-11-09",
+    "production_companies": [
+      {
+        "id": 19177,
+        "logo_path": null,
+        "name": "Red Granite Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 4740,
+        "logo_path": "/20IuOPEwlHRXnn0MTOsEmw0wcql.png",
+        "name": "Gary Sanchez Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 69000000,
+    "revenue": 180613180,
+    "vote_average": 6.306,
+    "vote_count": 2759
+  },
+  {
+    "id": 292011,
+    "title": "Richard Jewell",
+    "imdb_id": "tt3513548",
+    "release_date": "2019-12-13",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 171,
+        "logo_path": "/4kkNA3JQivhAh4dPtQwyWf7HRGy.png",
+        "name": "Malpaso Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 562,
+        "logo_path": "/azANEzu3H3Kztzt63sdjvlzxhuB.png",
+        "name": "Appian Way",
+        "origin_country": "US"
+      },
+      {
+        "id": 11581,
+        "logo_path": "/yIORcWTFHtbXvWjqXAqFuMxx0K0.png",
+        "name": "Misher Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 119382,
+        "logo_path": null,
+        "name": "75 Year Plan Productions",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 45000000,
+    "revenue": 33900000,
+    "vote_average": 7.416,
+    "vote_count": 2756
+  },
+  {
+    "id": 271718,
+    "title": "Trainwreck",
+    "imdb_id": "tt3152624",
+    "release_date": "2015-07-17",
+    "production_companies": [
+      {
+        "id": 10105,
+        "logo_path": "/bN4tiAS8oNlHhIqq66KBPQ1Ekqh.png",
+        "name": "Apatow Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 35000000,
+    "revenue": 140795793,
+    "vote_average": 5.785,
+    "vote_count": 2737
+  },
+  {
+    "id": 762509,
+    "title": "Mufasa: The Lion King",
+    "imdb_id": "tt13186482",
+    "release_date": "2024-12-18",
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 200000000,
+    "revenue": 722631756,
+    "vote_average": 7.303,
+    "vote_count": 2721
+  },
+  {
+    "id": 602223,
+    "title": "The Forever Purge",
+    "imdb_id": "tt10327252",
+    "release_date": "2021-06-30",
+    "production_companies": [
+      {
+        "id": 3172,
+        "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+        "name": "Blumhouse Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 2481,
+        "logo_path": "/vOQg26GjR0LnkN1Ph9uyog1UuOE.png",
+        "name": "Platinum Dunes",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 138783,
+        "logo_path": "/yxGIUMfUlxJ7yG6wwI0EOHzHLhy.png",
+        "name": "Man in a Tree Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 214539,
+        "logo_path": "/4gwffulJi8mbMOEWhB7l96bqPnO.png",
+        "name": "Perfect World Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 18000000,
+    "revenue": 76994245,
+    "vote_average": 6.9,
+    "vote_count": 2706
+  },
+  {
+    "id": 549053,
+    "title": "Last Christmas",
+    "imdb_id": "tt8623904",
+    "release_date": "2019-11-07",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 61791,
+        "logo_path": "/xyiy5wZdmnxVViRa8oRMXQQvT6F.png",
+        "name": "Feigco Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 30000000,
+    "revenue": 121600000,
+    "vote_average": 7.196,
+    "vote_count": 2656
+  },
+  {
+    "id": 335796,
+    "title": "Ouija: Origin of Evil",
+    "imdb_id": "tt4361050",
+    "release_date": "2016-10-20",
+    "production_companies": [
+      {
+        "id": 2481,
+        "logo_path": "/vOQg26GjR0LnkN1Ph9uyog1UuOE.png",
+        "name": "Platinum Dunes",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 57031,
+        "logo_path": "/1ai3zndjxL3BonlOJVS75GjTOuW.png",
+        "name": "Allspark Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 3172,
+        "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+        "name": "Blumhouse Productions",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 9000000,
+    "revenue": 81831866,
+    "vote_average": 6.161,
+    "vote_count": 2653
+  },
+  {
+    "id": 14564,
+    "title": "Rings",
+    "imdb_id": "tt0498381",
+    "release_date": "2017-02-01",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 24902,
+        "logo_path": null,
+        "name": "Macari/Edelstein",
+        "origin_country": ""
+      },
+      {
+        "id": 49325,
+        "logo_path": "/hzGYbyLwuLKPqtM194l3WmfasgQ.png",
+        "name": "Parkes+MacDonald Image Nation",
+        "origin_country": "US"
+      },
+      {
+        "id": 85425,
+        "logo_path": null,
+        "name": "Waddieish Claretrap",
+        "origin_country": ""
+      }
+    ],
+    "budget": 25000000,
+    "revenue": 83080890,
+    "vote_average": 5.024,
+    "vote_count": 2634
+  },
+  {
+    "id": 407436,
+    "title": "Mowgli: Legend of the Jungle",
+    "imdb_id": "tt2388771",
+    "release_date": "2018-11-25",
+    "production_companies": [
+      {
+        "id": 85284,
+        "logo_path": "/7RvgzApnxYrdy9sqIAn1axTKuxu.png",
+        "name": "The Imaginarium",
+        "origin_country": "GB"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 175000000,
+    "revenue": 0,
+    "vote_average": 6.478,
+    "vote_count": 2623
+  },
+  {
+    "id": 587807,
+    "title": "Tom & Jerry",
+    "imdb_id": "tt1361336",
+    "release_date": "2021-02-10",
+    "production_companies": [
+      {
+        "id": 25120,
+        "logo_path": "/6RLMWBcGF2COzjjBORPUy705yF7.png",
+        "name": "Warner Animation Group",
+        "origin_country": "US"
+      },
+      {
+        "id": 8922,
+        "logo_path": "/yZWehAyjfKi4KvKeg1bkJ1bm5H8.png",
+        "name": "Turner Entertainment Co.",
+        "origin_country": "US"
+      },
+      {
+        "id": 77061,
+        "logo_path": null,
+        "name": "The Story Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 50000000,
+    "revenue": 136536687,
+    "vote_average": 6.729,
+    "vote_count": 2592
+  },
+  {
+    "id": 899112,
+    "title": "Violent Night",
+    "imdb_id": "tt12003946",
+    "release_date": "2022-11-30",
+    "production_companies": [
+      {
+        "id": 121470,
+        "logo_path": "/zvJFu1C6gB80A98n6IGXBvMtgVl.png",
+        "name": "87North Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 4234,
+        "logo_path": null,
+        "name": "Original Pictures",
+        "origin_country": "CA"
+      }
+    ],
+    "budget": 20000000,
+    "revenue": 75734910,
+    "vote_average": 7.217,
+    "vote_count": 2588
+  },
+  {
+    "id": 228165,
+    "title": "The SpongeBob Movie: Sponge Out of Water",
+    "imdb_id": "tt2279373",
+    "release_date": "2015-01-28",
+    "production_companies": [
+      {
+        "id": 24955,
+        "logo_path": "/bX3cYCRWdddXTgIcDEfNiVa8U4j.png",
+        "name": "Paramount Animation",
+        "origin_country": "US"
+      },
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2348,
+        "logo_path": "/m31fQvZJuUvAgxoqTiCGYFBfZYe.png",
+        "name": "Nickelodeon Movies",
+        "origin_country": "US"
+      },
+      {
+        "id": 8921,
+        "logo_path": "/wZEtdueugvOSYwDD3gbFNHctVWY.png",
+        "name": "United Plankton Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 10256,
+        "logo_path": null,
+        "name": "Disruption Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 74000000,
+    "revenue": 325186032,
+    "vote_average": 6.11,
+    "vote_count": 2566
+  },
+  {
+    "id": 332210,
+    "title": "Storks",
+    "imdb_id": "tt4624424",
+    "release_date": "2016-09-22",
+    "production_companies": [
+      {
+        "id": 41624,
+        "logo_path": "/wzKxIeQKlMP0y5CaAw25MD6EQmf.png",
+        "name": "RatPac Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 25120,
+        "logo_path": "/6RLMWBcGF2COzjjBORPUy705yF7.png",
+        "name": "Warner Animation Group",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 23876,
+        "logo_path": null,
+        "name": "Stoller Global Solutions",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 70000000,
+    "revenue": 182379278,
+    "vote_average": 6.68,
+    "vote_count": 2542
+  },
+  {
+    "id": 1106739,
+    "title": "Juror #2",
+    "imdb_id": "tt27403986",
+    "release_date": "2024-10-30",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 171,
+        "logo_path": "/4kkNA3JQivhAh4dPtQwyWf7HRGy.png",
+        "name": "Malpaso Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 225128,
+        "logo_path": null,
+        "name": "Dichotomy Films",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 30000000,
+    "revenue": 21418477,
+    "vote_average": 6.891,
+    "vote_count": 2532
+  },
+  {
+    "id": 522212,
+    "title": "Just Mercy",
+    "imdb_id": "tt4916630",
+    "release_date": "2019-12-25",
+    "production_companies": [
+      {
+        "id": 32555,
+        "logo_path": null,
+        "name": "Netter Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 102334,
+        "logo_path": "/baWl2NMe4hiIsoJ94tv32uhYQ7z.png",
+        "name": "Outlier Society",
+        "origin_country": "US"
+      },
+      {
+        "id": 100640,
+        "logo_path": "/5BR67T28TVm2UMH8GCRDftafsaJ.png",
+        "name": "Endeavor Content",
+        "origin_country": "US"
+      },
+      {
+        "id": 79426,
+        "logo_path": "/8aEC7xem9YwHNCDojSFEPQgoFC3.png",
+        "name": "MACRO",
+        "origin_country": "US"
+      },
+      {
+        "id": 125590,
+        "logo_path": null,
+        "name": "One Community",
+        "origin_country": "US"
+      },
+      {
+        "id": 6735,
+        "logo_path": "/pAQW38WU8ychBvYU2aGPTEbynEN.png",
+        "name": "Participant",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 25000000,
+    "revenue": 50401502,
+    "vote_average": 7.85,
+    "vote_count": 2517
+  },
+  {
+    "id": 763285,
+    "title": "Ambulance",
+    "imdb_id": "tt4998632",
+    "release_date": "2022-03-16",
+    "production_companies": [
+      {
+        "id": 6734,
+        "logo_path": "/u55FhlG6vFNzSVKLcmnFFwLb2cc.png",
+        "name": "Bay Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 100640,
+        "logo_path": "/5BR67T28TVm2UMH8GCRDftafsaJ.png",
+        "name": "Endeavor Content",
+        "origin_country": "US"
+      },
+      {
+        "id": 114732,
+        "logo_path": "/tNCbisMxO5mX2X2bOQxHHQZVYnT.png",
+        "name": "New Republic Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 130448,
+        "logo_path": "/yHWTTGKbOGZKUd1cp6l3uLyDeiv.png",
+        "name": "Project X Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 40000000,
+    "revenue": 52303589,
+    "vote_average": 6.62,
+    "vote_count": 2488
+  },
+  {
+    "id": 804150,
+    "title": "Cocaine Bear",
+    "imdb_id": "tt14209916",
+    "release_date": "2023-02-22",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 12365,
+        "logo_path": "/nwjOaV5QmJ7cbXOBRG4wf8AVeUx.png",
+        "name": "Brownstone Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 77973,
+        "logo_path": "/eUZ0kfE4uyO0JYIrjgUSOqWPqjK.png",
+        "name": "Lord Miller",
+        "origin_country": "US"
+      },
+      {
+        "id": 118800,
+        "logo_path": null,
+        "name": "Jurassic Party",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 32500000,
+    "revenue": 88314672,
+    "vote_average": 5.989,
+    "vote_count": 2479
+  },
+  {
+    "id": 287903,
+    "title": "Krampus",
+    "imdb_id": "tt3850590",
+    "release_date": "2015-11-26",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 923,
+        "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+        "name": "Legendary Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 215994,
+        "logo_path": null,
+        "name": "Zam Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 15000000,
+    "revenue": 61800000,
+    "vote_average": 6.2,
+    "vote_count": 2419
+  },
+  {
+    "id": 484718,
+    "title": "Coming 2 America",
+    "imdb_id": "tt6802400",
+    "release_date": "2021-03-04",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 114732,
+        "logo_path": "/tNCbisMxO5mX2X2bOQxHHQZVYnT.png",
+        "name": "New Republic Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 30,
+        "logo_path": null,
+        "name": "Eddie Murphy Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 11581,
+        "logo_path": "/yIORcWTFHtbXvWjqXAqFuMxx0K0.png",
+        "name": "Misher Films",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 60000000,
+    "revenue": 0,
+    "vote_average": 6.331,
+    "vote_count": 2414
+  },
+  {
+    "id": 329833,
+    "title": "Zoolander 2",
+    "imdb_id": "tt1608290",
+    "release_date": "2016-02-06",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2932,
+        "logo_path": "/4uLKLjGivVg2YnAIhAn8k7ZuVFj.png",
+        "name": "Red Hour",
+        "origin_country": "US"
+      },
+      {
+        "id": 258,
+        "logo_path": "/tMI4xPwgxfNaNId3h9dOcHGU1NI.png",
+        "name": "Scott Rudin Productions",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 50000000,
+    "revenue": 56722693,
+    "vote_average": 4.928,
+    "vote_count": 2406
+  },
+  {
+    "id": 372343,
+    "title": "The Snowman",
+    "imdb_id": "tt1758810",
+    "release_date": "2017-08-24",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 10163,
+        "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+        "name": "Working Title Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 70986,
+        "logo_path": null,
+        "name": "Another Park Film",
+        "origin_country": "SE"
+      },
+      {
+        "id": 214539,
+        "logo_path": "/4gwffulJi8mbMOEWhB7l96bqPnO.png",
+        "name": "Perfect World Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 35000000,
+    "revenue": 43203413,
+    "vote_average": 5.217,
+    "vote_count": 2396
+  },
+  {
+    "id": 599975,
+    "title": "Countdown",
+    "imdb_id": "tt10039344",
+    "release_date": "2019-10-24",
+    "production_companies": [
+      {
+        "id": 73118,
+        "logo_path": "/ilgyxz2B9rTdLUy8St7hbekO0y7.png",
+        "name": "Wrigley Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 47729,
+        "logo_path": "/bAxh897TGgdR0Py6wdd0UuE147Z.png",
+        "name": "STXfilms",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 6500000,
+    "revenue": 48021766,
+    "vote_average": 6.205,
+    "vote_count": 2334
+  },
+  {
+    "id": 606856,
+    "title": "Togo",
+    "imdb_id": "tt5116302",
+    "release_date": "2019-12-20",
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "vote_average": 8.137,
+    "vote_count": 2327
+  },
+  {
+    "id": 940551,
+    "title": "Migration",
+    "imdb_id": "tt6495056",
+    "release_date": "2023-12-06",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 6704,
+        "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+        "name": "Illumination",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 72000000,
+    "revenue": 298776052,
+    "vote_average": 7.358,
+    "vote_count": 2280
+  },
+  {
+    "id": 458594,
+    "title": "Peppermint",
+    "imdb_id": "tt6850820",
+    "release_date": "2018-09-06",
+    "production_companies": [
+      {
+        "id": 47729,
+        "logo_path": "/bAxh897TGgdR0Py6wdd0UuE147Z.png",
+        "name": "STXfilms",
+        "origin_country": "US"
+      },
+      {
+        "id": 126,
+        "logo_path": "/kADPanRDkKTxncPXXVahvHPUvCj.png",
+        "name": "Lakeshore Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 3393,
+        "logo_path": "/rv37YfhPg03ugK252E4oXMzgvks.png",
+        "name": "Huayi Brothers Pictures",
+        "origin_country": "CN"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 25000000,
+    "revenue": 53918723,
+    "vote_average": 6.737,
+    "vote_count": 2262
+  },
+  {
+    "id": 426543,
+    "title": "The Nutcracker and the Four Realms",
+    "imdb_id": "tt5523010",
+    "release_date": "2018-10-26",
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 1557,
+        "logo_path": "/ccz9bqCu3jSFKbPFnfWmjAKZLBL.png",
+        "name": "The Mark Gordon Company",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 120000000,
+    "revenue": 173961069,
+    "vote_average": 6.082,
+    "vote_count": 2257
+  },
+  {
+    "id": 1100782,
+    "title": "Smile 2",
+    "imdb_id": "tt29268110",
+    "release_date": "2024-10-16",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 12292,
+        "logo_path": "/5J93SHsuvIV32AE9oSbMi02pqw9.png",
+        "name": "Temple Hill Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 231315,
+        "logo_path": null,
+        "name": "Bad Feeling",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 28000000,
+    "revenue": 138128854,
+    "vote_average": 6.587,
+    "vote_count": 2244
+  },
+  {
+    "id": 431530,
+    "title": "A Bad Moms Christmas",
+    "imdb_id": "tt6359956",
+    "release_date": "2017-08-04",
+    "production_companies": [
+      {
+        "id": 47729,
+        "logo_path": "/bAxh897TGgdR0Py6wdd0UuE147Z.png",
+        "name": "STXfilms",
+        "origin_country": "US"
+      },
+      {
+        "id": 3929,
+        "logo_path": null,
+        "name": "Robert Simonds Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 91921,
+        "logo_path": null,
+        "name": "Suzanne Todd Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 3393,
+        "logo_path": "/rv37YfhPg03ugK252E4oXMzgvks.png",
+        "name": "Huayi Brothers Pictures",
+        "origin_country": "CN"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 28000000,
+    "revenue": 130560428,
+    "vote_average": 6.321,
+    "vote_count": 2219
+  },
+  {
+    "id": 649609,
+    "title": "Renfield",
+    "imdb_id": "tt11358390",
+    "release_date": "2023-04-07",
+    "production_companies": [
+      {
+        "id": 50032,
+        "logo_path": "/ojrMksdtR7Bs2vwERU1LCrjv7vx.png",
+        "name": "Skybound Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 197279,
+        "logo_path": null,
+        "name": "Giant Wildcat",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 65000000,
+    "revenue": 26493921,
+    "vote_average": 6.444,
+    "vote_count": 2178
+  },
+  {
+    "id": 581726,
+    "title": "Infinite",
+    "imdb_id": "tt6654210",
+    "release_date": "2021-09-09",
+    "production_companies": [
+      {
+        "id": 435,
+        "logo_path": "/AjzK0s2w1GtLfR4hqCjVSYi0Sr8.png",
+        "name": "di Bonaventura Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 8537,
+        "logo_path": null,
+        "name": "Closest to the Hole Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 114732,
+        "logo_path": "/tNCbisMxO5mX2X2bOQxHHQZVYnT.png",
+        "name": "New Republic Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 8536,
+        "logo_path": null,
+        "name": "Leverage Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "vote_average": 6.557,
+    "vote_count": 2177
+  },
+  {
+    "id": 273477,
+    "title": "Scouts Guide to the Zombie Apocalypse",
+    "imdb_id": "tt1727776",
+    "release_date": "2015-10-23",
+    "production_companies": [
+      {
+        "id": 8000,
+        "logo_path": "/f8NwLg72BByt3eav7lX1lcJfe60.png",
+        "name": "Broken Road Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 69656,
+        "logo_path": null,
+        "name": "Brucks Entertainment",
+        "origin_country": ""
+      },
+      {
+        "id": 5698,
+        "logo_path": "/meGyUgXybl2X0uJlnvaAWSwVZvt.png",
+        "name": "Oops Doughnuts Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 15000000,
+    "revenue": 14900000,
+    "vote_average": 6.584,
+    "vote_count": 2154
+  },
+  {
+    "id": 460668,
+    "title": "I Feel Pretty",
+    "imdb_id": "tt6791096",
+    "release_date": "2018-04-19",
+    "production_companies": [
+      {
+        "id": 4022,
+        "logo_path": "/q6Xts6ztGkTHrY1WfHttlhL3Pfc.png",
+        "name": "Wonderland Sound and Vision",
+        "origin_country": "US"
+      },
+      {
+        "id": 6626,
+        "logo_path": "/y1PsXJOr4fSUk948lftHFUw67hs.png",
+        "name": "Voltage Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 47729,
+        "logo_path": "/bAxh897TGgdR0Py6wdd0UuE147Z.png",
+        "name": "STXfilms",
+        "origin_country": "US"
+      },
+      {
+        "id": 3393,
+        "logo_path": "/rv37YfhPg03ugK252E4oXMzgvks.png",
+        "name": "Huayi Brothers Pictures",
+        "origin_country": "CN"
+      }
+    ],
+    "budget": 32000000,
+    "revenue": 94539426,
+    "vote_average": 6.381,
+    "vote_count": 2136
+  },
+  {
+    "id": 1111873,
+    "title": "Abigail",
+    "imdb_id": "tt27489557",
+    "release_date": "2024-04-16",
+    "production_companies": [
+      {
+        "id": 130448,
+        "logo_path": "/yHWTTGKbOGZKUd1cp6l3uLyDeiv.png",
+        "name": "Project X Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 126588,
+        "logo_path": "/cNhOITS96oOV7SCgUHxvZlWRecx.png",
+        "name": "Radio Silence",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 19367,
+        "logo_path": null,
+        "name": "Vinson Films",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 28000000,
+    "revenue": 43015969,
+    "vote_average": 6.658,
+    "vote_count": 2135
+  },
+  {
+    "id": 245703,
+    "title": "Midnight Special",
+    "imdb_id": "tt2649554",
+    "release_date": "2016-02-18",
+    "production_companies": [
+      {
+        "id": 19246,
+        "logo_path": "/4zrEZfTf94tyG4wRB599gRS0reU.png",
+        "name": "Faliro House Productions",
+        "origin_country": "GR"
+      },
+      {
+        "id": 50914,
+        "logo_path": null,
+        "name": "Tri-State Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 41624,
+        "logo_path": "/wzKxIeQKlMP0y5CaAw25MD6EQmf.png",
+        "name": "RatPac Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 7493,
+        "logo_path": "/fHitYiGUCkRafgt6VPYQlXWLkdp.png",
+        "name": "FilmNation Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 18000000,
+    "revenue": 7112282,
+    "vote_average": 6.255,
+    "vote_count": 2069
+  },
+  {
+    "id": 616820,
+    "title": "Halloween Ends",
+    "imdb_id": "tt10665342",
+    "release_date": "2022-10-12",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 3172,
+        "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+        "name": "Blumhouse Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 14,
+        "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+        "name": "Miramax",
+        "origin_country": "US"
+      },
+      {
+        "id": 20848,
+        "logo_path": "/xfQxrdf3WumiLoaMS2F3xWO6nKF.png",
+        "name": "Rough House Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 15822,
+        "logo_path": "/fNHvjC0DGO46kz7GFYRoWo91lcY.png",
+        "name": "Trancas International Films",
+        "origin_country": "US"
+      }
+    ],
+    "budget": 33000000,
+    "revenue": 105400796,
+    "vote_average": 6.022,
+    "vote_count": 2053
+  }
+]
