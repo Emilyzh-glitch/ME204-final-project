@@ -4,7 +4,7 @@
 
 - [Your GitHub username](./your-github-username.md)
 
-![heatwave_chart](heatwave_chart.jpg)
+![heatwave_chart](heatwave_chart.png)
 
 
 
