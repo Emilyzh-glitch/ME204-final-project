@@ -1,0 +1,1674 @@
+[
+  {
+    "imdbID": "tt7286456",
+    "Title": "Joker",
+    "Year": "2019",
+    "Genre": "Crime, Drama, Thriller",
+    "Metascore": "59",
+    "imdbRating": "8.3"
+  },
+  {
+    "imdbID": "tt1392190",
+    "Title": "Mad Max: Fury Road",
+    "Year": "2015",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Metascore": "90",
+    "imdbRating": "8.1"
+  },
+  {
+    "imdbID": "tt1386697",
+    "Title": "Suicide Squad",
+    "Year": "2016",
+    "Genre": "Action, Adventure, Fantasy",
+    "Metascore": "40",
+    "imdbRating": "5.9"
+  },
+  {
+    "imdbID": "tt0369610",
+    "Title": "Jurassic World",
+    "Year": "2015",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Metascore": "59",
+    "imdbRating": "6.9"
+  },
+  {
+    "imdbID": "tt0451279",
+    "Title": "Wonder Woman",
+    "Year": "2017",
+    "Genre": "Action, Adventure, Fantasy",
+    "Metascore": "76",
+    "imdbRating": "7.3"
+  },
+  {
+    "imdbID": "tt3183660",
+    "Title": "Fantastic Beasts and Where to Find Them",
+    "Year": "2016",
+    "Genre": "Adventure, Family, Fantasy",
+    "Metascore": "66",
+    "imdbRating": "7.2"
+  },
+  {
+    "imdbID": "tt2975590",
+    "Title": "Batman v Superman: Dawn of Justice",
+    "Year": "2016",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Metascore": "44",
+    "imdbRating": "6.4"
+  },
+  {
+    "imdbID": "tt5013056",
+    "Title": "Dunkirk",
+    "Year": "2017",
+    "Genre": "Action, Drama, History",
+    "Metascore": "94",
+    "imdbRating": "7.8"
+  },
+  {
+    "imdbID": "tt1677720",
+    "Title": "Ready Player One",
+    "Year": "2018",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Metascore": "64",
+    "imdbRating": "7.4"
+  },
+  {
+    "imdbID": "tt2771200",
+    "Title": "Beauty and the Beast",
+    "Year": "2017",
+    "Genre": "Adventure, Family, Fantasy",
+    "Metascore": "65",
+    "imdbRating": "7.1"
+  },
+  {
+    "imdbID": "tt6644200",
+    "Title": "A Quiet Place",
+    "Year": "2018",
+    "Genre": "Drama, Horror, Sci-Fi",
+    "Metascore": "82",
+    "imdbRating": "7.5"
+  },
+  {
+    "imdbID": "tt1477834",
+    "Title": "Aquaman",
+    "Year": "2018",
+    "Genre": "Action, Adventure, Fantasy",
+    "Metascore": "55",
+    "imdbRating": "6.8"
+  },
+  {
+    "imdbID": "tt0974015",
+    "Title": "Justice League",
+    "Year": "2017",
+    "Genre": "Action, Adventure, Fantasy",
+    "Metascore": "45",
+    "imdbRating": "6.0"
+  },
+  {
+    "imdbID": "tt1790809",
+    "Title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+    "Year": "2017",
+    "Genre": "Action, Adventure, Fantasy",
+    "Metascore": "39",
+    "imdbRating": "6.5"
+  },
+  {
+    "imdbID": "tt4881806",
+    "Title": "Jurassic World: Fallen Kingdom",
+    "Year": "2018",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Metascore": "51",
+    "imdbRating": "6.2"
+  },
+  {
+    "imdbID": "tt2322441",
+    "Title": "Fifty Shades of Grey",
+    "Year": "2015",
+    "Genre": "Drama, Romance, Thriller",
+    "Metascore": "46",
+    "imdbRating": "4.2"
+  },
+  {
+    "imdbID": "tt1517451",
+    "Title": "A Star Is Born",
+    "Year": "2018",
+    "Genre": "Drama, Music, Romance",
+    "Metascore": "88",
+    "imdbRating": "7.6"
+  },
+  {
+    "imdbID": "tt1877830",
+    "Title": "The Batman",
+    "Year": "2022",
+    "Genre": "Action, Crime, Drama",
+    "Metascore": "72",
+    "imdbRating": "7.8"
+  },
+  {
+    "imdbID": "tt15398776",
+    "Title": "Oppenheimer",
+    "Year": "2023",
+    "Genre": "Biography, Drama, History",
+    "Metascore": "90",
+    "imdbRating": "8.2"
+  },
+  {
+    "imdbID": "tt4123430",
+    "Title": "Fantastic Beasts: The Crimes of Grindelwald",
+    "Year": "2018",
+    "Genre": "Adventure, Family, Fantasy",
+    "Metascore": "52",
+    "imdbRating": "6.5"
+  },
+  {
+    "imdbID": "tt2820852",
+    "Title": "Furious 7",
+    "Year": "2015",
+    "Genre": "Action, Thriller",
+    "Metascore": "67",
+    "imdbRating": "7.1"
+  },
+  {
+    "imdbID": "tt1517268",
+    "Title": "Barbie",
+    "Year": "2023",
+    "Genre": "Adventure, Comedy, Fantasy",
+    "Metascore": "80",
+    "imdbRating": "6.8"
+  },
+  {
+    "imdbID": "tt6723592",
+    "Title": "Tenet",
+    "Year": "2020",
+    "Genre": "Action, Sci-Fi, Thriller",
+    "Metascore": "69",
+    "imdbRating": "7.3"
+  },
+  {
+    "imdbID": "tt1745960",
+    "Title": "Top Gun: Maverick",
+    "Year": "2022",
+    "Genre": "Action, Drama",
+    "Metascore": "78",
+    "imdbRating": "8.2"
+  },
+  {
+    "imdbID": "tt2293640",
+    "Title": "Minions",
+    "Year": "2015",
+    "Genre": "Animation, Adventure, Comedy",
+    "Metascore": "56",
+    "imdbRating": "6.4"
+  },
+  {
+    "imdbID": "tt12361974",
+    "Title": "Zack Snyder's Justice League",
+    "Year": "2021",
+    "Genre": "Action, Adventure, Fantasy",
+    "Metascore": "54",
+    "imdbRating": "7.9"
+  },
+  {
+    "imdbID": "tt6718170",
+    "Title": "The Super Mario Bros. Movie",
+    "Year": "2023",
+    "Genre": "Animation, Adventure, Comedy",
+    "Metascore": "46",
+    "imdbRating": "7.0"
+  },
+  {
+    "imdbID": "tt7713068",
+    "Title": "Birds of Prey and the Fantabulous Emancipation of One Harley Quinn",
+    "Year": "2020",
+    "Genre": "Action, Comedy, Crime",
+    "Metascore": "60",
+    "imdbRating": "6.1"
+  },
+  {
+    "imdbID": "tt4630562",
+    "Title": "The Fate of the Furious",
+    "Year": "2017",
+    "Genre": "Action, Crime, Thriller",
+    "Metascore": "56",
+    "imdbRating": "6.6"
+  },
+  {
+    "imdbID": "tt6105098",
+    "Title": "The Lion King",
+    "Year": "2019",
+    "Genre": "Animation, Adventure, Drama",
+    "Metascore": "55",
+    "imdbRating": "6.8"
+  },
+  {
+    "imdbID": "tt6139732",
+    "Title": "Aladdin",
+    "Year": "2019",
+    "Genre": "Adventure, Comedy, Family",
+    "Metascore": "53",
+    "imdbRating": "6.9"
+  },
+  {
+    "imdbID": "tt3794354",
+    "Title": "Sonic the Hedgehog",
+    "Year": "2020",
+    "Genre": "Action, Adventure, Comedy",
+    "Metascore": "47",
+    "imdbRating": "6.5"
+  },
+  {
+    "imdbID": "tt3228774",
+    "Title": "Cruella",
+    "Year": "2021",
+    "Genre": "Adventure, Comedy, Crime",
+    "Metascore": "59",
+    "imdbRating": "7.3"
+  },
+  {
+    "imdbID": "tt1596363",
+    "Title": "The Big Short",
+    "Year": "2015",
+    "Genre": "Biography, Comedy, Drama",
+    "Metascore": "81",
+    "imdbRating": "7.8"
+  },
+  {
+    "imdbID": "tt2381249",
+    "Title": "Mission: Impossible - Rogue Nation",
+    "Year": "2015",
+    "Genre": "Action, Adventure, Thriller",
+    "Metascore": "75",
+    "imdbRating": "7.4"
+  },
+  {
+    "imdbID": "tt6334354",
+    "Title": "The Suicide Squad",
+    "Year": "2021",
+    "Genre": "Action, Adventure, Comedy",
+    "Metascore": "72",
+    "imdbRating": "7.2"
+  },
+  {
+    "imdbID": "tt2798920",
+    "Title": "Annihilation",
+    "Year": "2018",
+    "Genre": "Adventure, Drama, Horror",
+    "Metascore": "79",
+    "imdbRating": "6.8"
+  },
+  {
+    "imdbID": "tt1293847",
+    "Title": "xXx: Return of Xander Cage",
+    "Year": "2017",
+    "Genre": "Action, Adventure, Thriller",
+    "Metascore": "42",
+    "imdbRating": "5.2"
+  },
+  {
+    "imdbID": "tt4912910",
+    "Title": "Mission: Impossible - Fallout",
+    "Year": "2018",
+    "Genre": "Action, Adventure, Thriller",
+    "Metascore": "87",
+    "imdbRating": "7.7"
+  },
+  {
+    "imdbID": "tt7126948",
+    "Title": "Wonder Woman 1984",
+    "Year": "2020",
+    "Genre": "Action, Adventure, Fantasy",
+    "Metascore": "60",
+    "imdbRating": "5.3"
+  },
+  {
+    "imdbID": "tt2126355",
+    "Title": "San Andreas",
+    "Year": "2015",
+    "Genre": "Action, Adventure, Thriller",
+    "Metascore": "43",
+    "imdbRating": "6.1"
+  },
+  {
+    "imdbID": "tt1340138",
+    "Title": "Terminator Genisys",
+    "Year": "2015",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Metascore": "38",
+    "imdbRating": "6.3"
+  },
+  {
+    "imdbID": "tt5164214",
+    "Title": "Ocean's Eight",
+    "Year": "2018",
+    "Genre": "Action, Comedy, Crime",
+    "Metascore": "61",
+    "imdbRating": "6.3"
+  },
+  {
+    "imdbID": "tt1219827",
+    "Title": "Ghost in the Shell",
+    "Year": "2017",
+    "Genre": "Action, Crime, Drama",
+    "Metascore": "52",
+    "imdbRating": "6.3"
+  },
+  {
+    "imdbID": "tt2709768",
+    "Title": "The Secret Life of Pets",
+    "Year": "2016",
+    "Genre": "Animation, Adventure, Comedy",
+    "Metascore": "61",
+    "imdbRating": "6.5"
+  },
+  {
+    "imdbID": "tt1469304",
+    "Title": "Baywatch",
+    "Year": "2017",
+    "Genre": "Action, Comedy, Crime",
+    "Metascore": "37",
+    "imdbRating": "5.5"
+  },
+  {
+    "imdbID": "tt3040964",
+    "Title": "The Jungle Book",
+    "Year": "2016",
+    "Genre": "Animation, Action, Adventure",
+    "Metascore": "77",
+    "imdbRating": "7.3"
+  },
+  {
+    "imdbID": "tt1365519",
+    "Title": "Tomb Raider",
+    "Year": "2018",
+    "Genre": "Action, Adventure, Fantasy",
+    "Metascore": "48",
+    "imdbRating": "6.3"
+  },
+  {
+    "imdbID": "tt4477536",
+    "Title": "Fifty Shades Freed",
+    "Year": "2018",
+    "Genre": "Drama, Mystery, Romance",
+    "Metascore": "31",
+    "imdbRating": "4.6"
+  },
+  {
+    "imdbID": "tt2381941",
+    "Title": "Focus",
+    "Year": "2015",
+    "Genre": "Comedy, Crime, Drama",
+    "Metascore": "56",
+    "imdbRating": "6.6"
+  },
+  {
+    "imdbID": "tt4779682",
+    "Title": "The Meg",
+    "Year": "2018",
+    "Genre": "Action, Adventure, Horror",
+    "Metascore": "46",
+    "imdbRating": "5.7"
+  },
+  {
+    "imdbID": "tt6857112",
+    "Title": "Us",
+    "Year": "2019",
+    "Genre": "Horror, Mystery, Thriller",
+    "Metascore": "81",
+    "imdbRating": "6.8"
+  },
+  {
+    "imdbID": "tt2637276",
+    "Title": "Ted 2",
+    "Year": "2015",
+    "Genre": "Comedy",
+    "Metascore": "48",
+    "imdbRating": "6.3"
+  },
+  {
+    "imdbID": "tt4465564",
+    "Title": "Fifty Shades Darker",
+    "Year": "2017",
+    "Genre": "Drama, Mystery, Romance",
+    "Metascore": "33",
+    "imdbRating": "4.6"
+  },
+  {
+    "imdbID": "tt6806448",
+    "Title": "Fast & Furious Presents: Hobbs & Shaw",
+    "Year": "2019",
+    "Genre": "Action, Adventure, Thriller",
+    "Metascore": "60",
+    "imdbRating": "6.4"
+  },
+  {
+    "imdbID": "tt3263904",
+    "Title": "Sully",
+    "Year": "2016",
+    "Genre": "Biography, Drama, History",
+    "Metascore": "74",
+    "imdbRating": "7.4"
+  },
+  {
+    "imdbID": "tt5433138",
+    "Title": "F9: The Fast Saga",
+    "Year": "2021",
+    "Genre": "Action, Crime, Thriller",
+    "Metascore": "58",
+    "imdbRating": "5.2"
+  },
+  {
+    "imdbID": "tt2345759",
+    "Title": "The Mummy",
+    "Year": "2017",
+    "Genre": "Action, Adventure, Fantasy",
+    "Metascore": "34",
+    "imdbRating": "5.4"
+  },
+  {
+    "imdbID": "tt3469046",
+    "Title": "Despicable Me 3",
+    "Year": "2017",
+    "Genre": "Animation, Adventure, Comedy",
+    "Metascore": "49",
+    "imdbRating": "6.3"
+  },
+  {
+    "imdbID": "tt8332922",
+    "Title": "A Quiet Place Part II",
+    "Year": "2020",
+    "Genre": "Drama, Horror, Sci-Fi",
+    "Metascore": "71",
+    "imdbRating": "7.2"
+  },
+  {
+    "imdbID": "tt1661199",
+    "Title": "Cinderella",
+    "Year": "2015",
+    "Genre": "Adventure, Drama, Family",
+    "Metascore": "67",
+    "imdbRating": "6.9"
+  },
+  {
+    "imdbID": "tt2140479",
+    "Title": "The Accountant",
+    "Year": "2016",
+    "Genre": "Action, Crime, Drama",
+    "Metascore": "51",
+    "imdbRating": "7.3"
+  },
+  {
+    "imdbID": "tt1964418",
+    "Title": "Tomorrowland",
+    "Year": "2015",
+    "Genre": "Action, Adventure, Family",
+    "Metascore": "60",
+    "imdbRating": "6.4"
+  },
+  {
+    "imdbID": "tt2361509",
+    "Title": "The Intern",
+    "Year": "2015",
+    "Genre": "Comedy, Drama",
+    "Metascore": "51",
+    "imdbRating": "7.1"
+  },
+  {
+    "imdbID": "tt1617661",
+    "Title": "Jupiter Ascending",
+    "Year": "2015",
+    "Genre": "Animation, Action, Adventure",
+    "Metascore": "40",
+    "imdbRating": "5.3"
+  },
+  {
+    "imdbID": "tt2660888",
+    "Title": "Star Trek Beyond",
+    "Year": "2016",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Metascore": "68",
+    "imdbRating": "7.0"
+  },
+  {
+    "imdbID": "tt5109784",
+    "Title": "Mother!",
+    "Year": "2017",
+    "Genre": "Drama, Horror, Mystery",
+    "Metascore": "76",
+    "imdbRating": "6.6"
+  },
+  {
+    "imdbID": "tt8041270",
+    "Title": "Jurassic World: Dominion",
+    "Year": "2022",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Metascore": "38",
+    "imdbRating": "5.6"
+  },
+  {
+    "imdbID": "tt6443346",
+    "Title": "Black Adam",
+    "Year": "2022",
+    "Genre": "Action, Adventure, Fantasy",
+    "Metascore": "41",
+    "imdbRating": "6.1"
+  },
+  {
+    "imdbID": "tt4566758",
+    "Title": "Mulan",
+    "Year": "2020",
+    "Genre": "Action, Adventure, Drama",
+    "Metascore": "66",
+    "imdbRating": "5.8"
+  },
+  {
+    "imdbID": "tt1638355",
+    "Title": "The Man from U.N.C.L.E.",
+    "Year": "2015",
+    "Genre": "Action, Adventure, Comedy",
+    "Metascore": "56",
+    "imdbRating": "7.2"
+  },
+  {
+    "imdbID": "tt2567026",
+    "Title": "Alice Through the Looking Glass",
+    "Year": "2016",
+    "Genre": "Adventure, Family, Fantasy",
+    "Metascore": "34",
+    "imdbRating": "6.2"
+  },
+  {
+    "imdbID": "tt3371366",
+    "Title": "Transformers: The Last Knight",
+    "Year": "2017",
+    "Genre": "Action, Adventure, Comedy",
+    "Metascore": "27",
+    "imdbRating": "5.2"
+  },
+  {
+    "imdbID": "tt4701182",
+    "Title": "Bumblebee",
+    "Year": "2018",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Metascore": "66",
+    "imdbRating": "6.7"
+  },
+  {
+    "imdbID": "tt7146812",
+    "Title": "Onward",
+    "Year": "2020",
+    "Genre": "Animation, Adventure, Comedy",
+    "Metascore": "61",
+    "imdbRating": "7.4"
+  },
+  {
+    "imdbID": "tt5308322",
+    "Title": "Happy Death Day",
+    "Year": "2017",
+    "Genre": "Comedy, Horror, Mystery",
+    "Metascore": "58",
+    "imdbRating": "6.6"
+  },
+  {
+    "imdbID": "tt10838180",
+    "Title": "The Matrix Resurrections",
+    "Year": "2021",
+    "Genre": "Action, Sci-Fi",
+    "Metascore": "63",
+    "imdbRating": "5.6"
+  },
+  {
+    "imdbID": "tt0918940",
+    "Title": "The Legend of Tarzan",
+    "Year": "2016",
+    "Genre": "Action, Adventure, Drama",
+    "Metascore": "44",
+    "imdbRating": "6.2"
+  },
+  {
+    "imdbID": "tt4777008",
+    "Title": "Maleficent: Mistress of Evil",
+    "Year": "2019",
+    "Genre": "Adventure, Drama, Family",
+    "Metascore": "43",
+    "imdbRating": "6.6"
+  },
+  {
+    "imdbID": "tt5433140",
+    "Title": "Fast X",
+    "Year": "2023",
+    "Genre": "Action, Adventure, Crime",
+    "Metascore": "56",
+    "imdbRating": "5.7"
+  },
+  {
+    "imdbID": "tt0870154",
+    "Title": "Jungle Cruise",
+    "Year": "2021",
+    "Genre": "Action, Adventure, Comedy",
+    "Metascore": "50",
+    "imdbRating": "6.5"
+  },
+  {
+    "imdbID": "tt1972591",
+    "Title": "King Arthur: Legend of the Sword",
+    "Year": "2017",
+    "Genre": "Action, Adventure, Drama",
+    "Metascore": "41",
+    "imdbRating": "6.7"
+  },
+  {
+    "imdbID": "tt7144666",
+    "Title": "The Black Phone",
+    "Year": "2022",
+    "Genre": "Horror, Mystery, Thriller",
+    "Metascore": "65",
+    "imdbRating": "6.9"
+  },
+  {
+    "imdbID": "tt12412888",
+    "Title": "Sonic the Hedgehog 2",
+    "Year": "2022",
+    "Genre": "Action, Adventure, Comedy",
+    "Metascore": "47",
+    "imdbRating": "6.5"
+  },
+  {
+    "imdbID": "tt6450804",
+    "Title": "Terminator: Dark Fate",
+    "Year": "2019",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Metascore": "54",
+    "imdbRating": "6.2"
+  },
+  {
+    "imdbID": "tt1213641",
+    "Title": "First Man",
+    "Year": "2018",
+    "Genre": "Biography, Drama, History",
+    "Metascore": "84",
+    "imdbRating": "7.3"
+  },
+  {
+    "imdbID": "tt2034800",
+    "Title": "The Great Wall",
+    "Year": "2016",
+    "Genre": "Action, Adventure, Fantasy",
+    "Metascore": "42",
+    "imdbRating": "5.9"
+  },
+  {
+    "imdbID": "tt2005151",
+    "Title": "War Dogs",
+    "Year": "2016",
+    "Genre": "Biography, Comedy, Crime",
+    "Metascore": "57",
+    "imdbRating": "7.1"
+  },
+  {
+    "imdbID": "tt2848292",
+    "Title": "Pitch Perfect 2",
+    "Year": "2015",
+    "Genre": "Comedy, Music",
+    "Metascore": "63",
+    "imdbRating": "6.4"
+  },
+  {
+    "imdbID": "tt4094724",
+    "Title": "The Purge: Election Year",
+    "Year": "2016",
+    "Genre": "Action, Horror, Sci-Fi",
+    "Metascore": "55",
+    "imdbRating": "6.0"
+  },
+  {
+    "imdbID": "tt1025100",
+    "Title": "Gemini Man",
+    "Year": "2019",
+    "Genre": "Action, Sci-Fi, Thriller",
+    "Metascore": "38",
+    "imdbRating": "5.7"
+  },
+  {
+    "imdbID": "tt4116284",
+    "Title": "The Lego Batman Movie",
+    "Year": "2017",
+    "Genre": "Animation, Action, Adventure",
+    "Metascore": "75",
+    "imdbRating": "7.3"
+  },
+  {
+    "imdbID": "tt7959026",
+    "Title": "The Mule",
+    "Year": "2018",
+    "Genre": "Crime, Drama, Thriller",
+    "Metascore": "58",
+    "imdbRating": "7.0"
+  },
+  {
+    "imdbID": "tt3393786",
+    "Title": "Jack Reacher: Never Go Back",
+    "Year": "2016",
+    "Genre": "Action, Thriller",
+    "Metascore": "47",
+    "imdbRating": "6.2"
+  },
+  {
+    "imdbID": "tt5758778",
+    "Title": "Skyscraper",
+    "Year": "2018",
+    "Genre": "Action, Adventure, Thriller",
+    "Metascore": "51",
+    "imdbRating": "5.8"
+  },
+  {
+    "imdbID": "tt5090568",
+    "Title": "Transformers: Rise of the Beasts",
+    "Year": "2023",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Metascore": "42",
+    "imdbRating": "6.0"
+  },
+  {
+    "imdbID": "tt2719848",
+    "Title": "Everest",
+    "Year": "2015",
+    "Genre": "Adventure, Biography, Drama",
+    "Metascore": "64",
+    "imdbRating": "7.1"
+  },
+  {
+    "imdbID": "tt1981128",
+    "Title": "Geostorm",
+    "Year": "2017",
+    "Genre": "Action, Sci-Fi, Thriller",
+    "Metascore": "21",
+    "imdbRating": "5.4"
+  },
+  {
+    "imdbID": "tt1571234",
+    "Title": "Mortal Engines",
+    "Year": "2018",
+    "Genre": "Action, Adventure, Fantasy",
+    "Metascore": "44",
+    "imdbRating": "6.1"
+  },
+  {
+    "imdbID": "tt9603212",
+    "Title": "Mission: Impossible - Dead Reckoning Part One",
+    "Year": "2023",
+    "Genre": "Action, Adventure, Thriller",
+    "Metascore": "81",
+    "imdbRating": "7.6"
+  },
+  {
+    "imdbID": "tt4123432",
+    "Title": "Fantastic Beasts: The Secrets of Dumbledore",
+    "Year": "2022",
+    "Genre": "Adventure, Fantasy",
+    "Metascore": "47",
+    "imdbRating": "6.2"
+  },
+  {
+    "imdbID": "tt1502407",
+    "Title": "Halloween",
+    "Year": "2018",
+    "Genre": "Crime, Drama, Horror",
+    "Metascore": "67",
+    "imdbRating": "6.5"
+  },
+  {
+    "imdbID": "tt0439572",
+    "Title": "The Flash",
+    "Year": "2023",
+    "Genre": "Action, Adventure, Fantasy",
+    "Metascore": "55",
+    "imdbRating": "6.6"
+  },
+  {
+    "imdbID": "tt2381991",
+    "Title": "The Huntsman: Winter's War",
+    "Year": "2016",
+    "Genre": "Action, Adventure, Drama",
+    "Metascore": "35",
+    "imdbRating": "6.1"
+  },
+  {
+    "imdbID": "tt3532216",
+    "Title": "American Made",
+    "Year": "2017",
+    "Genre": "Action, Comedy, Crime",
+    "Metascore": "65",
+    "imdbRating": "7.1"
+  },
+  {
+    "imdbID": "tt2066051",
+    "Title": "Rocketman",
+    "Year": "2019",
+    "Genre": "Biography, Drama, Music",
+    "Metascore": "69",
+    "imdbRating": "7.3"
+  },
+  {
+    "imdbID": "tt10954984",
+    "Title": "Nope",
+    "Year": "2022",
+    "Genre": "Horror, Mystery, Sci-Fi",
+    "Metascore": "77",
+    "imdbRating": "6.8"
+  },
+  {
+    "imdbID": "tt12037194",
+    "Title": "Furiosa: A Mad Max Saga",
+    "Year": "2024",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Metascore": "79",
+    "imdbRating": "7.5"
+  },
+  {
+    "imdbID": "tt5606664",
+    "Title": "Doctor Sleep",
+    "Year": "2019",
+    "Genre": "Drama, Fantasy, Horror",
+    "Metascore": "59",
+    "imdbRating": "7.3"
+  },
+  {
+    "imdbID": "tt10954652",
+    "Title": "Old",
+    "Year": "2021",
+    "Genre": "Drama, Mystery, Thriller",
+    "Metascore": "55",
+    "imdbRating": "5.8"
+  },
+  {
+    "imdbID": "tt3640424",
+    "Title": "Allied",
+    "Year": "2016",
+    "Genre": "Action, Drama, Romance",
+    "Metascore": "60",
+    "imdbRating": "7.1"
+  },
+  {
+    "imdbID": "tt2906216",
+    "Title": "Dungeons & Dragons: Honor Among Thieves",
+    "Year": "2023",
+    "Genre": "Action, Adventure, Comedy",
+    "Metascore": "72",
+    "imdbRating": "7.2"
+  },
+  {
+    "imdbID": "tt4438848",
+    "Title": "Neighbors 2: Sorority Rising",
+    "Year": "2016",
+    "Genre": "Comedy",
+    "Metascore": "58",
+    "imdbRating": "5.7"
+  },
+  {
+    "imdbID": "tt9218128",
+    "Title": "Gladiator II",
+    "Year": "2024",
+    "Genre": "Action, Adventure, Drama",
+    "Metascore": "64",
+    "imdbRating": "6.4"
+  },
+  {
+    "imdbID": "tt3861390",
+    "Title": "Dumbo",
+    "Year": "2019",
+    "Genre": "Animation, Adventure, Family",
+    "Metascore": "51",
+    "imdbRating": "6.2"
+  },
+  {
+    "imdbID": "tt2222042",
+    "Title": "Love and Monsters",
+    "Year": "2020",
+    "Genre": "Action, Adventure, Comedy",
+    "Metascore": "63",
+    "imdbRating": "6.9"
+  },
+  {
+    "imdbID": "tt2709692",
+    "Title": "The Grinch",
+    "Year": "2018",
+    "Genre": "Animation, Comedy, Family",
+    "Metascore": "51",
+    "imdbRating": "6.4"
+  },
+  {
+    "imdbID": "tt6166392",
+    "Title": "Wonka",
+    "Year": "2023",
+    "Genre": "Adventure, Comedy, Family",
+    "Metascore": "66",
+    "imdbRating": "6.9"
+  },
+  {
+    "imdbID": "tt1390411",
+    "Title": "In the Heart of the Sea",
+    "Year": "2015",
+    "Genre": "Action, Adventure, Biography",
+    "Metascore": "47",
+    "imdbRating": "6.9"
+  },
+  {
+    "imdbID": "tt2080374",
+    "Title": "Steve Jobs",
+    "Year": "2015",
+    "Genre": "Biography, Drama",
+    "Metascore": "82",
+    "imdbRating": "7.2"
+  },
+  {
+    "imdbID": "tt6133466",
+    "Title": "The First Purge",
+    "Year": "2018",
+    "Genre": "Action, Horror, Sci-Fi",
+    "Metascore": "54",
+    "imdbRating": "5.2"
+  },
+  {
+    "imdbID": "tt3554046",
+    "Title": "Space Jam: A New Legacy",
+    "Year": "2021",
+    "Genre": "Animation, Adventure, Comedy",
+    "Metascore": "36",
+    "imdbRating": "4.5"
+  },
+  {
+    "imdbID": "tt1398426",
+    "Title": "Straight Outta Compton",
+    "Year": "2015",
+    "Genre": "Biography, Drama, History",
+    "Metascore": "72",
+    "imdbRating": "7.8"
+  },
+  {
+    "imdbID": "tt15474916",
+    "Title": "Smile",
+    "Year": "2022",
+    "Genre": "Horror, Mystery, Thriller",
+    "Metascore": "68",
+    "imdbRating": "6.5"
+  },
+  {
+    "imdbID": "tt1389072",
+    "Title": "Downsizing",
+    "Year": "2017",
+    "Genre": "Drama, Fantasy, Sci-Fi",
+    "Metascore": "64",
+    "imdbRating": "5.8"
+  },
+  {
+    "imdbID": "tt5113044",
+    "Title": "Minions: The Rise of Gru",
+    "Year": "2022",
+    "Genre": "Animation, Adventure, Comedy",
+    "Metascore": "56",
+    "imdbRating": "6.5"
+  },
+  {
+    "imdbID": "tt9224104",
+    "Title": "Meg 2: The Trench",
+    "Year": "2023",
+    "Genre": "Action, Adventure, Horror",
+    "Metascore": "40",
+    "imdbRating": "5.0"
+  },
+  {
+    "imdbID": "tt0475290",
+    "Title": "Hail, Caesar!",
+    "Year": "2016",
+    "Genre": "Comedy, Drama, Mystery",
+    "Metascore": "72",
+    "imdbRating": "6.3"
+  },
+  {
+    "imdbID": "tt4172430",
+    "Title": "13 Hours",
+    "Year": "2016",
+    "Genre": "Action, Drama, History",
+    "Metascore": "48",
+    "imdbRating": "7.3"
+  },
+  {
+    "imdbID": "tt3104988",
+    "Title": "Crazy Rich Asians",
+    "Year": "2018",
+    "Genre": "Comedy, Drama, Romance",
+    "Metascore": "74",
+    "imdbRating": "6.9"
+  },
+  {
+    "imdbID": "tt11245972",
+    "Title": "Scream",
+    "Year": "2022",
+    "Genre": "Horror, Mystery, Thriller",
+    "Metascore": "60",
+    "imdbRating": "6.3"
+  },
+  {
+    "imdbID": "tt3704428",
+    "Title": "Elvis",
+    "Year": "2022",
+    "Genre": "Biography, Drama, Music",
+    "Metascore": "64",
+    "imdbRating": "7.3"
+  },
+  {
+    "imdbID": "tt6673612",
+    "Title": "Dolittle",
+    "Year": "2020",
+    "Genre": "Adventure, Comedy, Family",
+    "Metascore": "26",
+    "imdbRating": "5.6"
+  },
+  {
+    "imdbID": "tt1684562",
+    "Title": "The Fall Guy",
+    "Year": "2024",
+    "Genre": "Action, Comedy, Drama",
+    "Metascore": "73",
+    "imdbRating": "6.8"
+  },
+  {
+    "imdbID": "tt3949660",
+    "Title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+    "Year": "2016",
+    "Genre": "Action, Adventure, Comedy",
+    "Metascore": "40",
+    "imdbRating": "5.9"
+  },
+  {
+    "imdbID": "tt10640346",
+    "Title": "Babylon",
+    "Year": "2022",
+    "Genre": "Comedy, Drama",
+    "Metascore": "61",
+    "imdbRating": "7.1"
+  },
+  {
+    "imdbID": "tt5001718",
+    "Title": "Everything, Everything",
+    "Year": "2017",
+    "Genre": "Drama, Romance",
+    "Metascore": "52",
+    "imdbRating": "6.3"
+  },
+  {
+    "imdbID": "tt8244784",
+    "Title": "The Hunt",
+    "Year": "2020",
+    "Genre": "Action, Horror, Thriller",
+    "Metascore": "50",
+    "imdbRating": "6.6"
+  },
+  {
+    "imdbID": "tt8155288",
+    "Title": "Happy Death Day 2U",
+    "Year": "2019",
+    "Genre": "Comedy, Horror, Mystery",
+    "Metascore": "57",
+    "imdbRating": "6.2"
+  },
+  {
+    "imdbID": "tt3691740",
+    "Title": "The BFG",
+    "Year": "2016",
+    "Genre": "Adventure, Family, Fantasy",
+    "Metascore": "66",
+    "imdbRating": "6.3"
+  },
+  {
+    "imdbID": "tt2548396",
+    "Title": "The Cloverfield Paradox",
+    "Year": "2018",
+    "Genre": "Horror, Sci-Fi, Thriller",
+    "Metascore": "37",
+    "imdbRating": "5.5"
+  },
+  {
+    "imdbID": "tt9663764",
+    "Title": "Aquaman and the Lost Kingdom",
+    "Year": "2023",
+    "Genre": "Action, Adventure, Fantasy",
+    "Metascore": "42",
+    "imdbRating": "5.6"
+  },
+  {
+    "imdbID": "tt4799066",
+    "Title": "Midnight Sun",
+    "Year": "2018",
+    "Genre": "Drama, Romance",
+    "Metascore": "38",
+    "imdbRating": "6.6"
+  },
+  {
+    "imdbID": "tt5028340",
+    "Title": "Mary Poppins Returns",
+    "Year": "2018",
+    "Genre": "Adventure, Comedy, Family",
+    "Metascore": "66",
+    "imdbRating": "6.7"
+  },
+  {
+    "imdbID": "tt1528854",
+    "Title": "Daddy's Home",
+    "Year": "2015",
+    "Genre": "Comedy, Family",
+    "Metascore": "42",
+    "imdbRating": "6.2"
+  },
+  {
+    "imdbID": "tt0837563",
+    "Title": "Pet Sematary",
+    "Year": "2019",
+    "Genre": "Horror, Mystery, Thriller",
+    "Metascore": "57",
+    "imdbRating": "5.7"
+  },
+  {
+    "imdbID": "tt13433802",
+    "Title": "A Quiet Place: Day One",
+    "Year": "2024",
+    "Genre": "Drama, Horror, Sci-Fi",
+    "Metascore": "68",
+    "imdbRating": "6.2"
+  },
+  {
+    "imdbID": "tt8364368",
+    "Title": "Crawl",
+    "Year": "2019",
+    "Genre": "Action, Horror, Thriller",
+    "Metascore": "60",
+    "imdbRating": "6.1"
+  },
+  {
+    "imdbID": "tt6048922",
+    "Title": "Greyhound",
+    "Year": "2020",
+    "Genre": "Drama, History, War",
+    "Metascore": "64",
+    "imdbRating": "7.0"
+  },
+  {
+    "imdbID": "tt5113040",
+    "Title": "The Secret Life of Pets 2",
+    "Year": "2019",
+    "Genre": "Animation, Adventure, Comedy",
+    "Metascore": "55",
+    "imdbRating": "6.4"
+  },
+  {
+    "imdbID": "tt18259086",
+    "Title": "Sonic the Hedgehog 3",
+    "Year": "2024",
+    "Genre": "Action, Adventure, Comedy",
+    "Metascore": "56",
+    "imdbRating": "6.9"
+  },
+  {
+    "imdbID": "tt5971474",
+    "Title": "The Little Mermaid",
+    "Year": "2023",
+    "Genre": "Adventure, Family, Fantasy",
+    "Metascore": "59",
+    "imdbRating": "7.2"
+  },
+  {
+    "imdbID": "tt7510222",
+    "Title": "Despicable Me 4",
+    "Year": "2024",
+    "Genre": "Animation, Adventure, Comedy",
+    "Metascore": "52",
+    "imdbRating": "6.2"
+  },
+  {
+    "imdbID": "tt7401588",
+    "Title": "Instant Family",
+    "Year": "2018",
+    "Genre": "Comedy, Drama",
+    "Metascore": "57",
+    "imdbRating": "7.3"
+  },
+  {
+    "imdbID": "tt17663992",
+    "Title": "Scream VI",
+    "Year": "2023",
+    "Genre": "Horror, Mystery, Thriller",
+    "Metascore": "61",
+    "imdbRating": "6.4"
+  },
+  {
+    "imdbID": "tt2049403",
+    "Title": "Beetlejuice Beetlejuice",
+    "Year": "2024",
+    "Genre": "Comedy, Fantasy, Horror",
+    "Metascore": "62",
+    "imdbRating": "6.6"
+  },
+  {
+    "imdbID": "tt5726086",
+    "Title": "Insidious: The Last Key",
+    "Year": "2018",
+    "Genre": "Horror, Mystery, Thriller",
+    "Metascore": "49",
+    "imdbRating": "5.7"
+  },
+  {
+    "imdbID": "tt4530422",
+    "Title": "Overlord",
+    "Year": "2018",
+    "Genre": "Action, Horror, Sci-Fi",
+    "Metascore": "60",
+    "imdbRating": "6.6"
+  },
+  {
+    "imdbID": "tt9362930",
+    "Title": "Blue Beetle",
+    "Year": "2023",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Metascore": "61",
+    "imdbRating": "5.9"
+  },
+  {
+    "imdbID": "tt15679400",
+    "Title": "Knock at the Cabin",
+    "Year": "2023",
+    "Genre": "Horror, Mystery, Thriller",
+    "Metascore": "63",
+    "imdbRating": "6.1"
+  },
+  {
+    "imdbID": "tt1262426",
+    "Title": "Wicked",
+    "Year": "2024",
+    "Genre": "Fantasy, Musical, Romance",
+    "Metascore": "73",
+    "imdbRating": "7.4"
+  },
+  {
+    "imdbID": "tt12584954",
+    "Title": "Twisters",
+    "Year": "2024",
+    "Genre": "Action, Adventure, Thriller",
+    "Metascore": "65",
+    "imdbRating": "6.5"
+  },
+  {
+    "imdbID": "tt9848626",
+    "Title": "Hotel Transylvania 4: Transformania",
+    "Year": "2022",
+    "Genre": "Animation, Adventure, Comedy",
+    "Metascore": "46",
+    "imdbRating": "6.0"
+  },
+  {
+    "imdbID": "tt4823776",
+    "Title": "The SpongeBob Movie: Sponge on the Run",
+    "Year": "2020",
+    "Genre": "Animation, Adventure, Comedy",
+    "Metascore": "65",
+    "imdbRating": "5.9"
+  },
+  {
+    "imdbID": "tt0805647",
+    "Title": "The Witches",
+    "Year": "2020",
+    "Genre": "Adventure, Family, Fantasy",
+    "Metascore": "47",
+    "imdbRating": "5.4"
+  },
+  {
+    "imdbID": "tt2199571",
+    "Title": "Run All Night",
+    "Year": "2015",
+    "Genre": "Action, Crime, Thriller",
+    "Metascore": "59",
+    "imdbRating": "6.6"
+  },
+  {
+    "imdbID": "tt11315808",
+    "Title": "Joker: Folie \u00e0 Deux",
+    "Year": "2024",
+    "Genre": "Drama, Musical, Thriller",
+    "Metascore": "45",
+    "imdbRating": "5.2"
+  },
+  {
+    "imdbID": "tt4575576",
+    "Title": "Christopher Robin",
+    "Year": "2018",
+    "Genre": "Adventure, Comedy, Drama",
+    "Metascore": "60",
+    "imdbRating": "7.2"
+  },
+  {
+    "imdbID": "tt2436386",
+    "Title": "Project Almanac",
+    "Year": "2015",
+    "Genre": "Drama, Mystery, Sci-Fi",
+    "Metascore": "47",
+    "imdbRating": "6.4"
+  },
+  {
+    "imdbID": "tt9620288",
+    "Title": "King Richard",
+    "Year": "2021",
+    "Genre": "Biography, Drama, Sport",
+    "Metascore": "76",
+    "imdbRating": "7.5"
+  },
+  {
+    "imdbID": "tt3332064",
+    "Title": "Pan",
+    "Year": "2015",
+    "Genre": "Action, Adventure, Comedy",
+    "Metascore": "36",
+    "imdbRating": "5.7"
+  },
+  {
+    "imdbID": "tt10016180",
+    "Title": "The Little Things",
+    "Year": "2021",
+    "Genre": "Crime, Drama, Mystery",
+    "Metascore": "54",
+    "imdbRating": "6.3"
+  },
+  {
+    "imdbID": "tt2671706",
+    "Title": "Fences",
+    "Year": "2016",
+    "Genre": "Drama",
+    "Metascore": "79",
+    "imdbRating": "7.2"
+  },
+  {
+    "imdbID": "tt0499097",
+    "Title": "Without Remorse",
+    "Year": "2021",
+    "Genre": "Action, Drama, Thriller",
+    "Metascore": "41",
+    "imdbRating": "5.8"
+  },
+  {
+    "imdbID": "tt5657846",
+    "Title": "Daddy's Home 2",
+    "Year": "2017",
+    "Genre": "Comedy",
+    "Metascore": "30",
+    "imdbRating": "6.1"
+  },
+  {
+    "imdbID": "tt3513548",
+    "Title": "Richard Jewell",
+    "Year": "2019",
+    "Genre": "Biography, Crime, Drama",
+    "Metascore": "68",
+    "imdbRating": "7.5"
+  },
+  {
+    "imdbID": "tt3152624",
+    "Title": "Trainwreck",
+    "Year": "2015",
+    "Genre": "Comedy, Drama, Romance",
+    "Metascore": "75",
+    "imdbRating": "6.2"
+  },
+  {
+    "imdbID": "tt13186482",
+    "Title": "Mufasa: The Lion King",
+    "Year": "2024",
+    "Genre": "Animation, Adventure, Drama",
+    "Metascore": "56",
+    "imdbRating": "6.6"
+  },
+  {
+    "imdbID": "tt10327252",
+    "Title": "The Forever Purge",
+    "Year": "2021",
+    "Genre": "Action, Crime, Drama",
+    "Metascore": "53",
+    "imdbRating": "5.4"
+  },
+  {
+    "imdbID": "tt8623904",
+    "Title": "Last Christmas",
+    "Year": "2019",
+    "Genre": "Comedy, Drama, Fantasy",
+    "Metascore": "50",
+    "imdbRating": "6.5"
+  },
+  {
+    "imdbID": "tt4361050",
+    "Title": "Ouija: Origin of Evil",
+    "Year": "2016",
+    "Genre": "Drama, Horror, Mystery",
+    "Metascore": "65",
+    "imdbRating": "6.2"
+  },
+  {
+    "imdbID": "tt0498381",
+    "Title": "Rings",
+    "Year": "2017",
+    "Genre": "Drama, Horror, Mystery",
+    "Metascore": "25",
+    "imdbRating": "4.5"
+  },
+  {
+    "imdbID": "tt2388771",
+    "Title": "Mowgli: Legend of the Jungle",
+    "Year": "2018",
+    "Genre": "Adventure, Drama, Fantasy",
+    "Metascore": "51",
+    "imdbRating": "6.5"
+  },
+  {
+    "imdbID": "tt1361336",
+    "Title": "Tom & Jerry",
+    "Year": "2021",
+    "Genre": "Animation, Adventure, Comedy",
+    "Metascore": "32",
+    "imdbRating": "5.3"
+  },
+  {
+    "imdbID": "tt12003946",
+    "Title": "Violent Night",
+    "Year": "2022",
+    "Genre": "Action, Comedy, Thriller",
+    "Metascore": "55",
+    "imdbRating": "6.7"
+  },
+  {
+    "imdbID": "tt2279373",
+    "Title": "The SpongeBob Movie: Sponge Out of Water",
+    "Year": "2015",
+    "Genre": "Animation, Adventure, Comedy",
+    "Metascore": "62",
+    "imdbRating": "6.0"
+  },
+  {
+    "imdbID": "tt4624424",
+    "Title": "Storks",
+    "Year": "2016",
+    "Genre": "Animation, Adventure, Comedy",
+    "Metascore": "56",
+    "imdbRating": "6.8"
+  },
+  {
+    "imdbID": "tt27403986",
+    "Title": "Juror #2",
+    "Year": "2024",
+    "Genre": "Crime, Drama, Mystery",
+    "Metascore": "72",
+    "imdbRating": "7.0"
+  },
+  {
+    "imdbID": "tt4916630",
+    "Title": "Just Mercy",
+    "Year": "2019",
+    "Genre": "Biography, Crime, Drama",
+    "Metascore": "68",
+    "imdbRating": "7.6"
+  },
+  {
+    "imdbID": "tt4998632",
+    "Title": "Ambulance",
+    "Year": "2022",
+    "Genre": "Action, Crime, Drama",
+    "Metascore": "55",
+    "imdbRating": "6.1"
+  },
+  {
+    "imdbID": "tt14209916",
+    "Title": "Cocaine Bear",
+    "Year": "2023",
+    "Genre": "Comedy, Crime, Thriller",
+    "Metascore": "54",
+    "imdbRating": "5.9"
+  },
+  {
+    "imdbID": "tt3850590",
+    "Title": "Krampus",
+    "Year": "2015",
+    "Genre": "Comedy, Fantasy, Horror",
+    "Metascore": "49",
+    "imdbRating": "6.2"
+  },
+  {
+    "imdbID": "tt6802400",
+    "Title": "Coming 2 America",
+    "Year": "2021",
+    "Genre": "Comedy, Music",
+    "Metascore": "52",
+    "imdbRating": "5.3"
+  },
+  {
+    "imdbID": "tt1608290",
+    "Title": "Zoolander 2",
+    "Year": "2016",
+    "Genre": "Action, Adventure, Comedy",
+    "Metascore": "34",
+    "imdbRating": "4.7"
+  },
+  {
+    "imdbID": "tt1758810",
+    "Title": "The Snowman",
+    "Year": "2017",
+    "Genre": "Crime, Drama, Horror",
+    "Metascore": "23",
+    "imdbRating": "5.2"
+  },
+  {
+    "imdbID": "tt10039344",
+    "Title": "Countdown",
+    "Year": "2019",
+    "Genre": "Horror, Thriller",
+    "Metascore": "31",
+    "imdbRating": "5.4"
+  },
+  {
+    "imdbID": "tt5116302",
+    "Title": "Togo",
+    "Year": "2019",
+    "Genre": "Adventure, Biography, Drama",
+    "Metascore": "69",
+    "imdbRating": "7.9"
+  },
+  {
+    "imdbID": "tt6495056",
+    "Title": "Migration",
+    "Year": "2023",
+    "Genre": "Animation, Adventure, Comedy",
+    "Metascore": "56",
+    "imdbRating": "6.6"
+  },
+  {
+    "imdbID": "tt6850820",
+    "Title": "Peppermint",
+    "Year": "2018",
+    "Genre": "Action, Thriller",
+    "Metascore": "29",
+    "imdbRating": "6.5"
+  },
+  {
+    "imdbID": "tt5523010",
+    "Title": "The Nutcracker and the Four Realms",
+    "Year": "2018",
+    "Genre": "Adventure, Family, Fantasy",
+    "Metascore": "39",
+    "imdbRating": "5.6"
+  },
+  {
+    "imdbID": "tt29268110",
+    "Title": "Smile 2",
+    "Year": "2024",
+    "Genre": "Horror, Mystery, Thriller",
+    "Metascore": "67",
+    "imdbRating": "6.7"
+  },
+  {
+    "imdbID": "tt6359956",
+    "Title": "A Bad Moms Christmas",
+    "Year": "2017",
+    "Genre": "Comedy",
+    "Metascore": "42",
+    "imdbRating": "5.6"
+  },
+  {
+    "imdbID": "tt11358390",
+    "Title": "Renfield",
+    "Year": "2023",
+    "Genre": "Action, Comedy, Fantasy",
+    "Metascore": "53",
+    "imdbRating": "6.4"
+  },
+  {
+    "imdbID": "tt6654210",
+    "Title": "Infinite",
+    "Year": "2021",
+    "Genre": "Action, Sci-Fi, Thriller",
+    "Metascore": "28",
+    "imdbRating": "5.5"
+  },
+  {
+    "imdbID": "tt1727776",
+    "Title": "Scouts Guide to the Zombie Apocalypse",
+    "Year": "2015",
+    "Genre": "Action, Comedy, Horror",
+    "Metascore": "32",
+    "imdbRating": "6.3"
+  },
+  {
+    "imdbID": "tt6791096",
+    "Title": "I Feel Pretty",
+    "Year": "2018",
+    "Genre": "Comedy, Romance",
+    "Metascore": "48",
+    "imdbRating": "5.7"
+  },
+  {
+    "imdbID": "tt27489557",
+    "Title": "Abigail",
+    "Year": "2024",
+    "Genre": "Action, Comedy, Crime",
+    "Metascore": "62",
+    "imdbRating": "6.5"
+  },
+  {
+    "imdbID": "tt2649554",
+    "Title": "Midnight Special",
+    "Year": "2016",
+    "Genre": "Drama, Mystery, Sci-Fi",
+    "Metascore": "76",
+    "imdbRating": "6.6"
+  },
+  {
+    "imdbID": "tt10665342",
+    "Title": "Halloween Ends",
+    "Year": "2022",
+    "Genre": "Horror, Mystery, Romance",
+    "Metascore": "47",
+    "imdbRating": "5.0"
+  }
+]
