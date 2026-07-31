@@ -1,208 +1,262 @@
 ---
 layout: default
-title: Major Studios, Indie Films, and Audience–Critic Disagreement
+title: Do Major Film Studios Benefit from a "Halo Effect"?
 ---
+
+```{=html}
+<style>
+:root{
+--heading:#2F6F91;
+--accent:#F2C14E;
+--border:#E5E5E5;
+--text:#333333;
+--light:#F7F9FB;
+}
+html{scroll-behavior:smooth;}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;color:var(--text);line-height:1.8;font-size:18px;}
+h1,h2,h3{color:var(--heading);}
+img{width:100%;border:1px solid var(--border);border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,.08);}
+figure{margin:2em auto;}
+figcaption{text-align:center;color:#666;font-size:.92em;margin-top:.6em;}
+.takeaway{background:var(--light);border-left:6px solid var(--heading);padding:16px;border-radius:6px;margin:1.5em 0;}
+</style>
+```
 # ME204 Final Project
 
 - [Emily-glitch](./index.md)
 
-# Major & Non-major Studios Films, and Audience–Critic Disagreement
+# Do Major Film Studios Benefit from a "Halo Effect"?
 
-## Do major studio films receive more favourable audience evaluations?
+When audiences watch a film, are they judging **the film itself**, or
+are they also influenced by **the studio logo that appears before the
+opening scene**?
 
-Movies are evaluated by two different groups: professional critics and general audiences.
+Disney. Warner Bros. Universal. These names carry decades of reputation
+and may create expectations before a film even begins. This project
+explores whether that reputation is reflected in the way audiences and
+professional critics evaluate films.
 
-This project explores whether major studio films show different patterns of audience–critic disagreement compared with indie films.
+Rather than deciding whether a film is objectively *good* or *bad*, this
+project focuses on **disagreement** between audiences and critics.
 
-A possible explanation is the existence of a **studio reputation effect**, where audiences may evaluate films differently depending on the perceived credibility or familiarity of the studio behind them.
+------------------------------------------------------------------------
 
-Rather than assuming that one rating system represents the "true" quality of a film, this analysis treats the difference between audience and critic ratings as a measure of disagreement between two evaluation systems.
+# Research Question
 
-The key measure used throughout this project is:
+> **Do major studio films show larger audience--critic rating gaps than
+> non-major studio films?**
 
-**Audience–Critic Gap = Audience Score − Critic Score**
+Audience ratings were collected from **TMDB**, while professional critic
+ratings (Metascore) were collected from **OMDb**.
 
-A positive value indicates audiences rated a film higher than critics, while a negative value indicates critics rated a film higher than audiences.
+Throughout this project:
 
----
+> **Audience--Critic Gap = Audience Score − Critic Score**
 
-# Key Findings
+Positive values indicate audiences rated a film higher than critics;
+negative values indicate critics rated films higher than audiences.
 
-## 1. Major films show a slightly larger audience–critic gap, while indie films show greater variation
+------------------------------------------------------------------------
 
-Major studio films have a slightly higher average audience–critic gap compared with indie films.
+# Contents
 
-However, the difference is relatively small. Instead, one noticeable pattern is that indie films display a wider distribution, suggesting greater variation in how audiences and critics evaluate these films.
+1.  Overall Pattern
+2.  Where Does the Difference Come From?
+3.  Does Genre Matter?
+4.  So What Does This Mean?
+5.  Measuring the Data
+6.  Limitations
+7.  Future Directions
 
-![Overall audience critic gap comparison](asset/overall_gap_boxplot.png)
+------------------------------------------------------------------------
 
----
+# Overall Pattern
 
-## 2. Studio differences become clearer when considering the direction of disagreement
+## Major and non-major films appear broadly similar overall, but differences emerge when disagreement is separated by direction.
 
-The difference between major and indie films depends on whether audiences or critics give higher ratings.
+::: takeaway
+`<strong>`{=html}Key takeaway.`</strong>`{=html} Overall differences are
+relatively modest. However, separating positive and negative gaps shows
+that the observed difference is mainly driven by cases where critics
+rate films more positively than audiences.
+:::
 
-When audiences rate films higher than critics, major and indie films show relatively similar distributions.
+```{=html}
+<figure>
+```
+`<img src="assets/overall_gap_boxplot.png" alt="Overall audience–critic gap by studio type">`{=html}
+```{=html}
+<figcaption>
+```
+Overall audience--critic gap by studio type.
+```{=html}
+</figcaption>
+```
+```{=html}
+</figure>
+```
+Major studio films exhibit a slightly larger average audience--critic
+gap, while non-major films display a wider spread, indicating greater
+variation.
 
-However, when critics rate films higher than audiences, indie films show a larger negative gap compared with major studio films.
+```{=html}
+<figure>
+```
+`<img src="assets/gap_direction_boxplot.png" alt="Audience–critic gap separated by direction">`{=html}
+```{=html}
+<figcaption>
+```
+Audience--critic disagreement separated by direction.
+```{=html}
+</figcaption>
+```
+```{=html}
+</figure>
+```
+When audiences rate films more highly than critics, the two studio
+groups are broadly similar. In contrast, when critics rate films more
+highly than audiences, non-major films show a noticeably larger negative
+gap.
 
-This suggests that the observed studio difference is mainly driven by cases where audiences are less favourable than critics.
+------------------------------------------------------------------------
 
-![Audience critic gap direction comparison](asset/gap_direction_boxplot.png)
+# Where Does the Difference Come From?
 
----
+## Non-major films are more likely to receive lower audience ratings than critic ratings.
 
-## 3. Indie films contain a higher proportion of cases where audiences rate films below critics
+::: takeaway
+`<strong>`{=html}Key takeaway.`</strong>`{=html} Non-major films contain
+a larger proportion of negative audience--critic gaps and more extreme
+disagreements.
+:::
 
-The distribution of rating gaps shows that indie films have a larger share of negative audience–critic gaps.
+### Major Studio Films
 
-This indicates that indie films more frequently appear in situations where critic evaluations are more positive than audience evaluations.
+```{=html}
+<figure>
+```
+`<img src="assets/hist_major.png" alt="Distribution of gaps for major studio films">`{=html}
+```{=html}
+<figcaption>
+```
+Distribution of audience--critic gaps for major studio films.
+```{=html}
+</figcaption>
+```
+```{=html}
+</figure>
+```
+### Non-major Studio Films
 
-At the same time, indie films also show more extreme values, suggesting that audience and critic opinions may diverge more strongly for some indie releases.
+```{=html}
+<figure>
+```
+`<img src="assets/hist_indie.png" alt="Distribution of gaps for non-major studio films">`{=html}
+```{=html}
+<figcaption>
+```
+Distribution of audience--critic gaps for non-major studio films.
+```{=html}
+</figcaption>
+```
+```{=html}
+</figure>
+```
+Compared with major studio films, non-major productions contain a
+noticeably higher proportion of films where critics rate movies more
+positively than audiences, together with more observations at the
+extreme ends of the distribution.
 
-Major studio
-![Distribution of audience critic gaps](asset/gap_distribution_major.png)
+------------------------------------------------------------------------
 
-Indie studio
-![Distribution of audience critic gaps](asset/gap_distribution_indie.png)
----
+# Does Genre Matter?
 
-## 4. The relationship between studio type and rating disagreement varies across genres
+## The relationship between studio type and audience--critic disagreement depends on genre.
 
-The genre-level analysis shows that differences between major and indie films are not consistent across all genres.
+::: takeaway
+`<strong>`{=html}Key takeaway.`</strong>`{=html} Animation exhibits one
+of the largest differences between major and non-major films, while
+Mystery shows the largest difference in the opposite direction.
+:::
 
-Some genres show relatively small differences, while others show much larger differences in audience–critic gaps.
+```{=html}
+<figure>
+```
+`<img src="assets/genre_gap_comparison.png" alt="Average audience–critic gap by genre">`{=html}
+```{=html}
+<figcaption>
+```
+Average audience--critic gaps across genres.
+```{=html}
+</figcaption>
+```
+```{=html}
+</figure>
+```
+Some genres display very similar audience--critic patterns regardless of
+studio type, whereas others differ considerably, suggesting that genre
+influences the relationship.
 
-This suggests that genre characteristics may influence the level of disagreement between audiences and critics.
+```{=html}
+<figure>
+```
+`<img src="assets/genre_difference.png" alt="Difference in audience–critic gaps by genre">`{=html}
+```{=html}
+<figcaption>
+```
+Difference in average audience--critic gaps between major and non-major
+films.
+```{=html}
+</figcaption>
+```
+```{=html}
+</figure>
+```
+Animation shows one of the largest differences, with non-major films
+exhibiting a larger audience--critic gap. Mystery shows the largest
+difference in the opposite direction.
 
-![Audience critic gap by genre](asset/genre_gap_comparison.png)
+------------------------------------------------------------------------
 
----
+# So What Does This Mean?
 
-## 5. Animation and Mystery highlight strong genre-level differences
+Overall, the analysis provides **some evidence** that studio affiliation
+is associated with audience--critic disagreement. However, the effect is
+relatively modest and is not consistent across all genres. Rather than
+supporting a simple "major versus non-major" explanation, the results
+suggest that audience--critic disagreement is shaped by multiple
+factors, including genre and film-specific characteristics.
 
-Among the examined genres, Animation shows one of the largest differences between major and indie films, with indie films exhibiting a larger audience–critic gap.
-
-In contrast, Mystery shows a large difference in the opposite direction, where major studio films have a larger gap.
-
-These results suggest that the relationship between studio type and audience–critic disagreement may depend on genre rather than following one consistent pattern.
-
-![Genre differences in audience critic gap](asset/genre_difference.png)
-
----
-
-# Overall Interpretation
-
-The findings provide some indication that major studio affiliation may be associated with slightly different audience–critic rating patterns.
-
-However, the effect is relatively modest and varies across genres.
-
-Therefore, the results do not suggest a simple major-versus-indie divide. Instead, audience–critic disagreement appears to be influenced by multiple factors, including film genre and individual film characteristics.
-
----
+------------------------------------------------------------------------
 
 # Measuring the Data
 
-## Data Sources
+Two APIs were combined in this project.
 
-Two APIs were combined in this project:
+-   **TMDB** provided audience ratings, genres, production companies and
+    movie metadata.
+-   **OMDb** provided professional critic ratings (Metascore).
 
-- **TMDB API** was used to collect movie information, including production companies, genres, release dates, vote counts, and audience ratings.
-- **OMDb API** was used to collect critic-related information, including Metascore and IMDb ratings.
+The datasets were merged using IMDb IDs before feature engineering was
+performed to derive audience scores, critic scores, audience--critic
+gaps and genre classifications.
 
-The two datasets were merged using IMDb IDs as the unique identifier.
+------------------------------------------------------------------------
 
----
+# Limitations
 
-## Dataset Construction
+-   Metascore is treated as a professional reference rather than an
+    objective measure of film quality.
+-   The major/non-major classification simplifies a complex production
+    landscape.
+-   Some genres contain relatively small sample sizes.
+-   Minor inconsistencies exist between TMDB and OMDb release years.
 
-The data pipeline consisted of:
-
-1. Collecting major studio and indie film lists from TMDB.
-2. Fetching additional movie details from TMDB.
-3. Fetching critic information from OMDb using IMDb IDs.
-4. Cleaning and combining both datasets.
-5. Creating derived variables for analysis.
-
-The final dataset contains:
-
-- movie information
-- studio classification
-- audience score
-- critic score
-- audience–critic gap
-- genre categories
-
----
-
-## Studio Classification
-
-Major films were identified based on selected major production companies.
-
-All other films were classified as indie films.
-
-This provides a simplified comparison between films associated with major studios and films outside these major companies.
-
----
-
-## Data Limitations
-
-Several limitations should be considered:
-
-### Critic score as a quality reference
-
-Metascore represents professional reviews but does not represent an objective measurement of film quality.
-
-The analysis therefore measures differences between audience and critic evaluations rather than absolute film quality.
-
-### Audience score differences across platforms
-
-Audience ratings were estimated using available audience rating sources.
-
-Different platforms may attract different groups of users and may have different rating behaviours.
-
-### Studio classification
-
-The major/indie classification simplifies a complex industry structure.
-
-Some films involve subsidiaries, partnerships, or mixed financing arrangements that may not fit perfectly into either category.
-
-### Sample limitations
-
-Some genres contain fewer observations.
-
-Genres with insufficient sample sizes were removed to reduce instability, but results should still be interpreted carefully.
-
----
+------------------------------------------------------------------------
 
 # Future Directions
 
-Future research could improve this analysis by:
-
-## Improving studio classification
-
-A more detailed classification system could include parent companies, subsidiaries, and co-production relationships.
-
-Industry databases or publicly available film resources could be used to build a more comprehensive studio classification.
-
-## Adding additional explanatory variables
-
-Future analysis could include factors such as:
-
-- marketing expenditure
-- franchise status
-- cast popularity
-- social media engagement
-- distribution strategy
-
-These variables may help explain why some films produce larger audience–critic disagreements.
-
-## Expanding the dataset
-
-A larger dataset covering more films, years, and platforms could provide stronger evidence about whether studio reputation influences audience evaluation patterns.
-
-
-
-
-
-
+Future work could expand studio classifications using more comprehensive
+industry databases, incorporate additional explanatory variables such as
+marketing expenditure or franchise status, and analyse a larger
+collection of films across multiple rating platforms.
