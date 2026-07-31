@@ -15,9 +15,12 @@ title: Do Major Film Studios Benefit from a "Halo Effect"?
 }
 
 
+/* basic page */
+
 body{
   background:var(--background);
   color:var(--text);
+
   font-family:
   -apple-system,
   BlinkMacSystemFont,
@@ -31,10 +34,27 @@ body{
 }
 
 
-.wrapper{
-  max-width:720px;
+/* remove minimal theme sidebar */
+
+.sidebar{
+  display:none;
 }
 
+
+/* main content */
+
+.wrapper{
+  max-width:900px;
+  margin:auto;
+}
+
+
+section{
+  width:100%;
+}
+
+
+/* headings */
 
 h1,h2,h3{
   color:var(--heading);
@@ -47,40 +67,67 @@ h1{
 }
 
 
+/* links */
+
 a{
   color:var(--link);
 }
 
 
-img{
-  width:100%;
-  height:auto;
-  border-radius:10px;
-  border:1px solid var(--border);
-  margin-top:1em;
-}
-
+/* IMPORTANT: image settings */
 
 figure{
-  margin:2.5em 0;
+  width:100%;
+  margin:3em 0;
+  text-align:center;
 }
 
+
+figure img{
+
+  /* do not crop */
+  display:block;
+
+  /* keep original ratio */
+  width:100%;
+  height:auto;
+
+  /* prevent weird stretching */
+  object-fit:contain;
+
+  border-radius:10px;
+  border:1px solid var(--border);
+
+  margin:0 auto;
+}
+
+
+/* captions */
 
 figcaption{
+
   text-align:center;
+
   font-size:0.9em;
+
   color:#666;
+
   margin-top:0.8em;
+
 }
 
+
+/* takeaway boxes */
 
 .takeaway{
 
   background:var(--card);
+
   border-left:
   6px solid var(--highlight);
 
   padding:18px 20px;
+
   margin:2em 0;
 
   border-radius:6px;
@@ -88,41 +135,49 @@ figcaption{
 }
 
 
-.finding-label{
-
-  font-size:0.9em;
-  text-transform:uppercase;
-  letter-spacing:0.08em;
-  color:#666;
-
-}
-
+/* divider */
 
 hr{
 
-margin:3em 0;
-border:0;
-border-top:1px solid var(--border);
+  margin:3em 0;
+
+  border:0;
+
+  border-top:1px solid var(--border);
 
 }
 
+
+/* tables */
 
 table{
 
-width:100%;
+  width:100%;
 
 }
-.sidebar{
-    display:none;
-}
 
-.wrapper{
-    max-width:720px;
-    margin:auto;
-}
 
-section{
+/* mobile */
+
+@media(max-width:700px){
+
+  body{
+    font-size:16px;
+  }
+
+
+  .wrapper{
+    max-width:100%;
+  }
+
+
+  figure img{
+
     width:100%;
+    height:auto;
+
+  }
+
 }
 
 </style>
