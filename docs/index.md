@@ -2,6 +2,10 @@
 layout: default
 title: Do Major Film Studios Benefit from a "Halo Effect"?
 ---
+# ME204 Final Project
+
+- [Emily-glitch](./index.md)
+
 # Do Major Film Studios Benefit from a "Halo Effect"?
 
 
