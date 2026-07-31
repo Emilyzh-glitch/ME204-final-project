@@ -72,7 +72,7 @@ additional insight into how audiences and critics differ.
 
 <figure>
 
-<img src="asset/overall_gap_boxplot.png"
+<img src="asset/overall_gap_comparison.png"
 alt="Overall audience–critic gap by studio type">
 
 <figcaption>
@@ -249,37 +249,6 @@ films.
 </figcaption>
 
 </figure>
-
-
-
----
-
-
-## Finding 6
-
-## Studio type alone does not explain audience–critic disagreement
-
-
-The findings suggest that major studio affiliation is associated with
-some differences in audience–critic disagreement.
-
-However, the relationship is relatively modest and changes across
-genres.
-
-
-Instead of a simple major versus non-major explanation, disagreement
-between audiences and critics likely reflects multiple factors,
-including genre and film-specific characteristics.
-
-
-<div class="takeaway">
-
-<strong>Key finding.</strong>
-
-Studio type provides part of the explanation, but not the complete
-picture.
-
-</div>
 
 
 
