@@ -112,6 +112,18 @@ table{
 width:100%;
 
 }
+.sidebar{
+    display:none;
+}
+
+.wrapper{
+    max-width:720px;
+    margin:auto;
+}
+
+section{
+    width:100%;
+}
 
 </style>
 
@@ -186,7 +198,7 @@ additional insight into how audiences and critics differ.
 
 <figure>
 
-<img src="assets/overall_gap_boxplot.png"
+<img src="asset/overall_gap_boxplot.png"
 alt="Overall audience–critic gap by studio type">
 
 <figcaption>
@@ -224,7 +236,7 @@ audience–critic gaps.
 
 <figure>
 
-<img src="assets/gap_direction_boxplot.png"
+<img src="asset/gap_direction_boxplot.png"
 alt="Audience–critic gap separated by direction">
 
 <figcaption>
@@ -265,7 +277,7 @@ Non-major films show greater variation in audience–critic disagreement.
 
 <figure>
 
-<img src="assets/gap_distribution_major.png"
+<img src="asset/gap_distribution_major.png"
 alt="Distribution of audience–critic gaps for major studio films">
 
 <figcaption>
@@ -281,7 +293,7 @@ Distribution of audience–critic gaps for major studio films.
 
 <figure>
 
-<img src="assets/gap_distribution_indie.png"
+<img src="asset/gap_distribution_indie.png"
 alt="Distribution of audience–critic gaps for non-major studio films">
 
 <figcaption>
@@ -315,7 +327,7 @@ audience–critic disagreement.
 
 <figure>
 
-<img src="assets/genre_gap_comparison.png"
+<img src="asset/genre_gap_comparison.png"
 alt="Average audience–critic gap by genre">
 
 <figcaption>
@@ -354,7 +366,7 @@ The effect of studio type is not consistent across genres.
 
 <figure>
 
-<img src="assets/genre_difference.png"
+<img src="asset/genre_difference.png"
 alt="Difference in audience–critic gaps by genre">
 
 <figcaption>
