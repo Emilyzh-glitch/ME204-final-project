@@ -2,7 +2,6 @@
 layout: default
 title: Do Major Film Studios Benefit from a "Halo Effect"?
 ---
-
 <style>
 
 :root{
